@@ -1,0 +1,4745 @@
+uid,question,subject,props,query,tag,answers
+0,What can cause a tsunami?,Q8070,wdt:P828,"SELECT ?answer 
+WHERE {
+  wd:Q8070 wdt:P828 ?answer
+}",1-hop,"Q7944, Q60186, Q167903, Q2580904, Q5975740, Q7692360"
+1,"Who wrote the novel ""uncle Tom's Cabin""?",Q2222,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q2222 wdt:P50 ?answer
+}",1-hop,Q102513
+2,"Who is the author of the play ""Romeo and Juliet""?",Q83186,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q83186 wdt:P50 ?answer
+}",1-hop,Q692
+3,What is the name of the capital of Romania?,Q218,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q218 wdt:P36 ?answer
+}",1-hop,Q19660
+5,What instrument did Jimi Hendrix play?,Q5928,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q5928 wdt:P1303 ?answer
+}",1-hop,"Q6607, Q483994, Q626035, Q2643890, Q17172850"
+6,What country owns the island of Tahiti?,Q42000,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q42000 wdt:P17 ?answer
+}",1-hop,Q142
+8,Who created the Winter Palace in St. Petersburg?,Q182147,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q182147 wdt:P84 ?answer
+}",1-hop,Q299687
+9,"Who is the Director of the film ""diamond hand""?",Q1999930,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q1999930 wdt:P57 ?answer
+}",1-hop,Q312480
+10,Which country does the Canary Islands belong to?,Q5813,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q5813 wdt:P17 ?answer
+}",1-hop,Q29
+11,What geographical feature is called Limpopo?,Q173017,wdt:P31,"SELECT ?answer 
+WHERE {
+  wd:Q173017 wdt:P31 ?answer
+}",1-hop,Q4022
+12,What modern state occupies the territory where the ancient Assyrian city of Nineveh was located?,Q5680,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q5680 wdt:P17 ?answer
+}",1-hop,Q796
+13,What scale is used to measure the strength of earthquakes?,Q7944,wdt:P1880,"SELECT ?answer 
+WHERE {
+  wd:Q7944 wdt:P1880 ?answer
+}",1-hop,"Q38768, Q201605, Q1676638"
+15,In which country did the game of Golf first appear?,Q5377,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q5377 wdt:P495 ?answer
+}",1-hop,Q22
+16,What kind of sport was Russian President Vladimir Putin interested in?,Q7747,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q7747 wdt:P641 ?answer
+}",1-hop,"Q11420, Q106500"
+17,What was Severus Snape's father's name?,Q176772,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q176772 wdt:P22 ?answer
+}",1-hop,Q4808485
+18,What was Draco's son's name?,Q179641,wdt:P40,"SELECT ?answer 
+WHERE {
+  wd:Q179641 wdt:P40 ?answer
+}",1-hop,Q2838011
+19,What was Severus Snape's mother's name?,Q176772,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q176772 wdt:P25 ?answer
+}",1-hop,Q9299872
+20,What was the name of the Creator of the faculty of Ravenclaw (Ravenclaw)?,Q3187163,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q3187163 wdt:P112 ?answer
+}",1-hop,Q2674728
+23,Who is the author of the historical novel 'Princess Tarakanova'?,Q19175550,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q19175550 wdt:P50 ?answer
+}",1-hop,Q1968651
+24,"What color is the paint ""Indigo""?",Q422662,wdt:P462,"SELECT ?answer 
+WHERE {
+  wd:Q422662 wdt:P462 ?answer
+}",1-hop,Q1088
+26,What language does Rasul Gamzatov write poetry in?,Q36878,wdt:P6886,"SELECT ?answer 
+WHERE {
+  wd:Q36878 wdt:P6886 ?answer
+}",1-hop,"Q7737, Q29561"
+27,"What Strait did the ancient Greeks call the""pillars of Hercules""?",Q152854,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q152854 wdt:P276 ?answer
+}",1-hop,Q36124
+28,What country is the name of the BRILLIANT PORT associated with?,Q18871,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q18871 wdt:P17 ?answer
+}",1-hop,Q43
+29,"Who is the author of the music for the film ""Alexander Nevsky""?",Q118976,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q118976 wdt:P86 ?answer
+}",1-hop,Q49481
+30,What country do the Khmer people live in?,Q201028,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q201028 wdt:P17 ?answer
+}",1-hop,"Q424, Q869, Q881"
+32,What country is mount Everest located in?,Q513,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q513 wdt:P17 ?answer
+}",1-hop,"Q148, Q837"
+33,What country is the city of Semipalatinsk located in?,Q61944,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q61944 wdt:P17 ?answer
+}",1-hop,Q232
+36,What country does the kangaroo live in?,Q270098,wdt:P183,"SELECT ?answer 
+WHERE {
+  wd:Q270098 wdt:P183 ?answer
+}",1-hop,Q408
+37,In which U.S. state is the Grand Canyon located?,Q118841,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q118841 wdt:P131 ?answer
+}",1-hop,Q816
+39,In what sport was E. Kafelnikov famous?,Q207705,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q207705 wdt:P641 ?answer
+}",1-hop,"Q847, Q5377"
+42,In which state is the city of St. Petersburg located?,Q49236,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q49236 wdt:P17 ?answer
+}",1-hop,Q30
+43,"In which Polish city was the birthplace of the ""Solidarity""movement?",Q1003,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q1003 wdt:P159 ?answer
+}",1-hop,Q1792
+44,"In which novel by Francois Rabelais, the main character was accompanied by a character named Panurge?",Q3362539,wdt:P1441,"SELECT ?answer 
+WHERE {
+  wd:Q3362539 wdt:P1441 ?answer
+}",1-hop,Q822290
+45,In which state of the United States is the longest cave in the world (530 km) with the funny name flint-mammoth?,Q2666855,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q2666855 wdt:P131 ?answer
+}",1-hop,Q1603
+46,Where does the novel Les Miserables by Victor Hugo take place?,Q180736,wdt:P840,"SELECT ?answer 
+WHERE {
+  wd:Q180736 wdt:P840 ?answer
+}",1-hop,"Q181306, Q213344, Q237367, Q1326237"
+48,From what breed of fish was the aquarium goldfish bred in ancient China?,Q123141,wdt:P171,"SELECT ?answer 
+WHERE {
+  wd:Q123141 wdt:P171 ?answer
+}",1-hop,Q237800
+49,What dynasty did Richard the Lionheart belong to?,Q42305,wdt:P53,"SELECT ?answer 
+WHERE {
+  wd:Q42305 wdt:P53 ?answer
+}",1-hop,Q106151
+50,What was the name of Alexander the great's horse?,Q8409,wdt:P3091,"SELECT ?answer 
+WHERE {
+  wd:Q8409 wdt:P3091 ?answer
+}",1-hop,Q201598
+51,What was the name of Alexander the great's mother?,Q8409,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q8409 wdt:P25 ?answer
+}",1-hop,Q223134
+52,How else is Christmas eve called?,Q19809,wdt:P155,"SELECT ?answer 
+WHERE {
+  wd:Q19809 wdt:P155 ?answer
+}",1-hop,Q106010
+53,What is the name of the administrative center of the state of Alaska?,Q797,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q797 wdt:P36 ?answer
+}",1-hop,Q29445
+54,What is the title of Karl Marx's main work?,Q9061,wdt:P800,"SELECT ?answer 
+WHERE {
+  wd:Q9061 wdt:P800 ?answer
+}",1-hop,"Q40591, Q58784, Q295347, Q470600"
+55,What is the name of the capital of Cambodia?,Q424,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q424 wdt:P36 ?answer
+}",1-hop,Q1850
+58,What is the name of money in Honduras?,Q783,wdt:P38,"SELECT ?answer 
+WHERE {
+  wd:Q783 wdt:P38 ?answer
+}",1-hop,Q4719
+59,"What harmless creature has the strange name ""Deadhead""?",Q312009,wdt:P171,"SELECT ?answer 
+WHERE {
+  wd:Q312009 wdt:P171 ?answer
+}",1-hop,Q157683
+60,What city on the black sea coast was called Kafa?,Q4135566,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q4135566 wdt:P131 ?answer
+}",1-hop,Q158491
+61,Which city is located on the southern shore of the Golden Gate Strait?,Q220032,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q220032 wdt:P131 ?answer
+}",1-hop,Q62
+62,Which city is the administrative center of the state of new York?,Q1384,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1384 wdt:P36 ?answer
+}",1-hop,Q24861
+63,Which city is the capital of Nigeria?,Q1033,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1033 wdt:P36 ?answer
+}",1-hop,Q3787
+66,What musical instrument made Louis Armstrong's name famous?,Q1779,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q1779 wdt:P1303 ?answer
+}",1-hop,"Q8338, Q202027, Q17172850"
+67,Which country does KLM belong to?,Q181912,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q181912 wdt:P17 ?answer
+}",1-hop,Q55
+69,"What Museum is the ""Mona Lisa"" by the great Leonardo?",Q12418,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q12418 wdt:P276 ?answer
+}",1-hop,Q19675
+70,"What path did the Frenchman Michel de Montaigne choose in the fifth decade, after having had a good fight on the side of Henry IV, what did he become?",Q41568,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q41568 wdt:P106 ?answer
+}",1-hop,"Q36180, Q82955, Q185351, Q333634, Q1209498, Q1297719, Q4964182, Q11774202, Q18814623"
+71,"What country did the Romans call ""Caledonia""?",Q1048625,wdt:P1382,"SELECT ?answer 
+WHERE {
+  wd:Q1048625 wdt:P1382 ?answer
+}",1-hop,Q22
+72,"To whom do the words ""and you, Brutus"" belong?",Q617371,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q617371 wdt:P50 ?answer
+}",1-hop,Q1048
+73,"To whom do the words ""I think, therefore I exist"" belong?",Q192325,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q192325 wdt:P50 ?answer
+}",1-hop,Q9191
+75,"Who is the author of the work ""women Scientists""?",Q1218375,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q1218375 wdt:P50 ?answer
+}",1-hop,Q687
+77,"Who is the author of the novel ""Spartacus""?",Q4430718,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4430718 wdt:P50 ?answer
+}",1-hop,Q1860923
+78,Who laid the foundations of Cybernetics?,Q123637,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q123637 wdt:P61 ?answer
+}",1-hop,Q178577
+79,"Who wrote the story-tale ""the adventures of Pinocchio""?",Q8065468,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q8065468 wdt:P50 ?answer
+}",1-hop,Q199588
+80,"Who wrote the poem ""Paradise Lost""?",Q28754,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q28754 wdt:P50 ?answer
+}",1-hop,Q79759
+81,"Who wrote the poem ""the Black man""?",Q4518933,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4518933 wdt:P50 ?answer
+}",1-hop,Q31628
+83,"Who wrote the fairy tale ""Dwarf Nose""?",Q8109325,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q8109325 wdt:P50 ?answer
+}",1-hop,Q57966
+85,"Who sailed on the papyrus boat "" RA ""and on the raft ""Kon-Tiki""?",Q3203414,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q3203414 wdt:P50 ?answer
+}",1-hop,Q133622
+86,Who came up with Alice Seleznev?,Q4062421,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q4062421 wdt:P170 ?answer
+}",1-hop,Q360292
+87,Who invented the Commissioner Maigret.,Q830561,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q830561 wdt:P170 ?answer
+}",1-hop,Q128790
+88,Who invented the character named Anastasia Kamenskaya?,Q4064914,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q4064914 wdt:P170 ?answer
+}",1-hop,Q236233
+91,"Who composed ""sabre Dance""?",Q1442972,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q1442972 wdt:P86 ?answer
+}",1-hop,Q152293
+93,Which music group was Fred mercury the leader of?,Q15869,wdt:P361,"SELECT ?answer 
+WHERE {
+  wd:Q15869 wdt:P361 ?answer
+}",1-hop,Q15862
+94,What planet was Luke Skywalker born on?,Q51746,wdt:P1165,"SELECT ?answer 
+WHERE {
+  wd:Q51746 wdt:P1165 ?answer
+}",1-hop,Q723764
+95,What is the capital of the Republic is Tegucigalpa?,Q3238,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q3238 wdt:P17 ?answer
+}",1-hop,Q783
+97,Which architect built St. Isaac's Cathedral in St. Petersburg?,Q215423,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q215423 wdt:P84 ?answer
+}",1-hop,Q767288
+98,Which Russian poet was the husband of the famous dancer Isadora Duncan?,Q483512,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q483512 wdt:P26 ?answer
+}",1-hop,Q31628
+99,"The country to which the ""Church"" wine owes its origin is Cahors",Q1025792,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q1025792 wdt:P495 ?answer
+}",1-hop,Q142
+100,Which building in Hanoi was dubbed the Hanoi Hilton by American soldiers?,Q1359941,wdt:P31,"SELECT ?answer 
+WHERE {
+  wd:Q1359941 wdt:P31 ?answer
+}",1-hop,Q40357
+102,"Who said ""and you, Brutus""?",Q617371,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q617371 wdt:P50 ?answer
+}",1-hop,Q1048
+103,What country is the city of Bryansk located in?,Q2801,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q2801 wdt:P17 ?answer
+}",1-hop,Q159
+105,In which theater did Vladimir Vysotsky perform?,Q512,wdt:P108,"SELECT ?answer 
+WHERE {
+  wd:Q512 wdt:P108 ?answer
+}",1-hop,"Q2064699, Q4304132"
+106,Where is Uttar Pradesh located,Q1498,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q1498 wdt:P131 ?answer
+}",1-hop,Q668
+110,"What was the name of father Romulus, after whom the Romans even altered their calendar?",Q2186,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q2186 wdt:P22 ?answer
+}",1-hop,Q112
+111,What is the name of the city in the United States where the world-famous Harvard University is located?,Q13371,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q13371 wdt:P159 ?answer
+}",1-hop,Q49111
+112,What is stamp collecting called?,Q856075,wdt:P460,"SELECT ?answer 
+WHERE {
+  wd:Q856075 wdt:P460 ?answer
+}",1-hop,Q131026
+114,"What single combat brought the Hollywood star Jean-Claude van Damme the nickname "" muscles from Brussels""",Q308840,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q308840 wdt:P641 ?answer
+}",1-hop,Q11419
+117,Which hero served as the prototype for A. Tolstoy to create the image of Pinocchio?,Q1810078,wdt:P941,"SELECT ?answer 
+WHERE {
+  wd:Q1810078 wdt:P941 ?answer
+}",1-hop,Q6502703
+119,What artist made the zaporozhtzi write a letter to the Turkish Sultan?,Q478271,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q478271 wdt:P170 ?answer
+}",1-hop,Q172911
+120,Which party is headed by Zhirinovsky (abbrev.)?,Q200015,wdt:P102,"SELECT ?answer 
+WHERE {
+  wd:Q200015 wdt:P102 ?answer
+}",1-hop,Q212115
+124,What Chinese dynasty was founded by Xiao Yan,Q736726,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q736726 wdt:P27 ?answer
+}",1-hop,Q1069868
+126,What happens if you transform napoleonder,Q733369,wdt:P186,"SELECT ?answer 
+WHERE {
+  wd:Q733369 wdt:P186 ?answer
+}",1-hop,Q897
+128,What country is Bangkok?,Q1861,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q1861 wdt:P17 ?answer
+}",1-hop,Q869
+130,Where is mount Athos-the Holy mountain?,Q130321,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q130321 wdt:P17 ?answer
+}",1-hop,Q41
+134,What fate awaited Hitler?,Q352,wdt:P1196,"SELECT ?answer 
+WHERE {
+  wd:Q352 wdt:P1196 ?answer
+}",1-hop,Q10737
+135,Where does the Ussuri river flow?,Q207777,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q207777 wdt:P403 ?answer
+}",1-hop,Q6862
+137,Which river flows into the Dead sea?,Q23883,wdt:P200,"SELECT ?answer 
+WHERE {
+  wd:Q23883 wdt:P200 ?answer
+}",1-hop,Q40059
+139,What river is the city of Baghdad on?,Q1530,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q1530 wdt:P206 ?answer
+}",1-hop,Q35591
+140,What day is Valentine's day celebrated?,Q37587,wdt:P837,"SELECT ?answer 
+WHERE {
+  wd:Q37587 wdt:P837 ?answer
+}",1-hop,Q2332
+141,"In what land of Germany is the ancient city of Weimar, where the museums of Goethe, Schiller And Liszt are located?",Q3955,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q3955 wdt:P131 ?answer
+}",1-hop,Q1205
+142,What is the name of the monetary unit of Aomin (Macao)?,Q14773,wdt:P38,"SELECT ?answer 
+WHERE {
+  wd:Q14773 wdt:P38 ?answer
+}",1-hop,"Q31015, Q241214"
+143,What city was Ludwig van Beethoven born in?,Q255,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q255 wdt:P19 ?answer
+}",1-hop,Q586
+144,Where was the great Russian self-taught inventor Ivan Petrovich Kulibin from?,Q982211,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q982211 wdt:P19 ?answer
+}",1-hop,Q891
+146,What illness did Beethoven develop in the last years of his life?,Q255,wdt:P1050,"SELECT ?answer 
+WHERE {
+  wd:Q255 wdt:P1050 ?answer
+}",1-hop,"Q1472, Q12133, Q35869, Q41083, Q110315, Q131742, Q147778, Q193894, Q653078, Q2025687, Q2035074, Q3144986"
+147,"Who are ""porpoises""?",Q10867,wdt:P171,"SELECT ?answer 
+WHERE {
+  wd:Q10867 wdt:P171 ?answer
+}",1-hop,Q144144
+148,What science fiction writer came up with the three laws of robotics?,Q23758,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q23758 wdt:P50 ?answer
+}",1-hop,Q34981
+149,What sport glorified the name of Sergey Bubka?,Q184556,wdt:P2416,"SELECT ?answer 
+WHERE {
+  wd:Q184556 wdt:P2416 ?answer
+}",1-hop,Q185027
+150,What musical instrument glorified Vera Dulova?,Q754361,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q754361 wdt:P1303 ?answer
+}",1-hop,Q47369
+151,"Which country belongs to the island of Madeira, which gave the name to the strong wine of Madeira?",Q30188,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q30188 wdt:P17 ?answer
+}",1-hop,Q45
+152,What an animal (and only it!) produces the ambergris?,Q188774,wdt:P1582,"SELECT ?answer 
+WHERE {
+  wd:Q188774 wdt:P1582 ?answer
+}",1-hop,Q81214
+153,Where is the Rockefeller Plateau?,Q370807,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q370807 wdt:P30 ?answer
+}",1-hop,Q51
+155,"Who was the famous Greek Aristotle, who lived in the IV century BC?",Q868,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q868 wdt:P106 ?answer
+}",1-hop,Q4964182
+157,"Who is the author of the lines: ""White sail lonely...""?",Q15723090,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q15723090 wdt:P50 ?answer
+}",1-hop,Q46599
+160,Which city is the capital of the Republic of Buryatia?,Q6809,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q6809 wdt:P36 ?answer
+}",1-hop,Q6816
+161,Where is the Iberian Peninsula located?,Q12837,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q12837 wdt:P30 ?answer
+}",1-hop,Q46
+162,Where is the Plesetsk cosmodrome located?,Q15778,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q15778 wdt:P276 ?answer
+}",1-hop,Q1875
+163,Which city is the capital of Chuvashia?,Q5466,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q5466 wdt:P36 ?answer
+}",1-hop,Q5470
+165,What was Munchausen's title?,Q77066,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q77066 wdt:P97 ?answer
+}",1-hop,Q165503
+166,What science studies the atmosphere and its composition?,Q3230,wdt:P2579,"SELECT ?answer 
+WHERE {
+  wd:Q3230 wdt:P2579 ?answer
+}",1-hop,"Q25261, Q46255"
+167,What metal is necessarily present in the amalgam?,Q182574,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q182574 wdt:P527 ?answer
+}",1-hop,Q925
+168,The country in which the population was horrified by the TONTON-makuty?,Q923766,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q923766 wdt:P17 ?answer
+}",1-hop,Q790
+169,What was the name of the capital of the Aztec state?,Q2608489,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q2608489 wdt:P36 ?answer
+}",1-hop,Q13695
+170,In which city is the airport named after John Lennon,Q8727,wdt:P931,"SELECT ?answer 
+WHERE {
+  wd:Q8727 wdt:P931 ?answer
+}",1-hop,Q24826
+171,Who is credited with discovering the path of human evolution?,Q1063,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q1063 wdt:P61 ?answer
+}",1-hop,"Q1035, Q82122"
+172,Which of the characters in Tolstoy's novel War and peace is Natasha Rostova's husband?,Q2568764,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q2568764 wdt:P26 ?answer
+}",1-hop,Q2568844
+174,Who created the site in Contact?,Q116933,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q116933 wdt:P170 ?answer
+}",1-hop,Q149067
+175,In which track and field discipline was Bob Beamon's 1968 Olympic record broken only in 1991,Q52604,wdt:P2416,"SELECT ?answer 
+WHERE {
+  wd:Q52604 wdt:P2416 ?answer
+}",1-hop,Q170737
+178,What river is the city of Saratov on?,Q5332,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q5332 wdt:P206 ?answer
+}",1-hop,Q626
+179,In what field of science did Sofia Kovalevskaya's outstanding abilities manifest themselves?,Q184535,wdt:P101,"SELECT ?answer 
+WHERE {
+  wd:Q184535 wdt:P101 ?answer
+}",1-hop,"Q395, Q7754, Q41217, Q149999, Q56114489"
+180,"Who wrote the text of the Russian anthem ""God save the Tsar""?",Q478470,wdt:P676,"SELECT ?answer 
+WHERE {
+  wd:Q478470 wdt:P676 ?answer
+}",1-hop,Q157623
+181,Which country does the Shantar Islands belong to?,Q338279,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q338279 wdt:P17 ?answer
+}",1-hop,Q159
+182,Which of the great Renaissance artists painted the Sistine chapel of the Vatican?,Q844675,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q844675 wdt:P170 ?answer
+}",1-hop,Q5592
+184,What river is Tver on?,Q2288,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q2288 wdt:P206 ?answer
+}",1-hop,Q626
+185,What is the official language of Ethiopia?,Q115,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q115 wdt:P37 ?answer
+}",1-hop,Q28244
+187,Which city is the administrative center (capital) of the state of Texas?,Q1439,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1439 wdt:P36 ?answer
+}",1-hop,Q16559
+188,Who killed Pyotr Stolypin?,Q138487,wdt:P157,"SELECT ?answer 
+WHERE {
+  wd:Q138487 wdt:P157 ?answer
+}",1-hop,Q944527
+189,"One of the fighters for civil rights belongs to the phrase ""I Have a dream...""?",Q192341,wdt:P823,"SELECT ?answer 
+WHERE {
+  wd:Q192341 wdt:P823 ?answer
+}",1-hop,Q8027
+191,Which city is the capital of the Swiss Confederation?,Q39,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q39 wdt:P36 ?answer
+}",1-hop,Q70
+192,In which constellation is the brightest star called VEGA?,Q3427,wdt:P59,"SELECT ?answer 
+WHERE {
+  wd:Q3427 wdt:P59 ?answer
+}",1-hop,Q10484
+193,Who won the Miss World pageant in 1994?,Q2635649,wdt:P1346,"SELECT ?answer 
+WHERE {
+  wd:Q2635649 wdt:P1346 ?answer
+}",1-hop,Q47059
+195,In what city did the collaborationist Petain government settle during the occupation of France by German troops?,Q5721,wdt:P937,"SELECT ?answer 
+WHERE {
+  wd:Q5721 wdt:P937 ?answer
+}",1-hop,Q93351
+196,"Who created the Leicester code, a notebook of scientific papers that bill gates purchased for $ 30 million?",Q683814,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q683814 wdt:P50 ?answer
+}",1-hop,Q762
+197,What type of ship was the Korean that fought bravely with the Varangian against the Japanese squadron?,Q1784376,wdt:P31,"SELECT ?answer 
+WHERE {
+  wd:Q1784376 wdt:P31 ?answer
+}",1-hop,Q214196
+198,What are the names of Armenian banknotes?,Q399,wdt:P38,"SELECT ?answer 
+WHERE {
+  wd:Q399 wdt:P38 ?answer
+}",1-hop,Q130498
+199,What unit in the SI system is named after the inventor Nikola Tesla?,Q163343,wdt:P111,"SELECT ?answer 
+WHERE {
+  wd:Q163343 wdt:P111 ?answer
+}",1-hop,Q30204
+200,"Who wrote the fairy tale ""the Sleeping Princess""?",Q19221647,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q19221647 wdt:P50 ?answer
+}",1-hop,Q157623
+201,What country is the city of Antwerp located in?,Q12892,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q12892 wdt:P17 ?answer
+}",1-hop,Q31
+202,In which country did Sirimavo Bandaranaike become the first female Prime Minister in 1960?,Q194291,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q194291 wdt:P27 ?answer
+}",1-hop,Q854
+204,In what city was born the famous actress Faina Ranevskaya?,Q470466,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q470466 wdt:P19 ?answer
+}",1-hop,Q170513
+205,In what city was the prophet Muhammad (Mohammed) born?,Q9458,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q9458 wdt:P19 ?answer
+}",1-hop,Q5806
+206,What style did the architect Rastrelli work in?,Q299687,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q299687 wdt:P135 ?answer
+}",1-hop,Q37853
+208,What was the name of don Quixote's horse?,Q944201,wdt:P3091,"SELECT ?answer 
+WHERE {
+  wd:Q944201 wdt:P3091 ?answer
+}",1-hop,Q1918252
+210,Where does the Royal house of Bernadotte rule?,Q201625,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q201625 wdt:P17 ?answer
+}",1-hop,Q34
+212,On which river is the famous Victoria falls located?,Q43278,wdt:P361,"SELECT ?answer 
+WHERE {
+  wd:Q43278 wdt:P361 ?answer
+}",1-hop,Q43106
+213,In what region of Russia is the ancient city of Sarapul located?,Q193505,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q193505 wdt:P131 ?answer
+}",1-hop,Q5422
+214,Which city is the capital of the state of Alaska?,Q797,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q797 wdt:P36 ?answer
+}",1-hop,Q29445
+216,In some of the countries there are the resorts Sunny Day and Sunny Beach?,Q1011039,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q1011039 wdt:P17 ?answer
+}",1-hop,Q219
+217,"Which country's son was Edmund Hillary, the first to conquer Everest with Sherpa N. Tenzing?",Q33817,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q33817 wdt:P27 ?answer
+}",1-hop,Q664
+218,What island is the Fujiyama volcano located on?,Q39231,wdt:P706,"SELECT ?answer 
+WHERE {
+  wd:Q39231 wdt:P706 ?answer
+}",1-hop,Q13989
+219,What is the playing role of the football player Igor Akinfeev?,Q203002,wdt:P413,"SELECT ?answer 
+WHERE {
+  wd:Q203002 wdt:P413 ?answer
+}",1-hop,Q201330
+220,"In which city the action is the story of Mark TWAIN's ""the Prince and the pauper""?",Q2628907,wdt:P840,"SELECT ?answer 
+WHERE {
+  wd:Q2628907 wdt:P840 ?answer
+}",1-hop,Q84
+223,In which city is the Prado Museum located?,Q160112,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q160112 wdt:P131 ?answer
+}",1-hop,Q2807
+225,Where is Tantalum cave?,Q620269,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q620269 wdt:P17 ?answer
+}",1-hop,Q40
+226,"Which band recorded the musical album ""Actress Spring""?",Q3648594,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q3648594 wdt:P175 ?answer
+}",1-hop,Q949424
+227,Who was formulated the law that for every action there is an equal and opposite reaction?,Q38433,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q38433 wdt:P61 ?answer
+}",1-hop,Q935
+229,"Which composer wrote the first Soviet rock Opera ""Orpheus and Eurydice""?",Q4337231,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q4337231 wdt:P86 ?answer
+}",1-hop,Q4181867
+231,What was the name of Rembrandt's wife?,Q5598,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q5598 wdt:P26 ?answer
+}",1-hop,Q109676
+232,"Which artist was criticized by French high society for the scandalous ""Portrait of Madame X""?",Q2664039,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q2664039 wdt:P170 ?answer
+}",1-hop,Q155626
+233,In what theater does O. Basilashvili play?,Q2622206,wdt:P108,"SELECT ?answer 
+WHERE {
+  wd:Q2622206 wdt:P108 ?answer
+}",1-hop,Q1981162
+234,In what sea is the Yamal Peninsula located?,Q488266,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q488266 wdt:P206 ?answer
+}",1-hop,Q33629
+237,"Who wrote the music for the song ""Moscow nights""?",Q62272,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q62272 wdt:P86 ?answer
+}",1-hop,Q739362
+238,"Russian Russian seasons, which made Russian ballet famous at the beginning of the XX century, were organized by who?",Q214423,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q214423 wdt:P112 ?answer
+}",1-hop,"Q211513, Q214666, Q319861"
+240,What country does the island of Elba belong to-the place of Napoleon's exile?,Q45328,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q45328 wdt:P17 ?answer
+}",1-hop,Q38
+241,What country is Banff national Park located in?,Q41858,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q41858 wdt:P17 ?answer
+}",1-hop,Q16
+244,Who was Ivan the terrible's mother?,Q7996,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q7996 wdt:P25 ?answer
+}",1-hop,Q240150
+245,"What is the genre of Pushkin's ""captain's daughter""?",Q144569,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q144569 wdt:P136 ?answer
+}",1-hop,"Q192239, Q12799318"
+246,What kind of sport was the famous tenor Zurab Sotkilava professionally engaged in?,Q3652339,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q3652339 wdt:P641 ?answer
+}",1-hop,Q2736
+248,"What city did the architect Oscar Niemeyer build ""from scratch""?",Q134165,wdt:P937,"SELECT ?answer 
+WHERE {
+  wd:Q134165 wdt:P937 ?answer
+}",1-hop,Q2844
+249,"Which country belongs to the Bocas del Toro archipelago, where the last hero is being filmed?",Q2632038,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q2632038 wdt:P17 ?answer
+}",1-hop,Q804
+250,Which mountain is the highest point of the Caucasus?,Q5477,wdt:P610,"SELECT ?answer 
+WHERE {
+  wd:Q5477 wdt:P610 ?answer
+}",1-hop,Q43105
+252,"Who is the author of the musical fantasy ""animal Carnival""?",Q941724,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q941724 wdt:P86 ?answer
+}",1-hop,Q150445
+253,In which country has the leftist terrorist organization Sendero Luminoso been rampaging for many years?,Q207854,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q207854 wdt:P17 ?answer
+}",1-hop,Q419
+254,In which country does the Orange river flow?,Q181475,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q181475 wdt:P17 ?answer
+}",1-hop,"Q258, Q1013, Q1030"
+257,"Which singer married the captain of the football team ""Zenit"" Vladislav Radimov?",Q2286919,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q2286919 wdt:P26 ?answer
+}",1-hop,Q467118
+259,In what country is the temple complex Angkorwat?,Q43473,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q43473 wdt:P17 ?answer
+}",1-hop,Q424
+263,Which country does the .co top-level domain belong to?,Q39657,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q39657 wdt:P17 ?answer
+}",1-hop,Q739
+264,Who is the author of the Chevalier de Saint-Hermine?,Q4521904,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4521904 wdt:P50 ?answer
+}",1-hop,Q38337
+265,In which Italian city is the Uffizi art gallery located?,Q51252,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q51252 wdt:P276 ?answer
+}",1-hop,Q2044
+266,"Who was James bond by profession, whose name was given to the hero of a series of books by Ian Lancaster Fleming?",Q241031,wdt:P101,"SELECT ?answer 
+WHERE {
+  wd:Q241031 wdt:P101 ?answer
+}",1-hop,Q44703
+268,"In which Museum of the world is Vincent van Gogh's painting ""Red vineyards in Arles""?",Q1926628,wdt:P195,"SELECT ?answer 
+WHERE {
+  wd:Q1926628 wdt:P195 ?answer
+}",1-hop,Q4872
+269,"What country was the discoverer of penicillin, Alexander Fleming, a citizen of?",Q37064,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q37064 wdt:P27 ?answer
+}",1-hop,Q145
+271,"Who of the domestic Directors who made films based on the novels of A. Dumas, put the film ""Prisoner of the castle If""?",Q4469881,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q4469881 wdt:P57 ?answer
+}",1-hop,Q4534523
+272,Who wrote the Opera Eugene Onegin?,Q50956,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q50956 wdt:P86 ?answer
+}",1-hop,Q7315
+273,Which city is the center of the Ural Federal district?,Q41964,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q41964 wdt:P36 ?answer
+}",1-hop,Q887
+274,Which city is the capital of Australia?,Q408,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q408 wdt:P36 ?answer
+}",1-hop,Q3114
+275,Where is one of the best preserved fossil formations of the Berges-shale?,Q852085,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q852085 wdt:P17 ?answer
+}",1-hop,Q16
+276,"Which country's cinematographers made the famous TV series ""Bet more than life""?",Q961,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q961 wdt:P495 ?answer
+}",1-hop,"Q36, Q211274"
+278,"Who invented the phonograph, a device for recording and reproducing voice?",Q116434,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q116434 wdt:P61 ?answer
+}",1-hop,Q8743
+282,Which of the cosmonauts participated in the joint Soyuz - Apollo flight with the United States?,Q208759,wdt:P1029,"SELECT ?answer 
+WHERE {
+  wd:Q208759 wdt:P1029 ?answer
+}",1-hop,"Q154269, Q316417, Q336810, Q432752, Q463833"
+283,Who was the famous physicist Niels Bohr in his football role?,Q7085,wdt:P413,"SELECT ?answer 
+WHERE {
+  wd:Q7085 wdt:P413 ?answer
+}",1-hop,Q201330
+284,What river flows through the Grand Canyon in the United States?,Q118841,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q118841 wdt:P206 ?answer
+}",1-hop,Q1265
+285,Which team was the last champion of the USSR on football?,Q2560523,wdt:P1346,"SELECT ?answer 
+WHERE {
+  wd:Q2560523 wdt:P1346 ?answer
+}",1-hop,Q176371
+288,Which city is the capital of Kiribati?,Q710,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q710 wdt:P36 ?answer
+}",1-hop,Q131233
+290,Which stadium hosted the 1966 FIFA world Cup final?,Q1065912,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q1065912 wdt:P276 ?answer
+}",1-hop,Q43279
+291,Which city is the capital of Swaziland?,Q1050,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1050 wdt:P36 ?answer
+}",1-hop,"Q3904, Q101418"
+292,What religion do the Crimean believers belong to?,Q1140111,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q1140111 wdt:P140 ?answer
+}",1-hop,Q9268
+293,In what country is mount Kosciuszko located?,Q178167,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q178167 wdt:P17 ?answer
+}",1-hop,Q408
+294,In which country was the FLAMENCO dance born?,Q9764,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q9764 wdt:P495 ?answer
+}",1-hop,Q29
+296,Which theater has been run by Yuri Solomin since 1988?,Q2623285,wdt:P108,"SELECT ?answer 
+WHERE {
+  wd:Q2623285 wdt:P108 ?answer
+}",1-hop,Q1369676
+297,What physical quantity is measured in Newtons per meter?,Q215571,wdt:P111,"SELECT ?answer 
+WHERE {
+  wd:Q215571 wdt:P111 ?answer
+}",1-hop,"Q48103, Q857244, Q17232562"
+298,Where are the Carlsbad caves?,Q273195,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q273195 wdt:P17 ?answer
+}",1-hop,Q30
+299,Where can I walk in Patagonia?,Q1507,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q1507 wdt:P131 ?answer
+}",1-hop,"Q298, Q414"
+300,"Who in England are called ""blue-collar workers""?",Q1191714,wdt:P361,"SELECT ?answer 
+WHERE {
+  wd:Q1191714 wdt:P361 ?answer
+}",1-hop,Q191159
+301,"Who coined the term ""Oedipus complex""?",Q131246,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q131246 wdt:P61 ?answer
+}",1-hop,Q9215
+302,"In which country is the famous monument to the ""Warrior-liberator""?",Q48441,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q48441 wdt:P17 ?answer
+}",1-hop,Q183
+303,Which country owns the top-level domain .nz?,Q42019,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q42019 wdt:P17 ?answer
+}",1-hop,Q664
+305,Where is mount Etna?,Q16990,wdt:P706,"SELECT ?answer 
+WHERE {
+  wd:Q16990 wdt:P706 ?answer
+}",1-hop,Q1460
+307,What country is Mecca located in?,Q5806,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q5806 wdt:P17 ?answer
+}",1-hop,Q851
+308,"Who wrote the novel ""To the lighthouse""?",Q478016,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q478016 wdt:P50 ?answer
+}",1-hop,Q40909
+309,Where he was born Dmitri Dmitrievich Shostakovich?,Q80135,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q80135 wdt:P19 ?answer
+}",1-hop,Q656
+312,What was the name of the mythological Minotaur's mother?,Q129866,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q129866 wdt:P25 ?answer
+}",1-hop,Q203236
+313,Which Roman goddess corresponds to the Greek Persephone?,Q45967,wdt:P460,"SELECT ?answer 
+WHERE {
+  wd:Q45967 wdt:P460 ?answer
+}",1-hop,Q14515330
+314,What city is the Alhambra located in?,Q47476,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q47476 wdt:P131 ?answer
+}",1-hop,Q8810
+315,What city is the Taj Mahal located in?,Q9141,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q9141 wdt:P276 ?answer
+}",1-hop,Q42941
+316,What city is the Acropolis located in?,Q3565096,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q3565096 wdt:P159 ?answer
+}",1-hop,Q1524
+317,Which car company owns the Plymouth brand?,Q1124857,wdt:P127,"SELECT ?answer 
+WHERE {
+  wd:Q1124857 wdt:P127 ?answer
+}",1-hop,Q181114
+318,Which city is the capital of the Nagorno-Karabakh Republic?,Q244165,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q244165 wdt:P36 ?answer
+}",1-hop,Q129352
+319,Which country owns the top-level .mo domain?,Q43539,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q43539 wdt:P131 ?answer
+}",1-hop,Q14773
+320,What city does the UN international court of justice reside in?,Q7801,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q7801 wdt:P159 ?answer
+}",1-hop,Q36600
+321,Who was the national leader of Yugoslavia Josip Broz Tito?,Q9161,wdt:P172,"SELECT ?answer 
+WHERE {
+  wd:Q9161 wdt:P172 ?answer
+}",1-hop,Q167420
+322,"Which Shakespeare play formed the basis of the plot of the musical ""West side story""?",Q669010,wdt:P144,"SELECT ?answer 
+WHERE {
+  wd:Q669010 wdt:P144 ?answer
+}",1-hop,Q83186
+323,"Who painted the picture ""Garden of earthly pleasures""?",Q321303,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q321303 wdt:P170 ?answer
+}",1-hop,Q130531
+325,Who became the husband of Helen of Troy?,Q164061,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q164061 wdt:P26 ?answer
+}",1-hop,"Q167646, Q171839, Q736813"
+328,Where is the city of Ust-Ilimsk?,Q27551738,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q27551738 wdt:P131 ?answer
+}",1-hop,Q6585
+329,In which country did the Sandinistas rule at one time?,Q27389,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q27389 wdt:P17 ?answer
+}",1-hop,Q811
+332,"Who told about his first work in the story ""Notes on cuffs""?",Q4186681,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4186681 wdt:P50 ?answer
+}",1-hop,Q835
+333,Which country does the Azores belong to?,Q25263,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q25263 wdt:P17 ?answer
+}",1-hop,Q45
+336,Which country is Tasmania part of?,Q3593416,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q3593416 wdt:P17 ?answer
+}",1-hop,Q408
+337,"Who wrote the short story ""the Mayor""?",Q3226739,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q3226739 wdt:P50 ?answer
+}",1-hop,Q42831
+338,Who wrote the Leicester code that Bill gates bought for more than $ 30 million in 1994?,Q683814,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q683814 wdt:P50 ?answer
+}",1-hop,Q762
+340,Which city is the capital of Northern Ireland?,Q26,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q26 wdt:P36 ?answer
+}",1-hop,Q10686
+341,What is the name of the capital of Kampuchea?,Q330988,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q330988 wdt:P36 ?answer
+}",1-hop,Q1850
+342,Where is the metatarsal located in the human body?,Q320524,wdt:P927,"SELECT ?answer 
+WHERE {
+  wd:Q320524 wdt:P927 ?answer
+}",1-hop,Q15807
+345,"What was the name of the first independent trade Union in socialist Poland, headed by the future President Lech Walesa?",Q444,wdt:P463,"SELECT ?answer 
+WHERE {
+  wd:Q444 wdt:P463 ?answer
+}",1-hop,Q1003
+346,Which country does the BMW manufacturer belong to?,Q26678,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q26678 wdt:P17 ?answer
+}",1-hop,Q183
+347,Where is lake Balaton located,Q6383,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q6383 wdt:P17 ?answer
+}",1-hop,Q28
+348,"Who made the short film ""When the Cossacks cry"" based on Mikhail Sholokhov's ""Don stories""?",Q4226037,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q4226037 wdt:P57 ?answer
+}",1-hop,Q1532068
+349,The country in which legislative power is vested in the Knesset?,Q133396,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q133396 wdt:P17 ?answer
+}",1-hop,Q801
+350,Which city is the capital of the state of Rwanda?,Q1037,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1037 wdt:P36 ?answer
+}",1-hop,Q3859
+351,In what architectural style was the Kazan Cathedral built,Q404571,wdt:P149,"SELECT ?answer 
+WHERE {
+  wd:Q404571 wdt:P149 ?answer
+}",1-hop,"Q170292, Q191105"
+352,"Which group took part in the filming of Alexey Balabanov's film ""Brother""?",Q1192679,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q1192679 wdt:P175 ?answer
+}",1-hop,Q127888
+353,Which of the alexandrovs wrote the music that is now the anthem of Russia?,Q1225991,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q1225991 wdt:P86 ?answer
+}",1-hop,Q319708
+354,Which architect built the Sagrada Familia Cathedral in Barcelona for more than 40 years?,Q48435,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q48435 wdt:P84 ?answer
+}",1-hop,Q25328
+355,Who was the founder of Audi?,Q23317,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q23317 wdt:P112 ?answer
+}",1-hop,Q58035
+356,"Who is the Director of the controversial TV series ""School""?",Q4525028,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q4525028 wdt:P57 ?answer
+}",1-hop,"Q468621, Q15071896"
+359,In which country does a terrorist organization with the acronym ETA operate?,Q42814,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q42814 wdt:P17 ?answer
+}",1-hop,"Q29, Q142"
+360,What scientist invented the coordinate system in mathematics?,Q62912,wdt:P138,"SELECT ?answer 
+WHERE {
+  wd:Q62912 wdt:P138 ?answer
+}",1-hop,Q9191
+362,In which country did the risotto dish come up?,Q208105,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q208105 wdt:P495 ?answer
+}",1-hop,Q38
+363,What sports are included in the decathlon?,Q184654,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q184654 wdt:P527 ?answer
+}",1-hop,"Q164761, Q165704, Q170737, Q178108, Q180935, Q182570, Q185027, Q191691, Q334734, Q537769"
+364,What kind of martial arts does Steven Seagal masterfully master?,Q82110,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q82110 wdt:P641 ?answer
+}",1-hop,Q43114
+366,Where did the 1972 summer Olympics take place?,Q8438,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q8438 wdt:P276 ?answer
+}",1-hop,"Q1726, Q131610"
+367,What region of Africa is the Republic of Niger located in?,Q1032,wdt:P361,"SELECT ?answer 
+WHERE {
+  wd:Q1032 wdt:P361 ?answer
+}",1-hop,Q4412
+368,"Who is the author of the painting "" flowers of evil?""",Q216578,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q216578 wdt:P50 ?answer
+}",1-hop,Q501
+369,"Who was Laszlo Josef Biro, the inventor of the ballpoint pen, by profession?",Q312680,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q312680 wdt:P106 ?answer
+}",1-hop,"Q205375, Q1281618, Q1930187"
+370,"Who is the author of the novel ""razor's Edge""?",Q759329,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q759329 wdt:P50 ?answer
+}",1-hop,Q134942
+371,"What work of Chekhov served as the basis for the movie ""My gentle and gentle beast""?",Q4299844,wdt:P144,"SELECT ?answer 
+WHERE {
+  wd:Q4299844 wdt:P144 ?answer
+}",1-hop,Q4167647
+372,Which river originates in lake Baikal?,Q5513,wdt:P201,"SELECT ?answer 
+WHERE {
+  wd:Q5513 wdt:P201 ?answer
+}",1-hop,Q162737
+374,Which river is a tributary of the Moscow river?,Q175117,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q175117 wdt:P403 ?answer
+}",1-hop,Q172089
+375,What natural object in Karelia is called Kivach?,Q2994984,wdt:P31,"SELECT ?answer 
+WHERE {
+  wd:Q2994984 wdt:P31 ?answer
+}",1-hop,Q34038
+377,Where is Osh located?,Q47282,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q47282 wdt:P131 ?answer
+}",1-hop,Q813
+378,"""In which suburb of St. Petersburg can you admire the Amber room?""",Q157012,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q157012 wdt:P131 ?answer
+}",1-hop,Q7947
+379,"Who is the author of the musical play ""the sorcerer's Apprentice""?",Q1066882,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q1066882 wdt:P86 ?answer
+}",1-hop,Q215556
+380,Which city is the administrative center of the Amur region?,Q6886,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q6886 wdt:P36 ?answer
+}",1-hop,Q6934
+381,"Who was Lewis Carroll, the author of Alice's tales, by profession?",Q38082,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q38082 wdt:P106 ?answer
+}",1-hop,"Q33231, Q36180, Q49757, Q161944, Q170790, Q4853732, Q4964182, Q6625963, Q14565331, Q18814623, Q18939491"
+382,Which of the empresses was on the Russian throne after the death of Peter I?,Q8479,wdt:P156,"SELECT ?answer 
+WHERE {
+  wd:Q8479 wdt:P156 ?answer
+}",1-hop,Q15208
+383,Which country does the .ao top-level domain belong to?,Q39006,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q39006 wdt:P17 ?answer
+}",1-hop,Q916
+384,What is the name of the monetary unit of Kyrgyzstan?,Q813,wdt:P38,"SELECT ?answer 
+WHERE {
+  wd:Q813 wdt:P38 ?answer
+}",1-hop,Q35881
+385,Which country hosted the 2006 winter Olympics?,Q9672,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q9672 wdt:P17 ?answer
+}",1-hop,Q38
+386,In what modern country are the ruins of Carthage located?,Q52284968,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q52284968 wdt:P17 ?answer
+}",1-hop,Q948
+387,Who founded the Opel company?,Q40966,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q40966 wdt:P112 ?answer
+}",1-hop,Q57479
+389,Where is the city of Bukhara?,Q5764,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q5764 wdt:P17 ?answer
+}",1-hop,Q265
+390,"Who is the author of the novel ""ugryum-reka""?",Q4469193,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4469193 wdt:P50 ?answer
+}",1-hop,Q320653
+392,Which Opera does Polovtsian dance form part of?,Q929758,wdt:P361,"SELECT ?answer 
+WHERE {
+  wd:Q929758 wdt:P361 ?answer
+}",1-hop,Q275354
+394,"Who directed the famous Japanese-Soviet film ""Dersu Uzala""?",Q948023,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q948023 wdt:P57 ?answer
+}",1-hop,Q8006
+396,Who was the owner of the horse named Bucephalus?,Q201598,wdt:P127,"SELECT ?answer 
+WHERE {
+  wd:Q201598 wdt:P127 ?answer
+}",1-hop,Q8409
+397,In which American city was the Chekhov publishing house created?,Q4198522,wdt:P740,"SELECT ?answer 
+WHERE {
+  wd:Q4198522 wdt:P740 ?answer
+}",1-hop,Q60
+398,What playing role did David Beckham have?,Q10520,wdt:P413,"SELECT ?answer 
+WHERE {
+  wd:Q10520 wdt:P413 ?answer
+}",1-hop,Q193592
+399,"In which city in America is the ""Bronx"" an urban area",Q18426,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q18426 wdt:P131 ?answer
+}",1-hop,Q60
+400,Where the summer Olympic games will be held in 2016.,Q8613,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q8613 wdt:P276 ?answer
+}",1-hop,Q8678
+401,Where is Indian protection used?,Q441458,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q441458 wdt:P641 ?answer
+}",1-hop,Q718
+402,"In which theater on April 19, 1836, the premiere of Gogol's Comedy ""the inspector"" took place?",Q471066,wdt:P4647,"SELECT ?answer 
+WHERE {
+  wd:Q471066 wdt:P4647 ?answer
+}",1-hop,Q1186567
+403,"Which collection of Nikolai Gogol includes the story ""Viy""?",Q1409198,wdt:P361,"SELECT ?answer 
+WHERE {
+  wd:Q1409198 wdt:P361 ?answer
+}",1-hop,Q1754954
+404,Who is the author of the monument to Ivan Krylov in the Summer garden of St. Petersburg?,Q4343206,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q4343206 wdt:P170 ?answer
+}",1-hop,Q155856
+406,"In what sports game does the term ""gambit"" exist?",Q208544,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q208544 wdt:P641 ?answer
+}",1-hop,Q718
+407,Who was the Chairman of the Provisional Government?,Q239543,wdt:P6,"SELECT ?answer 
+WHERE {
+  wd:Q239543 wdt:P6 ?answer
+}",1-hop,"Q48211, Q297032"
+409,What time zone is the city of Lisbon located in?,Q597,wdt:P421,"SELECT ?answer 
+WHERE {
+  wd:Q597 wdt:P421 ?answer
+}",1-hop,"Q6574, Q6655"
+410,"Who wrote the story ""Conduit and Schwambrania""?",Q2252950,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q2252950 wdt:P50 ?answer
+}",1-hop,Q715281
+411,"Who wrote the novel ""Three comrades""?",Q1257081,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q1257081 wdt:P50 ?answer
+}",1-hop,Q47293
+412,"Who wrote the novel ""the Black obelisk""?",Q1199598,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q1199598 wdt:P50 ?answer
+}",1-hop,Q47293
+414,Who painted the Last day of Pompeii?,Q2521909,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q2521909 wdt:P170 ?answer
+}",1-hop,Q4768
+416,"Who painted the picture ""Morning of the Sagittarius execution""?",Q4478998,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q4478998 wdt:P170 ?answer
+}",1-hop,Q110228
+417,"Who painted ""Morning in the pine forest""?",Q2666439,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q2666439 wdt:P170 ?answer
+}",1-hop,Q193064
+418,"Who painted the painting ""Gioconda ""(""Mona Lisa"")?",Q12418,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q12418 wdt:P170 ?answer
+}",1-hop,Q762
+420,"Who painted the picture ""Girl with peaches""?",Q4156438,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q4156438 wdt:P170 ?answer
+}",1-hop,Q217128
+421,Which country hosted the 18th FIFA world Cup in 2006?,Q37285,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q37285 wdt:P17 ?answer
+}",1-hop,Q183
+426,What is depicted on the flag of Liechtenstein?,Q103055,wdt:P180,"SELECT ?answer 
+WHERE {
+  wd:Q103055 wdt:P180 ?answer
+}",1-hop,"Q170984, Q372254"
+427,What is the name of the stadium of the Villareal football team?,Q12297,wdt:P115,"SELECT ?answer 
+WHERE {
+  wd:Q12297 wdt:P115 ?answer
+}",1-hop,Q741157
+429,What did the Aztecs use as a bargaining chip?,Q12542,wdt:P38,"SELECT ?answer 
+WHERE {
+  wd:Q12542 wdt:P38 ?answer
+}",1-hop,Q208008
+430,In what country is the town of Boryspil?,Q158910,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q158910 wdt:P17 ?answer
+}",1-hop,Q212
+432,A tributary of which river is a Golden Lime?,Q2298290,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q2298290 wdt:P403 ?answer
+}",1-hop,Q131210
+433,What singing voice did Fyodor Chaliapin have?,Q189164,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q189164 wdt:P412 ?answer
+}",1-hop,Q27911
+434,In what sea is the island of Kimolos located?,Q919194,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q919194 wdt:P206 ?answer
+}",1-hop,Q34575
+437,In what field of creativity was the Austrian Gustav Klimt famous?,Q34661,wdt:P101,"SELECT ?answer 
+WHERE {
+  wd:Q34661 wdt:P101 ?answer
+}",1-hop,Q11629
+438,What Empire replaced the Parthian Kingdom?,Q1986139,wdt:P156,"SELECT ?answer 
+WHERE {
+  wd:Q1986139 wdt:P156 ?answer
+}",1-hop,Q83891
+439,On which river is the island of the Tagar?,Q4449608,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q4449608 wdt:P206 ?answer
+}",1-hop,Q78707
+440,"Whose ""Logical-philosophical treatise"" inspired the Vienna circle to create a program of logical positivism?",Q655717,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q655717 wdt:P50 ?answer
+}",1-hop,Q9391
+441,Which city is the administrative capital of South Africa?,Q258,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q258 wdt:P36 ?answer
+}",1-hop,"Q3926, Q5465, Q37701"
+442,Which group of elementary particles do electrons belong to?,Q2225,wdt:P279,"SELECT ?answer 
+WHERE {
+  wd:Q2225 wdt:P279 ?answer
+}",1-hop,"Q44363, Q82586"
+443,What does the well have?,Q43483,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q43483 wdt:P527 ?answer
+}",1-hop,Q592289
+444,Which city is the capital of the U.S. state of Kentucky?,Q1603,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1603 wdt:P36 ?answer
+}",1-hop,Q28603
+445,In which country are the Seven Rila lakes located?,Q1661327,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q1661327 wdt:P17 ?answer
+}",1-hop,Q219
+446,Who is the Chairman of the Russian Geographical Society?,Q726762,wdt:P488,"SELECT ?answer 
+WHERE {
+  wd:Q726762 wdt:P488 ?answer
+}",1-hop,Q32024
+447,What constellation is the crab nebula in?,Q10934,wdt:P59,"SELECT ?answer 
+WHERE {
+  wd:Q10934 wdt:P59 ?answer
+}",1-hop,Q10570
+448,In what language did Paracelsus write and teach?,Q83428,wdt:P6886,"SELECT ?answer 
+WHERE {
+  wd:Q83428 wdt:P6886 ?answer
+}",1-hop,Q188
+450,In What work by F. Kafka is the main character named Gregor Samza?,Q3566632,wdt:P1441,"SELECT ?answer 
+WHERE {
+  wd:Q3566632 wdt:P1441 ?answer
+}",1-hop,Q184222
+451,What are the Hawaiian Islands?,Q782,wdt:P31,"SELECT ?answer 
+WHERE {
+  wd:Q782 wdt:P31 ?answer
+}",1-hop,Q35657
+452,"Who in 2002 coached Alexey Yagudin, who won Olympic gold in figure skating competitions?",Q316861,wdt:P286,"SELECT ?answer 
+WHERE {
+  wd:Q316861 wdt:P286 ?answer
+}",1-hop,"Q267861, Q1323788"
+453,What city near Moscow has the marinkina tower?,Q4281506,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q4281506 wdt:P276 ?answer
+}",1-hop,Q133026
+454,Who is the lead singer of the DDT group Yuriy Shevchuk by education?,Q51094,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q51094 wdt:P106 ?answer
+}",1-hop,"Q33999, Q36834, Q49757, Q177220, Q183945, Q488205, Q662729, Q753110, Q1028181, Q13235160, Q16323111, Q29017403"
+455,What state does Tibet now belong to?,Q17252,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q17252 wdt:P17 ?answer
+}",1-hop,Q148
+456,In which socialist country was martial law imposed in December 1981?,Q718605,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q718605 wdt:P17 ?answer
+}",1-hop,Q36
+459,"Who was Thomas Dylan, whose last name was taken as a pseudonym by the American composer, musician and singer Robert Zimmerman?",Q191023,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q191023 wdt:P106 ?answer
+}",1-hop,"Q28389, Q36180, Q49757, Q214917, Q482980, Q6625963"
+460,In what novel does the pirate Ben Gan act abandoned on a desert island?,Q4885761,wdt:P1441,"SELECT ?answer 
+WHERE {
+  wd:Q4885761 wdt:P1441 ?answer
+}",1-hop,"Q185118, Q81200227"
+462,Which country is home to Parmesan cheese?,Q155922,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q155922 wdt:P495 ?answer
+}",1-hop,Q38
+463,Who was the philosopher S. Kierkegaard by nationality?,Q6512,wdt:P172,"SELECT ?answer 
+WHERE {
+  wd:Q6512 wdt:P172 ?answer
+}",1-hop,Q164714
+464,On what ship did V. Tereshkova fly into space?,Q44371,wdt:P450,"SELECT ?answer 
+WHERE {
+  wd:Q44371 wdt:P450 ?answer
+}",1-hop,Q269668
+466,What regiment did Lermontov serve in?,Q46599,wdt:P241,"SELECT ?answer 
+WHERE {
+  wd:Q46599 wdt:P241 ?answer
+}",1-hop,Q4257378
+469,What was the name of Louis XIV's mother?,Q7742,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q7742 wdt:P25 ?answer
+}",1-hop,Q151209
+470,"Who is the author of the novel ""Island of Crimea""?",Q4338818,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4338818 wdt:P50 ?answer
+}",1-hop,Q315185
+471,"Who are the heroes of ""the Silmarillion"" created Silmarilli?",Q1234666,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q1234666 wdt:P170 ?answer
+}",1-hop,Q716794
+472,Which vessel is the basis of the thermos design?,Q23664,wdt:P279,"SELECT ?answer 
+WHERE {
+  wd:Q23664 wdt:P279 ?answer
+}",1-hop,"Q912050, Q2453629"
+473,What city was Saadi born in?,Q170302,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q170302 wdt:P19 ?answer
+}",1-hop,Q6397066
+474,What science deals with the study of flags?,Q14660,wdt:P2579,"SELECT ?answer 
+WHERE {
+  wd:Q14660 wdt:P2579 ?answer
+}",1-hop,Q186083
+477,Where was the residence of the knights of the Round table?,Q381981,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q381981 wdt:P276 ?answer
+}",1-hop,Q220437
+478,What is new York's nickname?,Q60,wdt:P460,"SELECT ?answer 
+WHERE {
+  wd:Q60 wdt:P460 ?answer
+}",1-hop,Q14435
+479,Which city is represented by the Swiss football club grasshopper?,Q201360,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q201360 wdt:P159 ?answer
+}",1-hop,Q72
+482,What is the name of the administrative center of the Chinese province of Qinghai?,Q45833,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q45833 wdt:P36 ?answer
+}",1-hop,Q69060
+485,Who was Niobe's father?,Q213621,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q213621 wdt:P22 ?answer
+}",1-hop,Q182101
+486,Where did they develop the Zastava-a modification of the Kalashnikov assault Rifle?,Q15770,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q15770 wdt:P17 ?answer
+}",1-hop,Q403
+487,Which group of astronomical objects do pulsars belong to?,Q4360,wdt:P279,"SELECT ?answer 
+WHERE {
+  wd:Q4360 wdt:P279 ?answer
+}",1-hop,"Q4202, Q5871"
+488,Who was one of the creators of cognitive psychotherapy?,Q13693745,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q13693745 wdt:P178 ?answer
+}",1-hop,Q302849
+489,In which sport did Larisa Latynina win 18 Olympic medals?,Q22102,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q22102 wdt:P641 ?answer
+}",1-hop,Q326827
+490,What is the location of the Djoser Pyramid built by Imhotep?,Q192418,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q192418 wdt:P131 ?answer
+}",1-hop,Q192134
+491,Where is Neuschwanstein castle?,Q4152,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q4152 wdt:P17 ?answer
+}",1-hop,Q183
+495,What is the name of Harry Potter's owl?,Q3244512,wdt:P1429,"SELECT ?answer 
+WHERE {
+  wd:Q3244512 wdt:P1429 ?answer
+}",1-hop,Q845210
+497,Which city was home to world chess champion Mikhail tal?,Q102664,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q102664 wdt:P19 ?answer
+}",1-hop,Q1773
+498,Where is the city of Eisenach?,Q7070,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q7070 wdt:P131 ?answer
+}",1-hop,Q1205
+500,Who was the Director of the famous film about the Titanic?,Q44578,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q44578 wdt:P57 ?answer
+}",1-hop,Q42574
+501,In which country is the famous Copacabana beach located?,Q202730,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q202730 wdt:P17 ?answer
+}",1-hop,Q155
+502,"What writer is the author of the fantastic story ""Exchange of minds""?",Q4329382,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4329382 wdt:P50 ?answer
+}",1-hop,Q333246
+503,"In which country is the Peace bridge built, designed by an Italian architect and a French lighting designer?",Q27574,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q27574 wdt:P17 ?answer
+}",1-hop,Q230
+504,In which English County is the city of Coventry located?,Q20986417,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q20986417 wdt:P131 ?answer
+}",1-hop,Q23124
+505,In which city is the monument to Faina Ranevskaya installed?,Q4343397,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q4343397 wdt:P276 ?answer
+}",1-hop,Q170513
+506,Which country hosted the 2000 summer Olympics?,Q8544,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q8544 wdt:P17 ?answer
+}",1-hop,Q408
+507,Which Pope was Cesare Borgia's father?,Q187998,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q187998 wdt:P22 ?answer
+}",1-hop,Q108316
+508,Which country has a unique pitcher Valley?,Q870258,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q870258 wdt:P17 ?answer
+}",1-hop,Q819
+509,"Who is the Director and main character of the movie ""Dancing with wolves""?",Q20456,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q20456 wdt:P57 ?answer
+}",1-hop,Q11930
+510,"In which city is the international airport ""Nikola Tesla""?",Q127955,wdt:P931,"SELECT ?answer 
+WHERE {
+  wd:Q127955 wdt:P931 ?answer
+}",1-hop,Q3711
+511,"Who is the author of the philosophical treatise ""on the nature of things""?",Q861986,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q861986 wdt:P50 ?answer
+}",1-hop,Q47154
+512,In which country do tughriks have circulation?,Q183435,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q183435 wdt:P17 ?answer
+}",1-hop,Q711
+513,What region is the city of Buzuluk located in?,Q42234,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q42234 wdt:P131 ?answer
+}",1-hop,Q5338
+514,"In what city was Francis Skaryna, the great cultural activist of the Belarusian first printer and enlightener?",Q435320,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q435320 wdt:P19 ?answer
+}",1-hop,Q200797
+515,"Who wrote the poem ""Ruslana and Lyudmila""?",Q2353039,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q2353039 wdt:P50 ?answer
+}",1-hop,Q7200
+516,In which country did the rebellion take place under the leadership of the artisan Wat Tyler?,Q498871,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q498871 wdt:P276 ?answer
+}",1-hop,Q21
+517,What is included in the Ten commandments ?,Q34623,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q34623 wdt:P527 ?answer
+}",1-hop,"Q51641, Q2907211, Q7311705, Q7796966, Q7796967, Q7796969, Q12403826, Q12403830, Q12404028, Q12408472, Q12408583, Q12408584"
+518,Who was Svyatoslav Richter?,Q124890,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q124890 wdt:P106 ?answer
+}",1-hop,"Q36834, Q486748"
+520,In which country does the order of Academic palms exist?,Q760940,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q760940 wdt:P17 ?answer
+}",1-hop,Q142
+522,Who created the Facebook social network ?,Q355,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q355 wdt:P170 ?answer
+}",1-hop,Q36215
+523,Who was the first editor-in-chief of the first edition of the BSE?,Q234535,wdt:P98,"SELECT ?answer 
+WHERE {
+  wd:Q234535 wdt:P98 ?answer
+}",1-hop,Q167997
+524,Which city is the capital of Madagascar?,Q1019,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1019 wdt:P36 ?answer
+}",1-hop,Q3915
+525,Which city is the capital of Botswana?,Q963,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q963 wdt:P36 ?answer
+}",1-hop,Q3919
+528,"Who played one of the roles in the movie ""Aviator""?",Q201924,wdt:P161,"SELECT ?answer 
+WHERE {
+  wd:Q201924 wdt:P161 ?answer
+}",1-hop,"Q38111, Q41148, Q80966, Q160432, Q170572, Q179414, Q188772, Q192402, Q201842, Q223091, Q223110, Q233882, Q236613, Q241025, Q264996, Q310394, Q311453, Q357762, Q437752, Q481954, Q483379, Q536437, Q918404, Q1189169, Q1190406, Q1680304, Q2865151, Q3127916, Q3501718, Q3573721, Q25768136"
+529,"Where does the plant grow from which the herbal tea ""Rooibos"" is prepared?",Q272181,wdt:P183,"SELECT ?answer 
+WHERE {
+  wd:Q272181 wdt:P183 ?answer
+}",1-hop,Q258
+530,Where is the city of Fulda?,Q3963,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q3963 wdt:P17 ?answer
+}",1-hop,Q183
+531,"What philosopher in his"" First speech against Catiline ""mentioned the winged expression"" o times, o mores""?",Q1055008,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q1055008 wdt:P50 ?answer
+}",1-hop,Q1541
+535,What city is Fiumicino international airport located in?,Q19101,wdt:P931,"SELECT ?answer 
+WHERE {
+  wd:Q19101 wdt:P931 ?answer
+}",1-hop,Q220
+536,What country does Aer Lingus represent?,Q83716,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q83716 wdt:P17 ?answer
+}",1-hop,Q27
+537,Which city is the capital of the Republic of the Congo?,Q971,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q971 wdt:P36 ?answer
+}",1-hop,Q3844
+538,"Which artist is the author of the picture ""Warriors of the Apocalypse""?",Q52253277,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q52253277 wdt:P170 ?answer
+}",1-hop,Q204138
+539,"Who planted the Apple of contention for Hera, Athena, and Aphrodite?",Q146970,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q146970 wdt:P170 ?answer
+}",1-hop,Q140001
+540,"Where is the action of the plot of the cult novel by j. Joyce's ""Ulysses""?",Q6511,wdt:P840,"SELECT ?answer 
+WHERE {
+  wd:Q6511 wdt:P840 ?answer
+}",1-hop,"Q1761, Q135501, Q659895, Q1263215, Q1672830, Q1766409, Q2062702, Q2088319, Q2350741, Q5242183, Q5500969, Q7417543, Q13156901, Q28601860"
+542,What instrument did the great jazz master dizzy Gillespie play?,Q49575,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q49575 wdt:P1303 ?answer
+}",1-hop,"Q8338, Q17172850"
+544,What is the name of the highest mountain in the Crimean mountains system?,Q748282,wdt:P610,"SELECT ?answer 
+WHERE {
+  wd:Q748282 wdt:P610 ?answer
+}",1-hop,Q2092607
+545,"Which actress established her own children's charity Fund ""give life""?",Q4366981,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q4366981 wdt:P112 ?answer
+}",1-hop,"Q236132, Q456257"
+546,"What is the language of Charles de Coster wrote ""the Legend of till Eulenspiegel""?",Q3972449,wdt:P407,"SELECT ?answer 
+WHERE {
+  wd:Q3972449 wdt:P407 ?answer
+}",1-hop,Q150
+547,"Which rock band owns an album called ""Hair of the Dog""?",Q962722,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q962722 wdt:P175 ?answer
+}",1-hop,Q683695
+548,"Who wrote the ""Brief history of time""?",Q471726,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q471726 wdt:P50 ?answer
+}",1-hop,Q17714
+551,In which city on lake Geneva did V. V. Nabokov spend the last years of his life and was buried?,Q36591,wdt:P20,"SELECT ?answer 
+WHERE {
+  wd:Q36591 wdt:P20 ?answer
+}",1-hop,Q69354
+553,On what mountain does the Hindu deity Shiva live?,Q11378,wdt:P551,"SELECT ?answer 
+WHERE {
+  wd:Q11378 wdt:P551 ?answer
+}",1-hop,Q229107
+554,The son of a country which was Kobo Abe?,Q186273,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q186273 wdt:P27 ?answer
+}",1-hop,"Q17, Q188712"
+555,What chemical element predominates in the composition of coal?,Q732607,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q732607 wdt:P527 ?answer
+}",1-hop,Q623
+556,Who awarded Aphrodite the Apple of discord?,Q146970,wdt:P1027,"SELECT ?answer 
+WHERE {
+  wd:Q146970 wdt:P1027 ?answer
+}",1-hop,Q167646
+558,What country has a city of Raisins?,Q544003,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q544003 wdt:P17 ?answer
+}",1-hop,Q212
+559,What else is the biblical Pentateuch of Moses called?,Q162062,wdt:P460,"SELECT ?answer 
+WHERE {
+  wd:Q162062 wdt:P460 ?answer
+}",1-hop,Q34990
+560,Which composer wrote the Moonlight Sonata?,Q12008,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q12008 wdt:P86 ?answer
+}",1-hop,Q255
+562,"Who wrote the book ""Interstellar wanderer""?",Q626663,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q626663 wdt:P50 ?answer
+}",1-hop,Q45765
+563,Who is considered the patron Saint of Venice?,Q641,wdt:P417,"SELECT ?answer 
+WHERE {
+  wd:Q641 wdt:P417 ?answer
+}",1-hop,Q31966
+564,In what sport did the visually impaired Korean Im don Hyun become a two-time Olympic champion?,Q314086,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q314086 wdt:P641 ?answer
+}",1-hop,Q108429
+567,"What was the title of Markus wolf, chief of the Stasi intelligence Department of the GDR MGB?",Q57399,wdt:P410,"SELECT ?answer 
+WHERE {
+  wd:Q57399 wdt:P410 ?answer
+}",1-hop,Q155327
+568,What modern city in the Crimea is the site of the ancient Greek city of Panticapaeum?,Q906661,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q906661 wdt:P131 ?answer
+}",1-hop,Q157065
+569,"Who wrote the ""Fantastic Symphony"" with the dedication: ""to His Majesty Nicholas I, Emperor of all Russia""?",Q462313,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q462313 wdt:P86 ?answer
+}",1-hop,Q1151
+570,Who was the winner of the championship of Russia on football 2013 2014?,Q13410151,wdt:P1346,"SELECT ?answer 
+WHERE {
+  wd:Q13410151 wdt:P1346 ?answer
+}",1-hop,Q176371
+572,What people first used cuneiform?,Q401,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q401 wdt:P61 ?answer
+}",1-hop,Q656043
+574,In what country did the Dutchman Schultz trade?,Q957299,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q957299 wdt:P27 ?answer
+}",1-hop,Q30
+575,Where is the Russian Presidential regiment stationed?,Q2748789,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q2748789 wdt:P276 ?answer
+}",1-hop,Q133274
+576,What scientist discovered the three laws underlying classical mechanics?,Q38433,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q38433 wdt:P61 ?answer
+}",1-hop,Q935
+577,"Who was the father of pan, the God of forests, fields, and cattle?",Q132582,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q132582 wdt:P22 ?answer
+}",1-hop,Q41484
+579,Where in the human body is the vitreous body?,Q326710,wdt:P361,"SELECT ?answer 
+WHERE {
+  wd:Q326710 wdt:P361 ?answer
+}",1-hop,Q7364
+582,Where was Louis Armstrong born?,Q1779,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q1779 wdt:P19 ?answer
+}",1-hop,Q34404
+585,In which country was the Habanera dance born?,Q835562,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q835562 wdt:P495 ?answer
+}",1-hop,Q241
+586,What musical instrument does woody Allen play professionally?,Q25089,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q25089 wdt:P1303 ?answer
+}",1-hop,Q8343
+587,"Who wrote the ancient Greek tragedy ""Seven against Thebes""?",Q506546,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q506546 wdt:P50 ?answer
+}",1-hop,Q40939
+588,Which NHL club does Alexander Ovechkin play for?,Q311374,wdt:P54,"SELECT ?answer 
+WHERE {
+  wd:Q311374 wdt:P54 ?answer
+}",1-hop,Q204627
+589,In which Russian city in 2012 opened a monument to Yuri Detochkin?,Q16271013,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q16271013 wdt:P131 ?answer
+}",1-hop,Q894
+590,What sport did Bob Beamon Excel in?,Q52604,wdt:P2416,"SELECT ?answer 
+WHERE {
+  wd:Q52604 wdt:P2416 ?answer
+}",1-hop,Q170737
+591,What country is the Suez canal located in?,Q899,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q899 wdt:P17 ?answer
+}",1-hop,Q79
+593,"Who directed the movie ""the House I live in""?",Q4165167,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q4165167 wdt:P57 ?answer
+}",1-hop,"Q1554208, Q1969437"
+594,What country is the Piedmont region located in?,Q1216,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q1216 wdt:P17 ?answer
+}",1-hop,Q38
+595,"Who got the ill-fated ""Apple of discord""?",Q146970,wdt:P127,"SELECT ?answer 
+WHERE {
+  wd:Q146970 wdt:P127 ?answer
+}",1-hop,Q35500
+596,What kind of fastener needs to be nut?,Q190977,wdt:P2789,"SELECT ?answer 
+WHERE {
+  wd:Q190977 wdt:P2789 ?answer
+}",1-hop,Q1147806
+597,What river does the Palace bridge cross in Saint Petersburg?,Q148970,wdt:P177,"SELECT ?answer 
+WHERE {
+  wd:Q148970 wdt:P177 ?answer
+}",1-hop,Q645
+598,What is the official language in Sri Lanka?,Q854,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q854 wdt:P37 ?answer
+}",1-hop,"Q5885, Q13267"
+599,In what city was Jesus Christ born?,Q302,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q302 wdt:P19 ?answer
+}",1-hop,Q5776
+600,In which Latin American country did the Sandinista revolution win in 1979?,Q1463516,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q1463516 wdt:P276 ?answer
+}",1-hop,Q811
+601,What country is Karachi located in?,Q8660,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q8660 wdt:P17 ?answer
+}",1-hop,Q843
+602,In what constellation is the star Arcturus located?,Q12985,wdt:P59,"SELECT ?answer 
+WHERE {
+  wd:Q12985 wdt:P59 ?answer
+}",1-hop,Q8667
+603,"Who is the author of the poem ""the song of Hiawatha""?",Q279486,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q279486 wdt:P50 ?answer
+}",1-hop,Q152513
+604,In what Irish castle can you kiss the Stone of Eloquence to gain the gift of persuasion and flattery?,Q2369564,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q2369564 wdt:P276 ?answer
+}",1-hop,Q2133873
+605,"Who directed the films "" Brother ""and"" Brother 2""?",Q1192679,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q1192679 wdt:P57 ?answer
+}",1-hop,Q557323
+607,Where is Jellyfish Lake?,Q263422,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q263422 wdt:P17 ?answer
+}",1-hop,Q695
+608,"Who wrote ""the History of the village goryukhino""?",Q4205024,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4205024 wdt:P50 ?answer
+}",1-hop,Q7200
+612,What musical instrument does Carlos Santana play?,Q819016,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q819016 wdt:P1303 ?answer
+}",1-hop,"Q6607, Q17172850"
+613,Which city hosted the world aquatics Championships in 2011?,Q330343,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q330343 wdt:P131 ?answer
+}",1-hop,Q8686
+614,Where are Beretta pistols manufactured?,Q324782,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q324782 wdt:P17 ?answer
+}",1-hop,Q38
+615,In what state of the United States is the Great Salt lake located?,Q178741,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q178741 wdt:P131 ?answer
+}",1-hop,Q829
+617,"Who directed the 1976 TV series ""Two captains"" based on the famous novel by V. Kaverin?",Q4155587,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q4155587 wdt:P57 ?answer
+}",1-hop,Q4214909
+618,Who established the order of the Golden fleece in 1430?,Q465774,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q465774 wdt:P112 ?answer
+}",1-hop,Q239337
+619,who sings the ROAR song,Q14559271,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q14559271 wdt:P175 ?answer
+}",1-hop,Q42493
+620,Which country hosted the 2002 winter Olympics?,Q9668,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q9668 wdt:P17 ?answer
+}",1-hop,Q30
+621,What science studies the history of The earth's development?,Q2,wdt:P2579,"SELECT ?answer 
+WHERE {
+  wd:Q2 wdt:P2579 ?answer
+}",1-hop,"Q1069, Q8008, Q46255"
+622,Which country was ruled by Muammar Gaddafi for more than 40 years?,Q19878,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q19878 wdt:P27 ?answer
+}",1-hop,Q1016
+624,"Where in the human body is the ""gatekeeper""?",Q290248,wdt:P361,"SELECT ?answer 
+WHERE {
+  wd:Q290248 wdt:P361 ?answer
+}",1-hop,Q1029907
+627,Who is the Creator of the game Tetris?,Q71910,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q71910 wdt:P170 ?answer
+}",1-hop,Q92600
+628,Who was the fabulous Urfin jus by profession?,Q4477437,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q4477437 wdt:P106 ?answer
+}",1-hop,Q326358
+631,What Crimean city was built on the site of Scythian Naples that existed in the III-II centuries BC?,Q2621094,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q2621094 wdt:P131 ?answer
+}",1-hop,Q19566
+632,What is the currency of Saint Helena?,Q192184,wdt:P38,"SELECT ?answer 
+WHERE {
+  wd:Q192184 wdt:P38 ?answer
+}",1-hop,"Q25224, Q374453"
+633,Which socialist country was led by Janos Kadar,Q200850,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q200850 wdt:P27 ?answer
+}",1-hop,Q28
+634,Which city was the capital of the Kingdom of Both Sicilies that existed in the XIX century?,Q180393,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q180393 wdt:P36 ?answer
+}",1-hop,Q2634
+635,Which city was the capital of Charlemagne,Q146246,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q146246 wdt:P36 ?answer
+}",1-hop,"Q90, Q1017, Q173219"
+636,In which country is the temple of the emerald Buddha located,Q1502138,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q1502138 wdt:P17 ?answer
+}",1-hop,Q869
+637,Which country is hosting the 2018 Winter Olympics?,Q9680,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q9680 wdt:P17 ?answer
+}",1-hop,Q884
+638,What was the name of Umberto Nobile's airship to the North pole,Q291200,wdt:P5096,"SELECT ?answer 
+WHERE {
+  wd:Q291200 wdt:P5096 ?answer
+}",1-hop,Q1472152
+639,In what sport did Marat Safin succeed?,Q133318,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q133318 wdt:P641 ?answer
+}",1-hop,Q847
+641,Who is the Director of the film the Lady with the dog,Q339708,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q339708 wdt:P57 ?answer
+}",1-hop,Q741710
+644,In what city was the Soviet writer Valentin Pikul born?,Q2364621,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q2364621 wdt:P19 ?answer
+}",1-hop,Q656
+646,Who first suggested the idea of absolute zero temperatures,Q81182,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q81182 wdt:P61 ?answer
+}",1-hop,Q368121
+647,Which company developed the VHS standard,Q183976,wdt:P127,"SELECT ?answer 
+WHERE {
+  wd:Q183976 wdt:P127 ?answer
+}",1-hop,Q215901
+648,In which city is the Sanssouci Palace located?,Q151330,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q151330 wdt:P131 ?answer
+}",1-hop,Q1711
+649,In which Dutch city is the House of Peter I located?,Q17594749,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q17594749 wdt:P276 ?answer
+}",1-hop,Q211260
+650,Where is OPEC located),Q7795,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q7795 wdt:P159 ?answer
+}",1-hop,Q1741
+651,Where you use the water stone?,Q507559,wdt:P366,"SELECT ?answer 
+WHERE {
+  wd:Q507559 wdt:P366 ?answer
+}",1-hop,Q237105
+652,"Who is the author of the song ""I Just Called To Say I Love You""?",Q1655199,wdt:P676,"SELECT ?answer 
+WHERE {
+  wd:Q1655199 wdt:P676 ?answer
+}",1-hop,Q714
+653,In what area is the city of Ismail located?,Q147739,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q147739 wdt:P131 ?answer
+}",1-hop,Q171852
+654,Which city is home to one of the oldest Ambrosian libraries in Europe?,Q1071570,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q1071570 wdt:P131 ?answer
+}",1-hop,Q490
+655,What Monet painting gave the name to a new direction in painting - impressionism?,Q40415,wdt:P138,"SELECT ?answer 
+WHERE {
+  wd:Q40415 wdt:P138 ?answer
+}",1-hop,Q328523
+659,Which British king is the Orange order dedicated to?,Q1345321,wdt:P138,"SELECT ?answer 
+WHERE {
+  wd:Q1345321 wdt:P138 ?answer
+}",1-hop,Q129987
+660,"Who took part in the voice-over of the cartoon ""plasticine crow""?",Q1212415,wdt:P725,"SELECT ?answer 
+WHERE {
+  wd:Q1212415 wdt:P725 ?answer
+}",1-hop,Q1962550
+661,"Which city is the administrative center of the state of California, located in the United States?",Q99,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q99 wdt:P36 ?answer
+}",1-hop,Q18013
+662,Which city is the capital of Cameroon?,Q1009,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1009 wdt:P36 ?answer
+}",1-hop,Q3808
+663,Where does the famous fashion designer Carolina Herrera come from?,Q264589,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q264589 wdt:P19 ?answer
+}",1-hop,Q1533
+664,Who invented set theory?,Q12482,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q12482 wdt:P61 ?answer
+}",1-hop,Q76420
+665,What dynasty did Richard the Lionheart belong to?,Q42305,wdt:P53,"SELECT ?answer 
+WHERE {
+  wd:Q42305 wdt:P53 ?answer
+}",1-hop,Q106151
+666,Which city was the capital of the Orange Free State?,Q218023,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q218023 wdt:P36 ?answer
+}",1-hop,Q37701
+667,What singing voice does Amy Winehouse have?,Q15897,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q15897 wdt:P412 ?answer
+}",1-hop,"Q37137, Q186506"
+669,"In which country is the natural monument ""Tunnel of Love""located?",Q9635778,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q9635778 wdt:P17 ?answer
+}",1-hop,Q212
+670,"On which island has the wine ""Commandaria"" been produced since 1210, named after the residence of the Commander of the order of knights Hospitaller?",Q1115080,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q1115080 wdt:P495 ?answer
+}",1-hop,Q229
+671,"Which writer is the author of the works on which the films ""Big life"", ""Cruelty"", ""Probation"" and ""First time married""were made?",Q4126934,wdt:P58,"SELECT ?answer 
+WHERE {
+  wd:Q4126934 wdt:P58 ?answer
+}",1-hop,Q4321335
+672,Which Greek God was Aphrodite's husband?,Q35500,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q35500 wdt:P26 ?answer
+}",1-hop,"Q40901, Q44384"
+673,"Whose directorial debut was the film ""Duelists"", which tells about a 15-year-long duel between two hussar officers?",Q1212051,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q1212051 wdt:P57 ?answer
+}",1-hop,Q56005
+675,What caused the death of the English Navigator Francis Drake?,Q36517,wdt:P509,"SELECT ?answer 
+WHERE {
+  wd:Q36517 wdt:P509 ?answer
+}",1-hop,Q129279
+677,"In which Russian city can you visit the ""Museum of the Arctic and Antarctic""?",Q673942,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q673942 wdt:P276 ?answer
+}",1-hop,Q656
+678,"Who is the author of the novel ""Wuthering heights""?",Q202975,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q202975 wdt:P50 ?answer
+}",1-hop,Q80137
+679,In which country is the famous Shwedagon pagoda (a 98-meter gilded stupa) located?,Q464535,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q464535 wdt:P17 ?answer
+}",1-hop,Q836
+680,Who is considered the patron Saint of Scotland?,Q22,wdt:P417,"SELECT ?answer 
+WHERE {
+  wd:Q22 wdt:P417 ?answer
+}",1-hop,Q43399
+681,In which country is the lari currency accepted?,Q4608,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q4608 wdt:P17 ?answer
+}",1-hop,Q230
+683,What country is the city of Uchkuduk located in?,Q6364,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q6364 wdt:P17 ?answer
+}",1-hop,Q265
+684,"What ancient scholar is the author of the treatise ""on architecture"", which described the main proportions of the male body?",Q1232238,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q1232238 wdt:P50 ?answer
+}",1-hop,Q47163
+685,Which company manufactures the car brand Lexus?,Q35919,wdt:P127,"SELECT ?answer 
+WHERE {
+  wd:Q35919 wdt:P127 ?answer
+}",1-hop,Q53268
+686,In which Spanish city was Salvador Dali born and buried?,Q5577,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q5577 wdt:P19 ?answer
+}",1-hop,Q6839
+687,What country is the city of Darwin located in?,Q11568,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q11568 wdt:P17 ?answer
+}",1-hop,Q408
+689,What Anglo-Saxon king ordered king Ragnar Lothbrok to be thrown into a pit of snakes?,Q314492,wdt:P157,"SELECT ?answer 
+WHERE {
+  wd:Q314492 wdt:P157 ?answer
+}",1-hop,Q271398
+690,What was Yma sumac?,Q239030,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q239030 wdt:P106 ?answer
+}",1-hop,"Q33999, Q36834, Q177220"
+691,What kind of triangle is the hypotenuse?,Q104962,wdt:P361,"SELECT ?answer 
+WHERE {
+  wd:Q104962 wdt:P361 ?answer
+}",1-hop,Q158688
+692,Which country was Daniel Ortega President from 1985 to 1990?,Q57402,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q57402 wdt:P27 ?answer
+}",1-hop,Q811
+693,What is the shape of a classic soccer ball that is inflated to absolute pressure in one atmosphere?,Q12252328,wdt:P1419,"SELECT ?answer 
+WHERE {
+  wd:Q12252328 wdt:P1419 ?answer
+}",1-hop,"Q499980, Q838611"
+695,In which city of the Minsk region is the Belarusian automobile plant located?,Q815069,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q815069 wdt:P159 ?answer
+}",1-hop,Q200905
+697,"Who painted the picture ""Vision to the boy Bartholomew""?",Q4110588,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q4110588 wdt:P170 ?answer
+}",1-hop,Q318427
+698,"Whom later became a student Dwight F. Davis, a developer and one of the founders of the Davis Cup?",Q53403,wdt:P39,"SELECT ?answer 
+WHERE {
+  wd:Q53403 wdt:P39 ?answer
+}",1-hop,"Q1542521, Q2419102"
+699,In which city was the famous Argentine composer Astor Piazzolla born?,Q172505,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q172505 wdt:P19 ?answer
+}",1-hop,Q52607
+700,In which city in the United States is the main hall of fame and Museum of rock and roll?,Q179191,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q179191 wdt:P131 ?answer
+}",1-hop,Q37320
+701,What is the favorite of the Russian Empress was Alexey Razumovsky?,Q918514,wdt:P451,"SELECT ?answer 
+WHERE {
+  wd:Q918514 wdt:P451 ?answer
+}",1-hop,Q130752
+702,What country does Qantas (Qantas) represent?,Q32491,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q32491 wdt:P17 ?answer
+}",1-hop,Q408
+703,"Who wrote the story ""Journey on the Snark"" after a cruise on the Pacific ocean?",Q3207964,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q3207964 wdt:P50 ?answer
+}",1-hop,Q45765
+704,"Which rock band created the hit ""Don't Cry""?",Q1242271,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q1242271 wdt:P175 ?answer
+}",1-hop,Q11895
+705,"Which Wagner Opera is included in the ""Ring of the Nibelung"" cycle?",Q190237,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q190237 wdt:P527 ?answer
+}",1-hop,"Q272029, Q324319, Q327717, Q333146"
+706,"What musical instrument was played by Edwin Marton, who spoke on ""the Eurovision-2008""?",Q441053,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q441053 wdt:P1303 ?answer
+}",1-hop,Q8355
+707,"Who painted the portrait of Colonel Evgraf Davydov of the life guards of the hussar regiment, which has long been considered an image of Denis Davydov?",Q18688280,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q18688280 wdt:P170 ?answer
+}",1-hop,Q367120
+708,"Who is the author of the painting ""Death of Ivan the terrible""?",Q28226547,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q28226547 wdt:P170 ?answer
+}",1-hop,Q460337
+710,Which country has the highest Buddha statue in the world?,Q2520201,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q2520201 wdt:P17 ?answer
+}",1-hop,Q148
+711,Which Jules Verne novel features the character Jacques Paganel?,Q6120783,wdt:P1441,"SELECT ?answer 
+WHERE {
+  wd:Q6120783 wdt:P1441 ?answer
+}",1-hop,"Q1213902, Q3129651"
+712,Who designed the Mikhailovsky Palace?,Q1930409,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q1930409 wdt:P84 ?answer
+}",1-hop,Q619584
+713,"Who was the founder and first editor of the magazine ""Otechestvennye Zapiski""?",Q2661947,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q2661947 wdt:P112 ?answer
+}",1-hop,Q3210067
+715,Which Buenos Aires stadium is the main venue for the home games of the Argentina national football team?,Q79800,wdt:P115,"SELECT ?answer 
+WHERE {
+  wd:Q79800 wdt:P115 ?answer
+}",1-hop,Q276354
+716,Which mountain is the highest point in Poland?,Q36,wdt:P610,"SELECT ?answer 
+WHERE {
+  wd:Q36 wdt:P610 ?answer
+}",1-hop,Q672936
+717,"Who, according to ancient Greek legends, was the father of Zeus?",Q34201,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q34201 wdt:P22 ?answer
+}",1-hop,Q44204
+718,"Who is the Director of the Comedy ""Children of don Quixote"", and the military drama ""two comrades served"", and the adventure film ""Two captains""?",Q4159337,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q4159337 wdt:P57 ?answer
+}",1-hop,Q4214909
+719,What military rank precedes a major?,Q983927,wdt:P155,"SELECT ?answer 
+WHERE {
+  wd:Q983927 wdt:P155 ?answer
+}",1-hop,Q19100
+721,In which country did General Augusto Pinochet carry out a military coup in 1973?,Q856670,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q856670 wdt:P17 ?answer
+}",1-hop,Q298
+723,In what city was the actor Alexey Batalov born?,Q339581,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q339581 wdt:P19 ?answer
+}",1-hop,Q2684
+724,What city in Argentina was Ernesto Che Guevara born in?,Q5809,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q5809 wdt:P19 ?answer
+}",1-hop,Q52535
+725,"What is a historical region of France is home of cheese Camembert, Pont-l'eveque, Neuchatel, Livarot?",Q131480,wdt:P1071,"SELECT ?answer 
+WHERE {
+  wd:Q131480 wdt:P1071 ?answer
+}",1-hop,Q15878
+727,What is the name of the main monetary unit of Hungary?,Q28,wdt:P38,"SELECT ?answer 
+WHERE {
+  wd:Q28 wdt:P38 ?answer
+}",1-hop,Q47190
+728,What title did don Quixote have?,Q944201,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q944201 wdt:P97 ?answer
+}",1-hop,Q379053
+729,In which country is the widest waterfall in Europe Ventas Rumba?,Q1939427,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q1939427 wdt:P17 ?answer
+}",1-hop,Q211
+730,"Who is the author of the Opera Tancred, based on Voltaire's drama of the same name?",Q911443,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q911443 wdt:P86 ?answer
+}",1-hop,Q9726
+733,Which state owns the island of Zanzibar?,Q706541,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q706541 wdt:P17 ?answer
+}",1-hop,Q924
+734,Which city was the capital of Tolkien's Gondor?,Q213586,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q213586 wdt:P36 ?answer
+}",1-hop,Q308657
+735,"Which of the children's writers wrote the book ""from two to five""?",Q18687121,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q18687121 wdt:P50 ?answer
+}",1-hop,Q347685
+736,"Which famous singer performed the song ""Prisencolinensinainciusol"" in the recitative style?",Q1750334,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q1750334 wdt:P175 ?answer
+}",1-hop,Q199943
+739,Where do you need to go to visit the Edge of the World?,Q4237452,wdt:P706,"SELECT ?answer 
+WHERE {
+  wd:Q4237452 wdt:P706 ?answer
+}",1-hop,Q1043128
+740,"What, in fact, is a German alcoholic drink ""Jagermeister""?",Q661871,wdt:P279,"SELECT ?answer 
+WHERE {
+  wd:Q661871 wdt:P279 ?answer
+}",1-hop,Q178780
+741,"Which legendary rock band owns the iconic album "" Sabotage ""(1975)?",Q692298,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q692298 wdt:P175 ?answer
+}",1-hop,Q47670
+742,What is the name of the regional center of the Transcarpathian region of Ukraine?,Q170213,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q170213 wdt:P36 ?answer
+}",1-hop,Q156711
+744,"Who was the Director of the feature film collage ""Mayakovsky laughs or Bug-75""?",Q4286407,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q4286407 wdt:P57 ?answer
+}",1-hop,Q545844
+746,In what city was V. V. Nabokov born?,Q36591,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q36591 wdt:P19 ?answer
+}",1-hop,Q656
+747,"What, from the point of view of botany, is the almond fruit?",Q39918,wdt:P4000,"SELECT ?answer 
+WHERE {
+  wd:Q39918 wdt:P4000 ?answer
+}",1-hop,Q14712
+748,"Who is the author and first performer of the smash hit ""My Way""?",Q925657,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q925657 wdt:P175 ?answer
+}",1-hop,Q40912
+749,What is the name of the capital of Canada?,Q16,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q16 wdt:P36 ?answer
+}",1-hop,Q1930
+750,In which country is the Cesar film award given?,Q174389,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q174389 wdt:P17 ?answer
+}",1-hop,Q142
+751,"In which city is the famous sculpture ""Motherland"" located?",Q1601986,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q1601986 wdt:P131 ?answer
+}",1-hop,Q914
+753,In what century did the famous storyteller Hans Christian Andersen live?,Q5673,wdt:P2348,"SELECT ?answer 
+WHERE {
+  wd:Q5673 wdt:P2348 ?answer
+}",1-hop,Q6955
+754,What is the name of the stadium of the Bayern Munich football club?,Q15789,wdt:P115,"SELECT ?answer 
+WHERE {
+  wd:Q15789 wdt:P115 ?answer
+}",1-hop,Q127429
+755,In what ocean did the Titanic meet an iceberg?,Q25173,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q25173 wdt:P276 ?answer
+}",1-hop,Q97
+757,"What is the name of the Italian ""Carabas Barabas""?",Q14076726,wdt:P941,"SELECT ?answer 
+WHERE {
+  wd:Q14076726 wdt:P941 ?answer
+}",1-hop,Q3844557
+758,Which city is the capital of Udmurtia?,Q5422,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q5422 wdt:P36 ?answer
+}",1-hop,Q5426
+760,"Which writer is the author of the famous novel ""Fahrenheit 451""?",Q202009,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q202009 wdt:P50 ?answer
+}",1-hop,Q40640
+761,In which country did king David the Builder rule?,Q36760,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q36760 wdt:P27 ?answer
+}",1-hop,Q230
+762,"Who is the founder of the famous social network ""Vkontakte""?",Q116933,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q116933 wdt:P112 ?answer
+}",1-hop,"Q149067, Q15072554, Q19799931"
+763,"Which German writer is the author of the short story ""Death in Venice"", which tells about the love of the writer Gustav von Aschenbach for the boy Tadzio?",Q828296,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q828296 wdt:P50 ?answer
+}",1-hop,Q37030
+765,"In what team sport is the prize ""Gagarin Cup"" played?",Q1166017,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q1166017 wdt:P641 ?answer
+}",1-hop,Q41466
+766,In which country is the Holy city of Machu Picchu located?,Q676203,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q676203 wdt:P17 ?answer
+}",1-hop,Q419
+767,What city was Zetkin born in?,Q75823,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q75823 wdt:P19 ?answer
+}",1-hop,Q70981
+769,What country is the pyramid of the Sun located in?,Q29238,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q29238 wdt:P17 ?answer
+}",1-hop,Q96
+771,What island was the lighthouse of Alexandria on?,Q43244,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q43244 wdt:P276 ?answer
+}",1-hop,Q2696558
+772,What book did Stephen Hawking write?,Q17714,wdt:P800,"SELECT ?answer 
+WHERE {
+  wd:Q17714 wdt:P800 ?answer
+}",1-hop,"Q471726, Q918057, Q1815797, Q3284950, Q5575842, Q21532983, Q28406292"
+773,"Who is the author of the music for the film ""Three plus two""?",Q1634934,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q1634934 wdt:P86 ?answer
+}",1-hop,Q502265
+774,What object in Barnaul is named after Herman Stepanovich Titov?,Q1858312,wdt:P31,"SELECT ?answer 
+WHERE {
+  wd:Q1858312 wdt:P31 ?answer
+}",1-hop,Q1248784
+775,Who wrote the Sherlock Holmes story?,Q4653,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q4653 wdt:P170 ?answer
+}",1-hop,Q35610
+777,"What kind of sport does the fantasy film with Kevin costner ""the Field of his dreams"" tell about?",Q517958,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q517958 wdt:P641 ?answer
+}",1-hop,Q5369
+778,What currency is used in Liechtenstein?,Q347,wdt:P38,"SELECT ?answer 
+WHERE {
+  wd:Q347 wdt:P38 ?answer
+}",1-hop,Q25344
+780,Which city is the capital of the United Arab Emirates?,Q878,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q878 wdt:P36 ?answer
+}",1-hop,Q1519
+781,What is the name of the city that was the capital of Russian America under the name of Novo-Arkhangelsk?,Q910495,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q910495 wdt:P36 ?answer
+}",1-hop,Q79804
+782,In which French city was the impressionist master Pierre-Auguste Renoir born?,Q39931,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q39931 wdt:P19 ?answer
+}",1-hop,Q45656
+783,What city is the headquarters of the International Committee of the red cross?,Q5987345,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q5987345 wdt:P159 ?answer
+}",1-hop,Q71
+784,What part of the world is Israel located in?,Q801,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q801 wdt:P30 ?answer
+}",1-hop,Q48
+786,Which city is the capital of Slovakia?,Q214,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q214 wdt:P36 ?answer
+}",1-hop,Q1780
+788,"Who wrote ""the Odessa stories""?",Q1775716,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q1775716 wdt:P50 ?answer
+}",1-hop,Q49080
+790,"What composer wrote the music for the movies ""Seventeen moments of spring"" and "" irony of fate, or with a light steam!""?",Q472018,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q472018 wdt:P86 ?answer
+}",1-hop,Q724254
+791,Under what Russian ruler was the Novodevichy monastery founded in Moscow?,Q270725,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q270725 wdt:P112 ?answer
+}",1-hop,Q49686
+794,"In which capital city is the Collapsible bridge located, the links of which are folded into an accordion",Q2001686,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q2001686 wdt:P131 ?answer
+}",1-hop,Q84
+795,Who is the founder of the Korean company Hyundai,Q29311,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q29311 wdt:P112 ?answer
+}",1-hop,Q468467
+796,"Who is the author of the classic Chinese novel ""Journey to the West""?",Q70784,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q70784 wdt:P50 ?answer
+}",1-hop,Q228889
+797,In what ocean is the island of Iceland located?,Q3740828,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q3740828 wdt:P206 ?answer
+}",1-hop,"Q97, Q788"
+798,In which city is the regional Museum of fine arts named after M. A. Vrubel?,Q19844167,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q19844167 wdt:P131 ?answer
+}",1-hop,Q898
+799,Where is the Central naval Museum located?,Q190439,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q190439 wdt:P131 ?answer
+}",1-hop,Q656
+800,In which city is the famous Mini-Europe Park located?,Q1067006,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q1067006 wdt:P131 ?answer
+}",1-hop,Q239
+802,Which city is the administrative center of Puerto Rico?,Q1183,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1183 wdt:P36 ?answer
+}",1-hop,Q41211
+804,In which country is Pashto spoken?,Q58680,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q58680 wdt:P17 ?answer
+}",1-hop,"Q668, Q843, Q889"
+805,Which city is the capital of Scotland?,Q22,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q22 wdt:P36 ?answer
+}",1-hop,Q23436
+806,Where is the Bible zoo located?,Q2915736,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q2915736 wdt:P131 ?answer
+}",1-hop,Q1218
+809,Which NBA club did Russian national team basketball player Andrey Kirilenko play for 10 years in a row?,Q294788,wdt:P647,"SELECT ?answer 
+WHERE {
+  wd:Q294788 wdt:P647 ?answer
+}",1-hop,Q170649
+810,"Who painted the picture ""the red cavalry Rides from the October capital, to protect the Soviet border""?",Q1523506,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q1523506 wdt:P170 ?answer
+}",1-hop,Q130777
+812,"What is the name of the traditional new year's ceremony of the village of semezhevo in Belarus, which is included in the list of intangible cultural heritage of UNESCO",Q3917908,wdt:P793,"SELECT ?answer 
+WHERE {
+  wd:Q3917908 wdt:P793 ?answer
+}",1-hop,Q862992
+813,"On what mountain, according to the old Testament, did the prophet Moses die?",Q9077,wdt:P20,"SELECT ?answer 
+WHERE {
+  wd:Q9077 wdt:P20 ?answer
+}",1-hop,Q680161
+815,"Who is the author of the verses of the song ""Suliko""?",Q2417129,wdt:P676,"SELECT ?answer 
+WHERE {
+  wd:Q2417129 wdt:P676 ?answer
+}",1-hop,Q379612
+817,"Who was the first performer of ""Eastern song""?",Q16631980,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q16631980 wdt:P175 ?answer
+}",1-hop,Q4329463
+819,Which city is the capital of Portugal?,Q45,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q45 wdt:P36 ?answer
+}",1-hop,Q597
+820,"What was the name of the poet who recreated the Latvian heroic epic ""Lachplesis""?",Q1355709,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q1355709 wdt:P50 ?answer
+}",1-hop,Q503166
+823,Which city is the capital of New Zealand?,Q664,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q664 wdt:P36 ?answer
+}",1-hop,Q23661
+824,In which state does the Institute of religious Affairs perform the functions of a Bank?,Q266456,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q266456 wdt:P17 ?answer
+}",1-hop,Q237
+825,What position did the famous footballer David Beckham play in?,Q10520,wdt:P413,"SELECT ?answer 
+WHERE {
+  wd:Q10520 wdt:P413 ?answer
+}",1-hop,Q193592
+827,"Which city, to which Jules Verne dedicated the story ""the Ideal city"", became the place of his death and burial?",Q33977,wdt:P20,"SELECT ?answer 
+WHERE {
+  wd:Q33977 wdt:P20 ?answer
+}",1-hop,Q41604
+828,Which city is the administrative center of the Spanish Autonomous community of Andalusia?,Q5783,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q5783 wdt:P36 ?answer
+}",1-hop,Q8717
+829,What is the name of the capital of Estonia?,Q191,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q191 wdt:P36 ?answer
+}",1-hop,Q1770
+830,Which city is the capital of Croatia?,Q224,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q224 wdt:P36 ?answer
+}",1-hop,Q1435
+831,"Which British new wave Duo performed the popular hit ""Video Killed the Radio Star""?",Q1164811,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q1164811 wdt:P175 ?answer
+}",1-hop,Q201568
+832,"Which pop group gained worldwide fame by performing the song ""You're a Woman""?",Q6170336,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q6170336 wdt:P175 ?answer
+}",1-hop,Q681697
+833,"Who is the author of the novel ""Dubrovsky""?",Q2379240,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q2379240 wdt:P50 ?answer
+}",1-hop,Q7200
+836,"Which country's President was Nelson Mandela, voted the best Santa Claus of 1996?",Q8023,wdt:P27,"SELECT ?answer 
+WHERE {
+  wd:Q8023 wdt:P27 ?answer
+}",1-hop,Q258
+837,What is the name of the monetary unit of Bosnia and Herzegovina?,Q225,wdt:P38,"SELECT ?answer 
+WHERE {
+  wd:Q225 wdt:P38 ?answer
+}",1-hop,Q179620
+838,What Italian city was Niccolo Paganini born in?,Q66075,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q66075 wdt:P19 ?answer
+}",1-hop,Q1449
+839,Who discovered the law of universal gravitation?,Q134465,wdt:P138,"SELECT ?answer 
+WHERE {
+  wd:Q134465 wdt:P138 ?answer
+}",1-hop,Q935
+841,In what units is atmospheric pressure measured?,Q39552,wdt:P1880,"SELECT ?answer 
+WHERE {
+  wd:Q39552 wdt:P1880 ?answer
+}",1-hop,Q44395
+842,Which country hosts the annual Cannes international video festival?,Q4288454,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q4288454 wdt:P17 ?answer
+}",1-hop,Q159
+843,Where does the Potomac river flow?,Q179444,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q179444 wdt:P17 ?answer
+}",1-hop,Q30
+844,Which city is the capital of Bhutan?,Q917,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q917 wdt:P36 ?answer
+}",1-hop,Q9270
+845,"In which country is Raphael's painting ""the Sistine Madonna""located?",Q328079,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q328079 wdt:P17 ?answer
+}",1-hop,Q183
+846,What was Harry Potter's mother's name?,Q3244512,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q3244512 wdt:P25 ?answer
+}",1-hop,Q754837
+847,In which sport did Viktor Krovopuskov become an Olympic champion four times?,Q719353,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q719353 wdt:P641 ?answer
+}",1-hop,Q12100
+848,What river formed by the confluence of the rivers marañón and Ucayali?,Q200952,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q200952 wdt:P403 ?answer
+}",1-hop,Q3783
+849,Which country is the birthplace of goulash?,Q205762,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q205762 wdt:P17 ?answer
+}",1-hop,Q28
+850,The town in which the Soviet Union produced the KrAZ?,Q783036,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q783036 wdt:P159 ?answer
+}",1-hop,Q156724
+851,"Who made the film ""the First teacher""?",Q3225870,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q3225870 wdt:P57 ?answer
+}",1-hop,Q55208
+852,What was the name of the actress Mordyukova?,Q242138,wdt:P735,"SELECT ?answer 
+WHERE {
+  wd:Q242138 wdt:P735 ?answer
+}",1-hop,Q4327225
+853,Who did Crocodile Gena work at the zoo?,Q49352,wdt:P106,"SELECT ?answer 
+WHERE {
+  wd:Q49352 wdt:P106 ?answer
+}",1-hop,Q25363
+854,What word do Italians use to refer to all types of pasta?,Q20019,wdt:P279,"SELECT ?answer 
+WHERE {
+  wd:Q20019 wdt:P279 ?answer
+}",1-hop,Q178
+855,"Who played the main character in the movie ""Forrest Gump""?",Q3077690,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q3077690 wdt:P175 ?answer
+}",1-hop,Q2263
+856,What metal is necessarily present in any bronze?,Q34095,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q34095 wdt:P527 ?answer
+}",1-hop,"Q753, Q1096"
+858,What river has the tributaries of the Uruguay and Paraguay?,Q179396,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q179396 wdt:P403 ?answer
+}",1-hop,Q127892
+860,Where was top model Naomi Campbell born?,Q199369,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q199369 wdt:P19 ?answer
+}",1-hop,Q146667
+861,In what style is the Church of Christ the Saviour built?,Q194474,wdt:P149,"SELECT ?answer 
+WHERE {
+  wd:Q194474 wdt:P149 ?answer
+}",1-hop,"Q966571, Q2026876"
+862,Who of the ancient heroes defeated kamionsky pig and the Cretan Minotaur?,Q129866,wdt:P157,"SELECT ?answer 
+WHERE {
+  wd:Q129866 wdt:P157 ?answer
+}",1-hop,Q1320718
+863,What metal is the basis of any amalgam?,Q182574,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q182574 wdt:P527 ?answer
+}",1-hop,Q925
+864,In which city is the Anne Frank house Museum located?,Q165366,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q165366 wdt:P131 ?answer
+}",1-hop,Q727
+865,In what battle did Admiral Horatio Nelson die?,Q83235,wdt:P509,"SELECT ?answer 
+WHERE {
+  wd:Q83235 wdt:P509 ?answer
+}",1-hop,Q171416
+866,In what genre of literature is the David Gemmell prize awarded?,Q17017638,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q17017638 wdt:P136 ?answer
+}",1-hop,Q2625243
+1049,What country is the Letka-1 dance from?,Q1859644,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q1859644 wdt:P495 ?answer .
+}",1-hop,Q33
+2002,What was the name of Odysseus ' wife?,Q47231,wdt:P26,"SELECT ?answer
+WHERE {
+  wd:Q47231 wdt:P26 ?answer
+}",1-hop,Q165769
+2004,The country in which the basic monetary unit is the BOLIVAR?,Q203757,wdt:P17,"SELECT ?answer
+WHERE {
+  wd:Q203757 wdt:P17 ?answer
+}",1-hop,Q717
+2005,In which country did rap music originate?,Q6010,wdt:P495,"SELECT ?answer
+WHERE {
+  wd:Q6010 wdt:P495 ?answer
+}",1-hop,Q30
+2009,Who is the winner of the Russian football Cup in 1999?,Q4243903,wdt:P1346,"SELECT ?answer
+WHERE {
+  wd:Q4243903 wdt:P1346 ?answer
+}",1-hop,Q29108
+2015,What kind of art he devoted himself to Nijinsky?,Q194363,wdt:P106,"SELECT ?answer
+WHERE {
+  wd:Q194363 wdt:P106 ?answer
+}",1-hop,"Q805221, Q805253, Q2490358, Q5716684, Q15296811, Q18939491"
+2016,"What fleet is dedicated to our film "" sky slow ship""",Q4315518,wdt:P921,"SELECT ?answer
+WHERE {
+  wd:Q4315518 wdt:P921 ?answer
+}",1-hop,Q765633
+2030,In which Austrian city was Arnold Schwarzenegger born?,Q2685,wdt:P19,"SELECT ?answer
+WHERE {
+  wd:Q2685 wdt:P19 ?answer
+}",1-hop,Q571822
+2040,Who was the winner of Formula 1 racing in 2000?,Q69805,wdt:P1346,"SELECT ?answer
+WHERE {
+  wd:Q69805 wdt:P1346 ?answer
+}",1-hop,"Q9671, Q169898"
+2041,Which country hosted the European football championship in 2004?,Q102920,wdt:P17,"SELECT ?answer
+WHERE {
+  wd:Q102920 wdt:P17 ?answer
+}",1-hop,Q45
+2058,Who became the world Cup champion in France in 1998?,Q101730,wdt:P1346,"SELECT ?answer
+WHERE {
+  wd:Q101730 wdt:P1346 ?answer
+}",1-hop,Q47774
+2059,Who was the 2013 world hockey champion?,Q4428,wdt:P1346,"SELECT ?answer
+WHERE {
+  wd:Q4428 wdt:P1346 ?answer
+}",1-hop,Q913643
+2062,Who was the first champion of the Copa Libertadores?,Q1129982,wdt:P1346,"SELECT ?answer
+WHERE {
+  wd:Q1129982 wdt:P1346 ?answer
+}",1-hop,Q16320
+2064,Where did Polish President Lech Kaczynski die in a plane crash in 2010?,Q2757,wdt:P20,"SELECT ?answer
+WHERE {
+  wd:Q2757 wdt:P20 ?answer
+}",1-hop,Q2337
+2077,Who won the world Cup in 2002?,Q47735,wdt:P1346,"SELECT ?answer
+WHERE {
+  wd:Q47735 wdt:P1346 ?answer
+}",1-hop,Q83459
+2087,"Which country is the birthplace of the ""Krakowiak""dance?",Q648283,wdt:P495,"SELECT ?answer
+WHERE {
+  wd:Q648283 wdt:P495 ?answer
+}",1-hop,Q36
+2095,Who became the 16th world chess champion in 2013?,Q917629,wdt:P1346,"SELECT ?answer
+WHERE {
+  wd:Q917629 wdt:P1346 ?answer
+}",1-hop,Q106807
+2112,Which city is the capital of Burundi?,Q967,wdt:P36,"SELECT ?answer
+WHERE {
+  wd:Q967 wdt:P36 ?answer
+}",1-hop,Q167551
+2113,"Who compiled the ""Explanatory dictionary of the living great Russian language""?",Q1970746,wdt:P50,"SELECT ?answer
+WHERE {
+  wd:Q1970746 wdt:P50 ?answer
+}",1-hop,Q326499
+2123,Where was the coronation of Napoleon I?,Q973118,wdt:P276,"SELECT ?answer
+WHERE {
+  wd:Q973118 wdt:P276 ?answer
+}",1-hop,Q2981
+3000,Where is Loch ness?,Q49650,wdt:P17,"SELECT ?answer
+WHERE {
+  wd:Q49650 wdt:P17 ?answer .
+}",1-hop,Q145
+3006,"What was the name of Raskolnikov from ""Crime and punishment""?",Q934089,wdt:P735,"SELECT ?answer
+WHERE {
+  wd:Q934089 wdt:P735 ?answer .
+}",1-hop,Q21127485
+3008,Which country produces Peroni beer?,Q865859,wdt:P17,"SELECT ?answer
+WHERE {
+  wd:Q865859 wdt:P17 ?answer .
+}",1-hop,Q38
+3009,What was the name of Count Cagliostro?,Q312332,wdt:P735,"SELECT ?answer
+WHERE {
+  wd:Q312332 wdt:P735 ?answer .
+}",1-hop,Q15720844
+3011,What was Odysseus ' father's name?,Q47231,wdt:P22,"SELECT ?answer
+WHERE {
+  wd:Q47231 wdt:P22 ?answer .
+}",1-hop,Q748296
+3016,"Who starred in the role of Soviet officer Ivan Draghi, opposing the famous boxer rocky?",Q2288207,wdt:P175,"SELECT ?answer
+WHERE {
+  wd:Q2288207 wdt:P175 ?answer .
+}",1-hop,Q181678
+3019,"What was the name of President Kennedy, who was killed in Dallas",Q9696,wdt:P735,"SELECT ?answer
+WHERE {
+  wd:Q9696 wdt:P735 ?answer .
+}",1-hop,Q4925477
+3021,Which plant is processed into tequila,Q122195,wdt:P186,"SELECT ?answer
+WHERE {
+  wd:Q122195 wdt:P186 ?answer .
+}",1-hop,Q155874
+3024,Who was Rigoletto at the king's court,Q50386830,wdt:P106,"SELECT ?answer
+WHERE {
+  wd:Q50386830 wdt:P106 ?answer .
+}",1-hop,Q215548
+3025,Who is Putin today?,Q7747,wdt:P39,"SELECT ?answer
+WHERE {
+  wd:Q7747 wdt:P39 ?answer .
+}",1-hop,"Q140686, Q218295, Q842386, Q4109060, Q4127082, Q4399975, Q14805701, Q27494237, Q38715304, Q38715670, Q38715852"
+3026,Who told us about the amazing voice of Gelsomino,Q3759322,wdt:P50,"SELECT ?answer
+WHERE {
+  wd:Q3759322 wdt:P50 ?answer .
+}",1-hop,Q193018
+3028,What is the name of the Korean currency?,Q884,wdt:P38,"SELECT ?answer
+WHERE {
+  wd:Q884 wdt:P38 ?answer .
+}",1-hop,Q202040
+3034,"Who did V. Serov depict in the painting ""Girl with peaches""?",Q4156438,wdt:P180,"SELECT ?answer
+WHERE {
+  wd:Q4156438 wdt:P180 ?answer .
+}",1-hop,Q50546603
+3035,How large a poem did Homer write the Iliad and the Odyssey?,Q8275,wdt:P2551,"SELECT ?answer
+WHERE {
+  wd:Q8275 wdt:P2551 ?answer .
+}",1-hop,Q5254470
+3039,"Where is the world's only high-altitude open-air skating rink ""Medeo""located?",Q864796,wdt:P17,"SELECT ?answer
+WHERE {
+  wd:Q864796 wdt:P17 ?answer .
+}",1-hop,Q232
+3044,What work is the basis of the libretto of the Opera by J. Verdi's La Traviata?,Q186162,wdt:P144,"SELECT ?answer
+WHERE {
+  wd:Q186162 wdt:P144 ?answer .
+}",1-hop,Q898795
+3045,What sport is the Stanley Cup played in?,Q211872,wdt:P641,"SELECT ?answer
+WHERE {
+  wd:Q211872 wdt:P641 ?answer .
+}",1-hop,Q41466
+3053,Where did the famous philosopher Spinoza live?,Q35802,wdt:P937,"SELECT ?answer
+WHERE {
+  wd:Q35802 wdt:P937 ?answer .
+}",1-hop,"Q1615333, Q41795540"
+3055,Who won the 2010 FIFA world Cup?,Q176883,wdt:P1346,"SELECT ?answer
+WHERE {
+  wd:Q176883 wdt:P1346 ?answer .
+}",1-hop,Q42267
+3057,What was the name of Tolstoy's wife?,Q7243,wdt:P26,"SELECT ?answer
+WHERE {
+  wd:Q7243 wdt:P26 ?answer .
+}",1-hop,Q271934
+3058,In what area are the Solovetsky Islands located?,Q205711,wdt:P131,"SELECT ?answer
+WHERE {
+  wd:Q205711 wdt:P131 ?answer .
+}",1-hop,Q1875
+3065,What was don Quixote's name?,Q944201,wdt:P735,"SELECT ?answer
+WHERE {
+  wd:Q944201 wdt:P735 ?answer .
+}",1-hop,Q18552177
+3070,"What state in the XVI century belonged to the Navy, which went down in history as the ""Invincible Armada""?",Q179684,wdt:P17,"SELECT ?answer
+WHERE {
+  wd:Q179684 wdt:P17 ?answer .
+}",1-hop,Q29
+3072,What will the residents of Tallinn show if you want to look at a Thick Margarita?,Q282994,wdt:P31,"SELECT ?answer
+WHERE {
+  wd:Q282994 wdt:P31 ?answer .
+}",1-hop,Q1978556
+3074,Who rules the state of Brunei?,Q921,wdt:P35,"SELECT ?answer
+WHERE {
+  wd:Q921 wdt:P35 ?answer .
+}",1-hop,Q57327
+3076,What science studies fossils of animals?,Q40614,wdt:P2579,"SELECT ?answer
+WHERE {
+  wd:Q40614 wdt:P2579 ?answer .
+}",1-hop,Q7205
+3081,Where was Joseph Haydn born?,Q7349,wdt:P19,"SELECT ?answer
+WHERE {
+  wd:Q7349 wdt:P19 ?answer .
+}",1-hop,Q673075
+3082,What was the name of the infamous father Makhno?,Q47900,wdt:P735,"SELECT ?answer
+WHERE {
+  wd:Q47900 wdt:P735 ?answer .
+}",1-hop,Q1417705
+3083,Which country is the birthplace of coffee?,Q8486,wdt:P495,"SELECT ?answer
+WHERE {
+  wd:Q8486 wdt:P495 ?answer .
+}",1-hop,"Q96, Q115, Q774, Q800"
+3084,Where is the monument to the urinating boy,Q152072,wdt:P131,"SELECT ?answer
+WHERE {
+  wd:Q152072 wdt:P131 ?answer .
+}",1-hop,Q239
+3087,Who is the causative agent of sleeping sickness?,Q203133,wdt:P828,"SELECT ?answer
+WHERE {
+  wd:Q203133 wdt:P828 ?answer .
+}",1-hop,Q33244
+3089,Who reached the South pole first?,Q933,wdt:P61,"SELECT ?answer
+WHERE {
+  wd:Q933 wdt:P61 ?answer .
+}",1-hop,Q926
+3095,"Which Icelandic volcano made itself felt in 2010, paralyzing Europe's air traffic?",Q269442,wdt:P276,"SELECT ?answer
+WHERE {
+  wd:Q269442 wdt:P276 ?answer .
+}",1-hop,Q2723928
+3101,What monarchical house did the Emperor belong to when he ascended the throne as Franz II and then became Franz I?,Q130834,wdt:P53,"SELECT ?answer
+WHERE {
+  wd:Q130834 wdt:P53 ?answer .
+}",1-hop,Q645719
+3103,In what country is the rock city of Petra located?,Q5788,wdt:P17,"SELECT ?answer
+WHERE {
+  wd:Q5788 wdt:P17 ?answer .
+}",1-hop,Q810
+3105,"Who was one of the strongest opponents of Rome, Pyrrhus?",Q172353,wdt:P106,"SELECT ?answer
+WHERE {
+  wd:Q172353 wdt:P106 ?answer .
+}",1-hop,"Q47064, Q82955"
+3106,"In which Italian city was born, lived and created the father of modern electrophysiology Luigi Galvani?",Q1589,wdt:P19,"SELECT ?answer
+WHERE {
+  wd:Q1589 wdt:P19 ?answer
+}",1-hop,Q1891
+3107,In which country was the first nuclear power plant built?,Q1739453,wdt:P17,"SELECT ?answer
+WHERE {
+  wd:Q1739453 wdt:P17 ?answer .
+}",1-hop,Q159
+3108,In what architectural style was the Catherine Palace built in Pushkin?,Q2854543,wdt:P149,"SELECT ?answer
+WHERE {
+  wd:Q2854543 wdt:P149 ?answer  .
+}",1-hop,"Q840829, Q2359372"
+3110,"What was the name of the wife of calliope's son, Orpheus",Q174353,wdt:P26,"SELECT ?answer
+WHERE {
+  wd:Q174353 wdt:P26 ?answer .
+}",1-hop,Q208588
+3112,Where is the international Bank for reconstruction and development (IBRD) located?,Q191384,wdt:P159,"SELECT ?answer
+WHERE {
+  wd:Q191384 wdt:P159 ?answer .
+}",1-hop,Q61
+3116,"What object gave the name to the famous Opera house ""La Scala""?",Q5471,wdt:P138,"SELECT ?answer
+WHERE {
+  wd:Q5471 wdt:P138 ?answer .
+}",1-hop,Q902320
+3119,Who is considered the founder of graph theory?,Q131476,wdt:P61,"SELECT ?answer
+WHERE {
+  wd:Q131476 wdt:P61 ?answer.
+}",1-hop,Q7604
+3122,What title did the writer Antoine de Saint-Exupery inherit from his ancestors?,Q2908,wdt:P97,"SELECT ?answer
+WHERE {
+  wd:Q2908 wdt:P97 ?answer .
+}",1-hop,Q3519259
+3127,In which Austrian city is the coffee Museum located?,Q306628,wdt:P276,"SELECT ?answer
+WHERE {
+  wd:Q306628 wdt:P276 ?answer .
+}",1-hop,Q1741
+3128,In which city is the residence of the famous Guinness brewing company?,Q2319266,wdt:P159,"SELECT ?answer
+WHERE {
+  wd:Q2319266 wdt:P159 ?answer.
+}",1-hop,Q1761
+3135,What is the name of the highest point in Central America,Q27611,wdt:P610,"SELECT ?answer
+WHERE {
+  wd:Q27611 wdt:P610 ?answer .
+}",1-hop,Q818467
+3136,Where did the philosopher Confucius come from?,Q4604,wdt:P19,"SELECT ?answer
+WHERE {
+  wd:Q4604 wdt:P19 ?answer .
+}",1-hop,Q210287
+3146,"Which city was the capital of the state of Ashanti, which existed on the territory of modern Ghana from the end of the XVII to the beginning of the XX century?",Q722071,wdt:P36,"SELECT ?answer
+WHERE {
+  wd:Q722071 wdt:P36 ?answer .
+}",1-hop,Q182059
+3148,"What is the name of Mr. Darcy, one of the main characters in Jane Austen's novel Pride and prejudice?",Q2207092,wdt:P735,"SELECT ?answer
+WHERE {
+  wd:Q2207092 wdt:P735 ?answer .
+}",1-hop,Q63991914
+3150,What day was declared world radio day by the UNESCO General conference?,Q1359258,wdt:P837,"SELECT ?answer
+WHERE {
+  wd:Q1359258 wdt:P837 ?answer .
+}",1-hop,Q2333
+3152,What was the name of the literary mother of the Amateur detective Poirot?,Q170534,wdt:P170,"SELECT ?answer
+WHERE {
+  wd:Q170534 wdt:P170 ?answer .
+}",1-hop,Q35064
+3153,What country is the city of Yu located in?,Q429467,wdt:P17,"SELECT ?answer
+WHERE {
+  wd:Q429467 wdt:P17 ?answer .
+}",1-hop,Q34
+4016,What is the name of the highest mountain in Ukraine?,Q212,wdt:P610,"SELECT ?answer
+WHERE {
+  wd:Q212 wdt:P610 ?answer .
+}",1-hop,Q627508
+6001,What League does Sheffield play in?,Q18491,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q18491 wdt:P118 ?answer
+}",1-hop,Q18502
+6002,What part of the world is Belarus located in?,Q184,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q184 wdt:P30 ?answer
+}",1-hop,Q46
+6003,What part of the world is Russia located in?,Q159,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q159 wdt:P30 ?answer
+}",1-hop,"Q46, Q48"
+6004,Where is Kutuzov buried?,Q185801,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q185801 wdt:P119 ?answer
+}",1-hop,Q656
+6005,Where is the 2019 Invasion taking place?,Q1975193,wdt:P276,"SELECT ?answer 
+WHERE {
+  wd:Q1975193 wdt:P276 ?answer
+}",1-hop,Q4183061
+6006,Which Formula 1 racing team does Mikhail Schumacher play for?,Q9671,wdt:P54,"SELECT ?answer 
+WHERE {
+  wd:Q9671 wdt:P54 ?answer
+}",1-hop,"Q169898, Q171329, Q171367, Q172721"
+6007,What architectural style does the Winter Palace belong to?,Q182147,wdt:P149,"SELECT ?answer 
+WHERE {
+  wd:Q182147 wdt:P149 ?answer
+}",1-hop,Q2359372
+6008,What architectural style does Notre Dame belong to?,Q2981,wdt:P149,"SELECT ?answer 
+WHERE {
+  wd:Q2981 wdt:P149 ?answer
+}",1-hop,"Q2245347, Q2914850, Q72553200, Q72553961"
+6009,What is the name of Brechalov Udmurtia?,Q19818042,wdt:P735,"SELECT ?answer 
+WHERE {
+  wd:Q19818042 wdt:P735 ?answer
+}",1-hop,Q17501806
+6010,How is Prague divided into districts?,Q1085,wdt:P150,"SELECT ?answer 
+WHERE {
+  wd:Q1085 wdt:P150 ?answer
+}",1-hop,"Q21891843, Q23820229, Q84499835, Q84565071, Q84566351, Q84572475, Q84572977, Q84593853, Q84599401, Q84682501, Q84763814, Q84947682, Q174248, Q378120, Q580728, Q600063, Q628212, Q662985, Q693350, Q744598, Q748211, Q753219, Q753289, Q753292, Q840751, Q868618, Q942842, Q1013032, Q1013035, Q1624461, Q1734030, Q1810336, Q1811143, Q1821473, Q1822800, Q1963689, Q1969345, Q1987157, Q1996280, Q2003486, Q2041885, Q2048241, Q2061921, Q2078708, Q2216373, Q2219104, Q2297365, Q2317527, Q2320562, Q2331979, Q2403918, Q2440414, Q2442419, Q2446033, Q2456160, Q2460331, Q2467285, Q2499127, Q2501433, Q2533951, Q2580968, Q2612318, Q2623877, Q2638290, Q2661930, Q2689681, Q2693443, Q2709316, Q2717469, Q2782104, Q2786011, Q2795720, Q2834321, Q3176913, Q3489924, Q3489932, Q3489935, Q3490214, Q3490254, Q3490377, Q3490395, Q3490530, Q3490542, Q3490548, Q3490702, Q3497283, Q3499350, Q3499380, Q3499395, Q3499402, Q3499406, Q3509023, Q3509048, Q3509354, Q3509373, Q3509425, Q3509446, Q3509457, Q3509657, Q3509772, Q3509780, Q3509815, Q3509834, Q3563089, Q3563100, Q3563133, Q3563146, Q3563211, Q3563232, Q3564567, Q3566327, Q3566606"
+6011,What is the legal form of the company's thunder?,Q940518,wdt:P1454,"SELECT ?answer 
+WHERE {
+  wd:Q940518 wdt:P1454 ?answer
+}",1-hop,Q13641190
+6013,What districts are there in Sochi?,Q39420,wdt:P150,"SELECT ?answer 
+WHERE {
+  wd:Q39420 wdt:P150 ?answer
+}",1-hop,"Q2084341, Q3273932, Q4252909, Q4262671"
+6014,What order was awarded to Shoigu?,Q32024,wdt:P166,"SELECT ?answer 
+WHERE {
+  wd:Q32024 wdt:P166 ?answer
+}",1-hop,"Q612907, Q654471, Q762844, Q1703180, Q1967942, Q1992013, Q1992153, Q1992181, Q2268261, Q3853593, Q3885141, Q4188115, Q4240311, Q4286712, Q4286829, Q4286849, Q4286882, Q4286937, Q4286990, Q4287015, Q4287082, Q4287097, Q4287144, Q4375455, Q4375533, Q12756735, Q16481642, Q16485587, Q18080427, Q18080429, Q18080612, Q19399024, Q19910703, Q21644047, Q24932811, Q25394795, Q57316823, Q95000245"
+6015,What is the administrative division of the United Kingdom?,Q145,wdt:P150,"SELECT ?answer 
+WHERE {
+  wd:Q145 wdt:P150 ?answer
+}",1-hop,"Q21, Q22, Q25, Q26"
+6016,What is the military rank of defense Minister Shoigu?,Q32024,wdt:P410,"SELECT ?answer 
+WHERE {
+  wd:Q32024 wdt:P410 ?answer
+}",1-hop,Q20183
+6018,What position does Shoigu hold?,Q32024,wdt:P39,"SELECT ?answer 
+WHERE {
+  wd:Q32024 wdt:P39 ?answer
+}",1-hop,"Q4151339, Q17287317, Q17287320, Q17287321"
+6019,What was the title of the English poet George Byron?,Q5679,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q5679 wdt:P97 ?answer
+}",1-hop,Q165503
+6020,What prize was awarded to Perelman?,Q117346,wdt:P166,"SELECT ?answer 
+WHERE {
+  wd:Q117346 wdt:P166 ?answer
+}",1-hop,"Q28835, Q1275243"
+6021,Who wrote the song Holy war?,Q714119,wdt:P676,"SELECT ?answer 
+WHERE {
+  wd:Q714119 wdt:P676 ?answer
+}",1-hop,Q1396852
+6022,Who is Yulia Nachalova's father?,Q2454464,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q2454464 wdt:P22 ?answer
+}",1-hop,Q70498154
+6024,Where does the Vuoksa river go?,Q819448,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q819448 wdt:P403 ?answer
+}",1-hop,Q15288
+6026,What did Mozart play on?,Q254,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q254 wdt:P1303 ?answer
+}",1-hop,"Q1444, Q5994, Q8355, Q80284, Q81982, Q191823, Q281460, Q1521313"
+6027,By what constellation can you find the North star?,Q12980,wdt:P59,"SELECT ?answer 
+WHERE {
+  wd:Q12980 wdt:P59 ?answer
+}",1-hop,Q10478
+6029,What did Buzova graduate from?,Q4098374,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q4098374 wdt:P69 ?answer
+}",1-hop,Q4480733
+6030,What League does AIK play in?,Q221602,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q221602 wdt:P118 ?answer
+}",1-hop,Q202243
+6032,What League does Copenhagen play in?,Q188430,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q188430 wdt:P118 ?answer
+}",1-hop,Q204752
+6033,What part of the world is Egypt located in?,Q79,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q79 wdt:P30 ?answer
+}",1-hop,"Q15, Q48"
+6035,What educational institutions did Putin attend?,Q7747,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q7747 wdt:P69 ?answer
+}",1-hop,"Q27621, Q1978570, Q2387574, Q2495829, Q4525174, Q4534839, Q27430017"
+6036,Where was the international Olympic Committee established?,Q40970,wdt:P740,"SELECT ?answer 
+WHERE {
+  wd:Q40970 wdt:P740 ?answer
+}",1-hop,Q90
+6037,Where was Mikhail Kalashnikov born?,Q167573,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q167573 wdt:P19 ?answer
+}",1-hop,Q1982087
+6039,Where is the NATO headquarters?,Q7184,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q7184 wdt:P159 ?answer
+}",1-hop,"Q239, Q12800833"
+6040,What does the computer's system block consist of?,Q68,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q68 wdt:P527 ?answer
+}",1-hop,"Q250, Q3966, Q5300, Q7397, Q9143, Q183484, Q2384798"
+6041,What is the capital of Virginia?,Q1370,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1370 wdt:P36 ?answer
+}",1-hop,Q43421
+6042,What part of the world is Kazakhstan?,Q232,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q232 wdt:P30 ?answer
+}",1-hop,"Q46, Q48"
+6044,What kind of voice does Luciano Pavarotti have?,Q37615,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q37615 wdt:P412 ?answer
+}",1-hop,Q5492408
+6045,What kind of voice does Maria Callas have?,Q128297,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q128297 wdt:P412 ?answer
+}",1-hop,Q3964988
+6046,What was the title of Princess Diana?,Q9685,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q9685 wdt:P97 ?answer
+}",1-hop,"Q579431, Q2000835"
+6047,What University did Anurag graduate from?,Q2839609,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q2839609 wdt:P69 ?answer
+}",1-hop,Q665105
+6048,Who was Achilles ' mother?,Q41746,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q41746 wdt:P25 ?answer
+}",1-hop,Q184437
+6049,Who was the mother of Hercules?,Q122248,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q122248 wdt:P25 ?answer
+}",1-hop,Q190543
+6051,Who is Alsou's husband?,Q270951,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q270951 wdt:P26 ?answer
+}",1-hop,Q55766251
+6052,Who founded Warner brothers?,Q126399,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q126399 wdt:P112 ?answer
+}",1-hop,"Q72614, Q104161, Q1384655, Q2721194"
+6053,Who is the Director of the film Godunov?,Q25393779,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q25393779 wdt:P57 ?answer
+}",1-hop,Q4315520
+6054,Who composed the cantata Alexander Nevsky?,Q2541462,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q2541462 wdt:P86 ?answer
+}",1-hop,Q49481
+6055,Where does the Pasha river go?,Q2087477,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q2087477 wdt:P403 ?answer
+}",1-hop,Q213067
+6056,What languages are spoken by Putin?,Q7747,wdt:P1412,"SELECT ?answer 
+WHERE {
+  wd:Q7747 wdt:P1412 ?answer
+}",1-hop,"Q188, Q1860, Q7737, Q9027"
+6057,On what river is Perm located?,Q915,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q915 wdt:P206 ?answer
+}",1-hop,Q79082
+6058,What part of the world is Brazil located in?,Q155,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q155 wdt:P30 ?answer
+}",1-hop,Q18
+6059,What part of the world is Germany located in?,Q183,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q183 wdt:P30 ?answer
+}",1-hop,Q46
+6060,What did Louis Armstrong play on?,Q1779,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q1779 wdt:P1303 ?answer
+}",1-hop,"Q8338, Q202027, Q17172850"
+6061,What country's capital is Bogota?,Q2841,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q2841 wdt:P1376 ?answer
+}",1-hop,"Q739, Q8965, Q199821, Q232564, Q1055848, Q3591854"
+6063,What city is Dhaka the capital of?,Q1354,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q1354 wdt:P1376 ?answer
+}",1-hop,"Q902, Q330158, Q842931, Q1850485, Q2347909"
+6064,What is Budapest the capital of?,Q1781,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q1781 wdt:P1376 ?answer
+}",1-hop,Q28
+6066,What League does torpedo Moscow play in?,Q324338,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q324338 wdt:P118 ?answer
+}",1-hop,Q162533
+6068,What part of the world is China located in?,Q148,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q148 wdt:P30 ?answer
+}",1-hop,Q48
+6069,In what sport is the Kremlin Cup played?,Q299603,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q299603 wdt:P641 ?answer
+}",1-hop,Q847
+6070,What city do the heroes of the big Bang Theory live in?,Q8539,wdt:P840,"SELECT ?answer 
+WHERE {
+  wd:Q8539 wdt:P840 ?answer
+}",1-hop,Q485176
+6071,In what genre is the film kin-DZA-DZA made?,Q1415194,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q1415194 wdt:P136 ?answer
+}",1-hop,"Q157443, Q192881, Q319221, Q471839, Q761469, Q2973181, Q20443008"
+6072,In what ocean is the Mariana trench located?,Q510,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q510 wdt:P206 ?answer
+}",1-hop,Q98
+6073,In what direction did Tyutchev write?,Q37217,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q37217 wdt:P135 ?answer
+}",1-hop,Q37068
+6074,In what direction did Caravaggio work?,Q42207,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q42207 wdt:P135 ?answer
+}",1-hop,Q37853
+6075,In what style is St. Isaac's Cathedral built in St. Petersburg?,Q215423,wdt:P149,"SELECT ?answer 
+WHERE {
+  wd:Q215423 wdt:P149 ?answer
+}",1-hop,"Q54111, Q170292"
+6076,What University was Isaac Newton educated at?,Q935,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q935 wdt:P69 ?answer
+}",1-hop,"Q332342, Q7744473"
+6077,What League does PSG belong to?,Q483020,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q483020 wdt:P118 ?answer
+}",1-hop,Q13394
+6078,Which League does real Madrid belong to?,Q8682,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q8682 wdt:P118 ?answer
+}",1-hop,Q324867
+6079,Where is Pushkin Alexander Sergeyevich buried?,Q7200,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q7200 wdt:P119 ?answer
+}",1-hop,Q4411519
+6080,Where is Google's headquarters located?,Q95,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q95 wdt:P159 ?answer
+}",1-hop,Q486860
+6081,Where was the Kino group formed?,Q650555,wdt:P740,"SELECT ?answer 
+WHERE {
+  wd:Q650555 wdt:P740 ?answer
+}",1-hop,Q656
+6082,Where is Jesus Christ buried?,Q302,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q302 wdt:P119 ?answer
+}",1-hop,"Q1218, Q187702, Q540882, Q1494672, Q2280628, Q7818625"
+6084,Where he is buried Choi?,Q487125,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q487125 wdt:P119 ?answer
+}",1-hop,Q1332307
+6088,What dynasty did Prince Vladimir Monomakh belong to?,Q60928,wdt:P53,"SELECT ?answer 
+WHERE {
+  wd:Q60928 wdt:P53 ?answer
+}",1-hop,Q210398
+6090,What genre does Dead souls belong to?,Q647379,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q647379 wdt:P136 ?answer
+}",1-hop,"Q8261, Q128758, Q474090"
+6091,What movie company is shooting Batman?,Q166262,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q166262 wdt:P272 ?answer
+}",1-hop,"Q126399, Q621364, Q984047, Q2924461"
+6092,Which film company is shooting Game of thrones?,Q23572,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q23572 wdt:P272 ?answer
+}",1-hop,Q23633
+6093,Which company shot Aquaman?,Q22998395,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q22998395 wdt:P272 ?answer
+}",1-hop,"Q126399, Q2924461, Q3011161, Q31197934"
+6094,Which company took down Deadpool?,Q19347291,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q19347291 wdt:P272 ?answer
+}",1-hop,"Q1200552, Q17343562, Q18155354, Q22807052"
+6095,What is the legal form of Aeroflot?,Q58707,wdt:P1454,"SELECT ?answer 
+WHERE {
+  wd:Q58707 wdt:P1454 ?answer
+}",1-hop,Q13641190
+6096,What is the legal form of the Mars company?,Q695087,wdt:P1454,"SELECT ?answer 
+WHERE {
+  wd:Q695087 wdt:P1454 ?answer
+}",1-hop,Q1589009
+6097,What is the branch of the company Yandex?,Q5281,wdt:P452,"SELECT ?answer 
+WHERE {
+  wd:Q5281 wdt:P452 ?answer
+}",1-hop,"Q75, Q880371, Q56611700"
+6100,What gender is Face?,Q42296351,wdt:P21,"SELECT ?answer 
+WHERE {
+  wd:Q42296351 wdt:P21 ?answer
+}",1-hop,Q6581097
+6101,What is the most famous work of Nicolaus Copernicus?,Q619,wdt:P800,"SELECT ?answer 
+WHERE {
+  wd:Q619 wdt:P800 ?answer
+}",1-hop,"Q675765, Q845981, Q3984081"
+6102,"What University did Boris Yeltsin, the first President of Russia, graduate from?",Q34453,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q34453 wdt:P69 ?answer
+}",1-hop,"Q1506552, Q1938341"
+6103,What University did Sobchak graduate from?,Q287099,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q287099 wdt:P69 ?answer
+}",1-hop,"Q27621, Q322964, Q323681"
+6104,What instrument did Beethoven play?,Q255,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q255 wdt:P1303 ?answer
+}",1-hop,"Q5994, Q8355"
+6105,"What title did the founder of the modern Olympic movement, Pierre de Coubertin, have?",Q82984,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q82984 wdt:P97 ?answer
+}",1-hop,Q165503
+6106,What University did Putin graduate from?,Q7747,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q7747 wdt:P69 ?answer
+}",1-hop,"Q27621, Q1978570, Q2387574, Q2495829, Q4525174, Q4534839, Q27430017"
+6107,What are Mozart's outstanding works?,Q254,wdt:P800,"SELECT ?answer 
+WHERE {
+  wd:Q254 wdt:P800 ?answer
+}",1-hop,"Q5064, Q12025, Q201873, Q207875, Q231390, Q586421"
+6108,What prize did Sigmund Freud receive?,Q9215,wdt:P166,"SELECT ?answer 
+WHERE {
+  wd:Q9215 wdt:P166 ?answer
+}",1-hop,"Q159909, Q14906020"
+6109,Who is the architect of the Winter Palace in St. Petersburg?,Q182147,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q182147 wdt:P84 ?answer
+}",1-hop,Q299687
+6110,Who is the architect of the Peter and Paul fortress?,Q38646,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q38646 wdt:P84 ?answer
+}",1-hop,Q124018
+6111,Who is the architect of the Eiffel tower?,Q243,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q243 wdt:P84 ?answer
+}",1-hop,Q778243
+6112,Who was Hitler's mother?,Q352,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q352 wdt:P25 ?answer
+}",1-hop,Q158314
+6114,Who invented the Internet?,Q75,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q75 wdt:P61 ?answer
+}",1-hop,"Q62843, Q92743"
+6115,Who invented the light bulb?,Q47616,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q47616 wdt:P61 ?answer
+}",1-hop,"Q8743, Q315422"
+6116,Who invented the first telescope?,Q4213,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q4213 wdt:P61 ?answer
+}",1-hop,Q76468
+6117,Who invented the first telephone?,Q11035,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q11035 wdt:P61 ?answer
+}",1-hop,"Q34286, Q77124, Q273314, Q318449"
+6118,Who invented television?,Q289,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q289 wdt:P61 ?answer
+}",1-hop,Q133544
+6119,Who is Yulia Menshova's husband?,Q4290663,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q4290663 wdt:P26 ?answer
+}",1-hop,Q4143870
+6120,Who is Yulia Nachalova's husband?,Q2454464,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q2454464 wdt:P26 ?answer
+}",1-hop,Q552732
+6122,Who wrote the Snow Queen?,Q11880,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q11880 wdt:P50 ?answer
+}",1-hop,Q5673
+6123,Who is the cameraman of the movie Funny guys?,Q1877764,wdt:P344,"SELECT ?answer 
+WHERE {
+  wd:Q1877764 wdt:P344 ?answer
+}",1-hop,"Q4069095, Q4321371"
+6124,Who organized the Amway company?,Q481800,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q481800 wdt:P112 ?answer
+}",1-hop,"Q380156, Q1395520"
+6125,Who founded Google?,Q95,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q95 wdt:P112 ?answer
+}",1-hop,"Q4934, Q92764"
+6127,Who founded the company Apple?,Q312,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q312 wdt:P112 ?answer
+}",1-hop,"Q19837, Q332591, Q483382"
+6128,Who took part in the seven Years ' war?,Q33143,wdt:P710,"SELECT ?answer 
+WHERE {
+  wd:Q33143 wdt:P710 ?answer
+}",1-hop,"Q7738, Q12548, Q27306, Q33296, Q34266, Q45670, Q68518, Q70972, Q80702, Q127318, Q131706, Q131981, Q153136, Q156199, Q161885, Q168651, Q170604, Q215443, Q215530, Q256961, Q258532, Q310650, Q318806, Q706018, Q830084, Q4083686"
+6129,Who designed the Winter Palace?,Q182147,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q182147 wdt:P84 ?answer
+}",1-hop,Q299687
+6130,Who makes Skoda?,Q223696,wdt:P176,"SELECT ?answer 
+WHERE {
+  wd:Q223696 wdt:P176 ?answer
+}",1-hop,Q29637
+6131,Who is the developer of Fortnite?,Q349375,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q349375 wdt:P178 ?answer
+}",1-hop,"Q739711, Q1799063"
+6133,Who is the Director of the Harry Potter film?,Q216930,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q216930 wdt:P57 ?answer
+}",1-hop,Q75079
+6134,Who is the Director of the film Pokrovskie Vorota?,Q3604138,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q3604138 wdt:P57 ?answer
+}",1-hop,Q2628071
+6136,Who composed the sabre dance?,Q1442972,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q1442972 wdt:P86 ?answer
+}",1-hop,Q152293
+6137,Who participated in the battle of Kulikovo?,Q210354,wdt:P710,"SELECT ?answer 
+WHERE {
+  wd:Q210354 wdt:P710 ?answer
+}",1-hop,"Q79965, Q170770, Q1483495, Q4318679"
+6139,Who is the discoverer of Antarctica?,Q51,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q51 wdt:P61 ?answer
+}",1-hop,"Q76754, Q186203, Q4349082"
+6140,Where does the Mama river go?,Q1711506,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q1711506 wdt:P403 ?answer
+}",1-hop,Q26068
+6141,What Islands is the United Kingdom located on?,Q145,wdt:P706,"SELECT ?answer 
+WHERE {
+  wd:Q145 wdt:P706 ?answer
+}",1-hop,"Q22890, Q23666, Q38272"
+6143,On what body of water is Venice?,Q641,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q641 wdt:P206 ?answer
+}",1-hop,Q76925
+6144,On what reservoir does the city of Venice stand?,Q641,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q641 wdt:P206 ?answer
+}",1-hop,Q76925
+6145,What part of the world is Australia located in?,Q408,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q408 wdt:P30 ?answer
+}",1-hop,Q538
+6148,What does Steve Martin play on?,Q16473,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q16473 wdt:P1303 ?answer
+}",1-hop,Q258896
+6150,Under what license is Linux distributed?,Q3251801,wdt:P275,"SELECT ?answer 
+WHERE {
+  wd:Q3251801 wdt:P275 ?answer
+}",1-hop,Q7603
+6151,Who was Putin married to?,Q7747,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q7747 wdt:P26 ?answer
+}",1-hop,Q233282
+6152,What country's capital is London?,Q84,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q84 wdt:P1376 ?answer
+}",1-hop,"Q21, Q145"
+6153,Whose movie is kin DZA DZA?,Q1415194,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q1415194 wdt:P57 ?answer
+}",1-hop,Q380252
+6154,What do Buryats profess?,Q207050,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q207050 wdt:P140 ?answer
+}",1-hop,"Q42042, Q48362"
+6155,What is practiced by the Serbs?,Q127885,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q127885 wdt:P140 ?answer
+}",1-hop,Q3333484
+6156,What does the seed contain?,Q40763,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q40763 wdt:P527 ?answer
+}",1-hop,"Q25624, Q193026, Q1347099, Q1377980, Q2217063"
+6157,Whose composition is the Carefree angel?,Q4085704,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q4085704 wdt:P175 ?answer
+}",1-hop,Q785828
+6158,What organizations does Brazil belong to?,Q155,wdt:P463,"SELECT ?answer 
+WHERE {
+  wd:Q155 wdt:P463 ?answer
+}",1-hop,"Q1065, Q4230, Q4264, Q7809, Q7817, Q7825, Q8475, Q17495, Q19771, Q47488, Q47539, Q123209, Q123759, Q151991, Q182500, Q191384, Q243630, Q340195, Q467938, Q471690, Q499151, Q535086, Q602399, Q605595, Q607301, Q656801, Q827525, Q838116, Q842490, Q943105, Q1025959, Q1043527, Q1045401, Q1072120, Q1480793, Q1484463, Q1570993, Q2836400, Q3369762, Q5611262, Q10283557"
+6160,What League does Chelsea play in?,Q9616,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q9616 wdt:P118 ?answer
+}",1-hop,Q9448
+6161,In which country did the Olympic games begin?,Q188468,wdt:P17,"SELECT ?answer 
+WHERE {
+  wd:Q188468 wdt:P17 ?answer
+}",1-hop,Q41
+6163,Which holding company does the Pyaterochka store belong to?,Q1768969,wdt:P749,"SELECT ?answer 
+WHERE {
+  wd:Q1768969 wdt:P749 ?answer
+}",1-hop,Q258748
+6164,Which holding company does MTS belong to?,Q1368919,wdt:P749,"SELECT ?answer 
+WHERE {
+  wd:Q1368919 wdt:P749 ?answer
+}",1-hop,Q1781702
+6165,In which the holding company is TNT?,Q1975145,wdt:P749,"SELECT ?answer 
+WHERE {
+  wd:Q1975145 wdt:P749 ?answer
+}",1-hop,Q260542
+6166,What part of the world is the United States located in?,Q30,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q30 wdt:P30 ?answer
+}",1-hop,"Q49, Q538"
+6168,In what direction did Pushkin write?,Q7200,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q7200 wdt:P135 ?answer
+}",1-hop,Q37068
+6169,In what sport do women compete for the Uber Cup?,Q1193650,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q1193650 wdt:P641 ?answer
+}",1-hop,Q7291
+6170,In what style is the Cathedral of Notre-Dame de Paris built?,Q2981,wdt:P149,"SELECT ?answer 
+WHERE {
+  wd:Q2981 wdt:P149 ?answer
+}",1-hop,"Q2245347, Q2914850, Q72553200, Q72553961"
+6171,In what style is the Hermitage built?,Q182147,wdt:P149,"SELECT ?answer 
+WHERE {
+  wd:Q182147 wdt:P149 ?answer
+}",1-hop,Q2359372
+6172,What League does Juventus belong to?,Q1422,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q1422 wdt:P118 ?answer
+}",1-hop,Q15804
+6173,Where is Tamerlane's tomb?,Q8462,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q8462 wdt:P119 ?answer
+}",1-hop,Q1256223
+6174,Where did Pushkin live?,Q7200,wdt:P551,"SELECT ?answer 
+WHERE {
+  wd:Q7200 wdt:P551 ?answer
+}",1-hop,"Q649, Q656, Q891, Q900, Q1874, Q5332, Q5337, Q5540, Q5627, Q19566, Q21197, Q156648, Q4092262, Q4536541, Q4538749"
+6175,Where is Stalin buried?,Q855,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q855 wdt:P119 ?answer
+}",1-hop,Q1130019
+6176,Where is the mouth of the Amazon river?,Q3783,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q3783 wdt:P403 ?answer
+}",1-hop,Q97
+6177,Where is the mouth of the Ob river located?,Q973,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q973 wdt:P403 ?answer
+}",1-hop,Q33629
+6178,Where was the Beatles formed?,Q1299,wdt:P740,"SELECT ?answer 
+WHERE {
+  wd:Q1299 wdt:P740 ?answer
+}",1-hop,Q24826
+6179,Where was the Gaza Strip group formed?,Q74645,wdt:P740,"SELECT ?answer 
+WHERE {
+  wd:Q74645 wdt:P740 ?answer
+}",1-hop,Q3426
+6180,Where was buried Yuri Gagarin?,Q7327,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q7327 wdt:P119 ?answer
+}",1-hop,Q1130019
+6182,Where is Yulia Nachalova buried?,Q2454464,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q2454464 wdt:P119 ?answer
+}",1-hop,Q1457437
+6183,Where was Pugacheva born?,Q80510,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q80510 wdt:P19 ?answer
+}",1-hop,Q649
+6184,Where was Sofia Rotaru born?,Q43137,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q43137 wdt:P19 ?answer
+}",1-hop,Q1902692
+6186,Where was Beethoven born?,Q255,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q255 wdt:P19 ?answer
+}",1-hop,Q586
+6187,Where was Decl born?,Q1968358,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q1968358 wdt:P19 ?answer
+}",1-hop,Q649
+6188,Where was Jesus Christ born?,Q302,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q302 wdt:P19 ?answer
+}",1-hop,Q5776
+6189,Where was Tchaikovsky born?,Q7315,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q7315 wdt:P19 ?answer
+}",1-hop,Q133838
+6190,Where did Harry Potter go to school?,Q3244512,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q3244512 wdt:P69 ?answer
+}",1-hop,Q174097
+6191,Where did Oksimiron study?,Q4046107,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q4046107 wdt:P69 ?answer
+}",1-hop,"Q34433, Q1643454"
+6192,Where are the headquarters of ASEAN?,Q7768,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q7768 wdt:P159 ?answer
+}",1-hop,Q3630
+6193,What instrument was owned by Rachmaninoff?,Q131861,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q131861 wdt:P1303 ?answer
+}",1-hop,Q5994
+6194,Who is Vera Brezhneva married to?,Q2329850,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q2329850 wdt:P26 ?answer
+}",1-hop,Q1990094
+6195,Who is Regina Todorenko married to?,Q19694388,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q19694388 wdt:P26 ?answer
+}",1-hop,Q4460646
+6196,Who does Cristiano Ronaldo play for?,Q11571,wdt:P54,"SELECT ?answer 
+WHERE {
+  wd:Q11571 wdt:P54 ?answer
+}",1-hop,"Q1422, Q8682, Q18656, Q75729, Q267245, Q1630430, Q1772776, Q3590754, Q3590758, Q21079208"
+6199,What dynasty was Clovis from?,Q82339,wdt:P53,"SELECT ?answer 
+WHERE {
+  wd:Q82339 wdt:P53 ?answer
+}",1-hop,Q59488
+6200,What dynasty was Charlemagne from?,Q3044,wdt:P53,"SELECT ?answer 
+WHERE {
+  wd:Q3044 wdt:P53 ?answer
+}",1-hop,Q133602
+6201,Which dynasty is Queen Elizabeth 2 from?,Q9682,wdt:P53,"SELECT ?answer 
+WHERE {
+  wd:Q9682 wdt:P53 ?answer
+}",1-hop,"Q81589, Q645968"
+6203,What band performs the song How much is the fish?,Q718897,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q718897 wdt:P175 ?answer
+}",1-hop,Q156255
+6204,What movie company is shooting Star Wars?,Q462,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q462 wdt:P272 ?answer
+}",1-hop,Q242446
+6205,What movie company is shooting justice League?,Q20501835,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q20501835 wdt:P272 ?answer
+}",1-hop,"Q126399, Q2924461"
+6206,Which movie company makes the Avengers?,Q182218,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q182218 wdt:P272 ?answer
+}",1-hop,"Q159846, Q367466"
+6207,What film Studio makes the film Matchmakers?,Q4410005,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q4410005 wdt:P272 ?answer
+}",1-hop,"Q2914786, Q4444575"
+6208,Which movie Studio shot the Joker?,Q42759035,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q42759035 wdt:P272 ?answer
+}",1-hop,"Q126399, Q622668, Q3011161, Q31197934"
+6209,Which film Studio made the film D'artagnan and the three Musketeers?,Q862538,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q862538 wdt:P272 ?answer
+}",1-hop,Q2628487
+6210,Which film Studio made the film Moscow doesn't believe in tears?,Q53105,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q53105 wdt:P272 ?answer
+}",1-hop,Q141336
+6211,Which company owns the Youtube service?,Q866,wdt:P127,"SELECT ?answer 
+WHERE {
+  wd:Q866 wdt:P127 ?answer
+}",1-hop,"Q95, Q20800404"
+6213,Which company produces kinder surprise?,Q181042,wdt:P176,"SELECT ?answer 
+WHERE {
+  wd:Q181042 wdt:P176 ?answer
+}",1-hop,Q269792
+6214,Which company made the toy Story cartoon?,Q171048,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q171048 wdt:P272 ?answer
+}",1-hop,"Q127552, Q191224"
+6216,What is Google's parent company?,Q95,wdt:P749,"SELECT ?answer 
+WHERE {
+  wd:Q95 wdt:P749 ?answer
+}",1-hop,Q20800404
+6217,What is the capital of great Britain?,Q145,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q145 wdt:P36 ?answer
+}",1-hop,Q84
+6219,What is the capital of the Byzantine Empire?,Q12544,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q12544 wdt:P36 ?answer
+}",1-hop,"Q16869, Q182009"
+6220,What is the capital of Venezuela?,Q717,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q717 wdt:P36 ?answer
+}",1-hop,Q1533
+6221,What is the capital of the Vologda region?,Q2015,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q2015 wdt:P36 ?answer
+}",1-hop,Q1957
+6222,What is the capital of Vietnam?,Q881,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q881 wdt:P36 ?answer
+}",1-hop,Q1858
+6223,What is the capital of the Great Mughals?,Q33296,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q33296 wdt:P36 ?answer
+}",1-hop,"Q1353, Q11739, Q42941, Q179046, Q3242297"
+6224,Which republics were part of the USSR?,Q15180,wdt:P150,"SELECT ?answer 
+WHERE {
+  wd:Q15180 wdt:P150 ?answer
+}",1-hop,"Q2184, Q2895, Q130229, Q130276, Q130280, Q131337, Q132856, Q133356, Q168811, Q170895, Q173761, Q186888, Q192180, Q199707, Q199711, Q484578, Q545205"
+6225,What orders and medals were awarded to Stalin?,Q855,wdt:P166,"SELECT ?answer 
+WHERE {
+  wd:Q855 wdt:P166 ?answer
+}",1-hop,"Q93728, Q178473, Q185493, Q207826, Q208167, Q278798, Q337463, Q465316, Q530008, Q1069798, Q1081449, Q1710776, Q2297431, Q2634074, Q2760953, Q4137459, Q4286836, Q4335954, Q21292820, Q59351315, Q60130697, Q63975126"
+6226,What awards were awarded to Solzhenitsyn?,Q34474,wdt:P166,"SELECT ?answer 
+WHERE {
+  wd:Q34474 wdt:P166 ?answer
+}",1-hop,"Q37922, Q278798, Q603631, Q695106, Q950604, Q1026769, Q1081503, Q1340199, Q18200478"
+6227,What was Hitler's military rank?,Q352,wdt:P410,"SELECT ?answer 
+WHERE {
+  wd:Q352 wdt:P410 ?answer
+}",1-hop,"Q475482, Q1463070"
+6228,What was Nikita Sergeevich Khrushchev's military rank?,Q35314,wdt:P410,"SELECT ?answer 
+WHERE {
+  wd:Q35314 wdt:P410 ?answer
+}",1-hop,Q152951
+6229,What is Yevkurov's military rank?,Q319464,wdt:P410,"SELECT ?answer 
+WHERE {
+  wd:Q319464 wdt:P410 ?answer
+}",1-hop,Q152951
+6230,What is Lukashenko's military rank?,Q2866,wdt:P410,"SELECT ?answer 
+WHERE {
+  wd:Q2866 wdt:P410 ?answer
+}",1-hop,Q493898
+6231,After whom is the Moscow agricultural Academy named,Q1531782,wdt:P138,"SELECT ?answer 
+WHERE {
+  wd:Q1531782 wdt:P138 ?answer
+}",1-hop,Q172326
+6233,What instruments did Vivaldi play?,Q1340,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q1340 wdt:P1303 ?answer
+}",1-hop,"Q8355, Q81982, Q281460"
+6236,What singing voice did Fyodor Chaliapin have?,Q189164,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q189164 wdt:P412 ?answer
+}",1-hop,Q27911
+6237,What kind of singing voice does Kim Tae Hyun have?,Q18388296,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q18388296 wdt:P412 ?answer
+}",1-hop,Q31687
+6238,What is the singing voice of Nikolai Baskov?,Q194917,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q194917 wdt:P412 ?answer
+}",1-hop,Q27914
+6239,Which game developer created Clash of Clans?,Q13399098,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q13399098 wdt:P178 ?answer
+}",1-hop,Q1438774
+6240,Which game developer created Contra?,Q2995706,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q2995706 wdt:P178 ?answer
+}",1-hop,Q45700
+6241,What the developer has created a Stalker?,Q2464641,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q2464641 wdt:P178 ?answer
+}",1-hop,"Q1425861, Q7268181"
+6242,What is the timbre of the voice of Zoya Yashchenko the Creator and leader of the Belaya Gvardiya group?,Q4539966,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q4539966 wdt:P412 ?answer
+}",1-hop,Q186506
+6244,What title does don Quixote have?,Q944201,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q944201 wdt:P97 ?answer
+}",1-hop,Q379053
+6245,"What is the title of Prince Charles, the eldest son of the British Queen?",Q43274,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q43274 wdt:P97 ?answer
+}",1-hop,"Q180729, Q181951, Q1059510, Q1277249, Q2494846, Q4862955"
+6246,What was the title of Leo Tolstoy?,Q7243,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q7243 wdt:P97 ?answer
+}",1-hop,Q28989
+6248,What kind of faith practiced by the Jews?,Q7325,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q7325 wdt:P140 ?answer
+}",1-hop,Q9268
+6249,What the religion of the Ossetians?,Q106974,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q106974 wdt:P140 ?answer
+}",1-hop,"Q432, Q5043"
+6251,Who is the architect of the Kremlin's Spasskaya tower?,Q2416732,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q2416732 wdt:P84 ?answer
+}",1-hop,Q1394287
+6252,Who is the architect of the Trinity tower?,Q2373544,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q2373544 wdt:P84 ?answer
+}",1-hop,Q2498026
+6253,Who was Jon snow's mother?,Q3183235,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q3183235 wdt:P25 ?answer
+}",1-hop,Q23759071
+6254,Who was the mother of Jesus Christ?,Q302,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q302 wdt:P25 ?answer
+}",1-hop,Q345
+6255,Who was king David's mother?,Q41370,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q41370 wdt:P25 ?answer
+}",1-hop,Q7041639
+6256,Who owns YouTube?,Q866,wdt:P127,"SELECT ?answer 
+WHERE {
+  wd:Q866 wdt:P127 ?answer
+}",1-hop,"Q95, Q20800404"
+6257,Who is the daughter of Svetlana Toma?,Q463809,wdt:P40,"SELECT ?answer 
+WHERE {
+  wd:Q463809 wdt:P40 ?answer
+}",1-hop,Q1966985
+6259,Who performs the song Material girl?,Q654228,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q654228 wdt:P175 ?answer
+}",1-hop,Q1744
+6260,Who wrote the fable of the Swan pike and cancer?,Q4255982,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4255982 wdt:P50 ?answer
+}",1-hop,"Q377, Q191480"
+6261,Who wrote the invisible Man?,Q1539509,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q1539509 wdt:P50 ?answer
+}",1-hop,Q42511
+6262,Who is the Director of the film suicide Squad?,Q18604504,wdt:P344,"SELECT ?answer 
+WHERE {
+  wd:Q18604504 wdt:P344 ?answer
+}",1-hop,Q15151625
+6263,Who is the cameraman of the film Stilyagi?,Q1962112,wdt:P344,"SELECT ?answer 
+WHERE {
+  wd:Q1962112 wdt:P344 ?answer
+}",1-hop,Q15151625
+6264,Who is the cameraman of the movie Circus?,Q1976863,wdt:P344,"SELECT ?answer 
+WHERE {
+  wd:Q1976863 wdt:P344 ?answer
+}",1-hop,"Q4069095, Q4321371, Q4360695"
+6265,Who organized the company Apple?,Q312,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q312 wdt:P112 ?answer
+}",1-hop,"Q19837, Q332591, Q483382"
+6266,Who organized the Mercedes company?,Q36008,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q36008 wdt:P112 ?answer
+}",1-hop,"Q40224, Q57098, Q70788"
+6267,Who founded Microsoft?,Q2283,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q2283 wdt:P112 ?answer
+}",1-hop,"Q5284, Q162005"
+6268,Who founded the Mercedes company?,Q36008,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q36008 wdt:P112 ?answer
+}",1-hop,"Q40224, Q57098, Q70788"
+6269,Who discovered aluminum?,Q663,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q663 wdt:P61 ?answer
+}",1-hop,Q44412
+6270,Who discovered penicillin?,Q12190,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q12190 wdt:P61 ?answer
+}",1-hop,Q37064
+6271,Who is Alsou Safina's father?,Q270951,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q270951 wdt:P22 ?answer
+}",1-hop,Q50224531
+6274,Who designed the tower bridge?,Q83125,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q83125 wdt:P84 ?answer
+}",1-hop,Q3140459
+6275,Who is the developer of League of Legends?,Q223341,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q223341 wdt:P178 ?answer
+}",1-hop,Q1060165
+6276,Who is the developer of Minecraft?,Q49740,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q49740 wdt:P178 ?answer
+}",1-hop,"Q2283, Q1129295"
+6277,Who is Maxim Galkin's father?,Q559485,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q559485 wdt:P22 ?answer
+}",1-hop,Q4132607
+6278,Who removed the Matrix?,Q1210827,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q1210827 wdt:P57 ?answer
+}",1-hop,Q195719
+6279,Who shot the Titanic?,Q44578,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q44578 wdt:P57 ?answer
+}",1-hop,Q42574
+6280,Who created Google?,Q9366,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q9366 wdt:P50 ?answer
+}",1-hop,"Q4934, Q92764"
+6281,Who designed the Leningradsky railway station building in Moscow?,Q1344454,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q1344454 wdt:P84 ?answer
+}",1-hop,Q76368
+6282,Who is Tigran Keosayan's wife?,Q1142513,wdt:P26,"SELECT ?answer 
+WHERE {
+  wd:Q1142513 wdt:P26 ?answer
+}",1-hop,"Q4419809, Q4498457"
+6283,Who is magneto's son?,Q840291,wdt:P40,"SELECT ?answer 
+WHERE {
+  wd:Q840291 wdt:P40 ?answer
+}",1-hop,"Q929273, Q929285, Q2071256, Q16253333, Q57022061"
+6284,Who is Valentina Matvienko's son?,Q182654,wdt:P40,"SELECT ?answer 
+WHERE {
+  wd:Q182654 wdt:P40 ?answer
+}",1-hop,Q15072147
+6286,Who is the author of the fairy tale the Scarlet flower?,Q4062116,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q4062116 wdt:P50 ?answer
+}",1-hop,Q315188
+6287,Who is the author of the History of the Russian state?,Q3656114,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q3656114 wdt:P50 ?answer
+}",1-hop,Q191598
+6289,Where does the Congo river go?,Q3503,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q3503 wdt:P403 ?answer
+}",1-hop,Q97
+6294,What platforms will Cyberpunk 2077 be released on?,Q3182559,wdt:P400,"SELECT ?answer 
+WHERE {
+  wd:Q3182559 wdt:P400 ?answer
+}",1-hop,"Q1406, Q5014725, Q13361286, Q64513817"
+6295,What platforms will Diablo 4 be released on?,Q73154387,wdt:P400,"SELECT ?answer 
+WHERE {
+  wd:Q73154387 wdt:P400 ?answer
+}",1-hop,"Q1406, Q5014725, Q13361286"
+6296,What position does Mbappe play in?,Q21621995,wdt:P413,"SELECT ?answer 
+WHERE {
+  wd:Q21621995 wdt:P413 ?answer
+}",1-hop,Q280658
+6298,What position does Ronaldo play in?,Q11571,wdt:P413,"SELECT ?answer 
+WHERE {
+  wd:Q11571 wdt:P413 ?answer
+}",1-hop,"Q280658, Q8025128"
+6299,On which river does Bamako stand?,Q3703,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q3703 wdt:P206 ?answer
+}",1-hop,Q3542
+6300,On what river does Veliky Novgorod stand?,Q2235,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q2235 wdt:P206 ?answer
+}",1-hop,"Q15243, Q203462"
+6301,On what river is Vologda located?,Q1957,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q1957 wdt:P206 ?answer
+}",1-hop,Q2160
+6302,Which river is London on?,Q84,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q84 wdt:P206 ?answer
+}",1-hop,"Q19686, Q19914"
+6304,On what reservoir is the island of Kizhi located with the famous man-made wooden Church?,Q205244,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q205244 wdt:P206 ?answer
+}",1-hop,Q166162
+6306,In what cemetery he was buried Kobzon?,Q1980296,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q1980296 wdt:P119 ?answer
+}",1-hop,Q1457453
+6307,In what cemetery is Jeanne Friske buried?,Q241382,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q241382 wdt:P119 ?answer
+}",1-hop,Q4320732
+6308,On what lake is Kizhi island located?,Q205244,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q205244 wdt:P206 ?answer
+}",1-hop,Q166162
+6309,What language is spoken in Switzerland?,Q124216,wdt:P103,"SELECT ?answer 
+WHERE {
+  wd:Q124216 wdt:P103 ?answer
+}",1-hop,"Q13199, Q15087, Q33754, Q387066"
+6310,What does Bashmet play on?,Q156546,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q156546 wdt:P1303 ?answer
+}",1-hop,Q80284
+6311,What does Igor Rasteryaev play on?,Q658320,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q658320 wdt:P1303 ?answer
+}",1-hop,"Q31561, Q79838, Q178389, Q4501563, Q17172850"
+6312,What does Squidward play on?,Q1064404,wdt:P1303,"SELECT ?answer 
+WHERE {
+  wd:Q1064404 wdt:P1303 ?answer
+}",1-hop,Q8343
+6314,Under what license is docker distributed?,Q15206305,wdt:P275,"SELECT ?answer 
+WHERE {
+  wd:Q15206305 wdt:P275 ?answer
+}",1-hop,"Q3238057, Q13785927"
+6315,The capital of which region of the city of Ufa?,Q911,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q911 wdt:P1376 ?answer
+}",1-hop,"Q5710, Q809806, Q1092754, Q1390649, Q4479125, Q4479136, Q15190285"
+6317,Which country's capital is Canberra?,Q3114,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q3114 wdt:P1376 ?answer
+}",1-hop,"Q408, Q3258, Q15577"
+6318,What region is Munich the capital of?,Q1726,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q1726 wdt:P1376 ?answer
+}",1-hop,"Q980, Q10544, Q10562"
+6319,What country's capital is Antananarivo?,Q3915,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q3915 wdt:P1376 ?answer
+}",1-hop,"Q1019, Q489821, Q5501842"
+6320,Which country's capital is Sarajevo?,Q11194,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q11194 wdt:P1376 ?answer
+}",1-hop,"Q225, Q11196, Q11198, Q18276, Q208545, Q1274468, Q2055400"
+6322,What country's capital is Jakarta?,Q3630,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q3630 wdt:P1376 ?answer
+}",1-hop,"Q252, Q3757, Q523435"
+6323,What country's capital is Kingston?,Q34692,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q34692 wdt:P1376 ?answer
+}",1-hop,"Q766, Q651453, Q2526023"
+6325,What country's capital is Phnom Penh?,Q1850,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q1850 wdt:P1376 ?answer
+}",1-hop,"Q424, Q1054184, Q3173090"
+6326,What is Vienna the capital of?,Q1741,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q1741 wdt:P1376 ?answer
+}",1-hop,"Q40, Q12548, Q28513, Q42497, Q131964, Q153136, Q176495, Q268970, Q518101, Q699964, Q3624335, Q16056854"
+6327,What is Yoshkar-Ola the capital of?,Q5449,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q5449 wdt:P1376 ?answer
+}",1-hop,"Q5446, Q788066, Q2391775, Q6671523, Q14558462, Q18055588"
+6328,What is Funafuti the capital of?,Q34126,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q34126 wdt:P1376 ?answer
+}",1-hop,"Q672, Q21815222"
+6329,What is the capital of Sri Jayawardenepura Kotte?,Q41963,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q41963 wdt:P1376 ?answer
+}",1-hop,Q854
+6330,What is Yamoussoukro's capital?,Q3768,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q3768 wdt:P1376 ?answer
+}",1-hop,"Q1008, Q845706"
+6331,Whose movie is Green book?,Q48673898,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q48673898 wdt:P57 ?answer
+}",1-hop,Q1368300
+6332,What is practiced by the Muslims?,Q47740,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q47740 wdt:P140 ?answer
+}",1-hop,Q432
+6333,What did Pushkin finish?,Q7200,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q7200 wdt:P69 ?answer
+}",1-hop,Q775909
+6334,What did Shoigu graduate from?,Q32024,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q32024 wdt:P69 ?answer
+}",1-hop,Q4239246
+6335,Whose tributary is the Missouri river?,Q5419,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q5419 wdt:P403 ?answer
+}",1-hop,Q1497
+6336,Whose son is Fenrir?,Q182560,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q182560 wdt:P25 ?answer
+}",1-hop,"Q371828, Q1324152"
+6337,Whose song is Sweet dreams?,Q1587664,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q1587664 wdt:P175 ?answer
+}",1-hop,Q207706
+6338,Whose song is green-eyed taxi?,Q4190323,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q4190323 wdt:P175 ?answer
+}",1-hop,Q4218621
+6339,What is the administrative structure of Belarus?,Q184,wdt:P150,"SELECT ?answer 
+WHERE {
+  wd:Q184 wdt:P150 ?answer
+}",1-hop,"Q2280, Q173822, Q185700, Q188732, Q189822, Q191061, Q192959"
+6340,What is Anna Netrebko's voice like?,Q78516,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q78516 wdt:P412 ?answer
+}",1-hop,Q5681011
+6342,What University did the famous Russian actor Sergei Bodrov graduate from?,Q508904,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q508904 wdt:P69 ?answer
+}",1-hop,Q16157447
+6343,What war did Chapaev fight in?,Q333236,wdt:P607,"SELECT ?answer 
+WHERE {
+  wd:Q333236 wdt:P607 ?answer
+}",1-hop,"Q361, Q2140994, Q4081756, Q4097857, Q4255538"
+6344,What League does Liverpool belong to?,Q1130849,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q1130849 wdt:P118 ?answer
+}",1-hop,Q9448
+6345,Where did Stalin live?,Q855,wdt:P551,"SELECT ?answer 
+WHERE {
+  wd:Q855 wdt:P551 ?answer
+}",1-hop,"Q656, Q9248, Q155243, Q196388, Q1020157, Q4322358"
+6347,Where is Ivan the terrible buried?,Q7996,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q7996 wdt:P119 ?answer
+}",1-hop,Q917830
+6348,What did Mendeleev graduate from?,Q9106,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q9106 wdt:P69 ?answer
+}",1-hop,"Q27621, Q2654435, Q4139211"
+6349,Whose tributary is the Irtysh river?,Q128102,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q128102 wdt:P403 ?answer
+}",1-hop,Q973
+6350,What organizations does Canada belong to?,Q16,wdt:P463,"SELECT ?answer 
+WHERE {
+  wd:Q16 wdt:P463 ?answer
+}",1-hop,"Q1065, Q7184, Q7785, Q7809, Q7825, Q8475, Q17495, Q19771, Q37143, Q38130, Q41550, Q81299, Q123759, Q134102, Q170481, Q181574, Q188822, Q191384, Q233611, Q340195, Q376150, Q656801, Q674182, Q782942, Q826700, Q827525, Q842490, Q899770, Q1043527, Q1072120, Q1480793, Q1928989, Q2863003, Q3772571, Q3866537, Q4033111, Q4426267, Q5150848, Q5611262, Q7768229, Q7886981"
+6351,What League does Ajax play in?,Q81888,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q81888 wdt:P118 ?answer
+}",1-hop,Q167541
+6352,What League does Zenit play in?,Q29108,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q29108 wdt:P118 ?answer
+}",1-hop,Q182165
+6353,Who created the company Adidas?,Q3895,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q3895 wdt:P112 ?answer
+}",1-hop,Q76751
+6354,Who created the company Microsoft?,Q2283,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q2283 wdt:P112 ?answer
+}",1-hop,"Q5284, Q162005"
+6355,Who created the company Nike?,Q483915,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q483915 wdt:P112 ?answer
+}",1-hop,"Q557305, Q861967"
+6356,Who designed the Millennium bridge?,Q44057,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q44057 wdt:P84 ?answer
+}",1-hop,Q104898
+6357,"Served in any army, Putin?",Q7747,wdt:P241,"SELECT ?answer 
+WHERE {
+  wd:Q7747 wdt:P241 ?answer
+}",1-hop,"Q58792, Q80919"
+6358,In which mountains is death Valley located?,Q118388,wdt:P706,"SELECT ?answer 
+WHERE {
+  wd:Q118388 wdt:P706 ?answer
+}",1-hop,"Q1189073, Q6895015"
+6359,What League does Porto play in?,Q128446,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q128446 wdt:P118 ?answer
+}",1-hop,Q182994
+6360,What part of the world is great Britain located in?,Q145,wdt:P30,"SELECT ?answer 
+WHERE {
+  wd:Q145 wdt:P30 ?answer
+}",1-hop,Q46
+6361,In what direction did Giuseppe Verdi create?,Q7317,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q7317 wdt:P135 ?answer
+}",1-hop,Q207591
+6362,In what direction did Jean millet work?,Q148458,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q148458 wdt:P135 ?answer
+}",1-hop,Q10857409
+6363,In which the product appears for the first time the Black widow?,Q287541,wdt:P1441,"SELECT ?answer 
+WHERE {
+  wd:Q287541 wdt:P1441 ?answer
+}",1-hop,Q782363
+6364,Where is Nicholas 2 buried?,Q40787,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q40787 wdt:P119 ?answer
+}",1-hop,Q736587
+6365,Where does Putin live?,Q7747,wdt:P551,"SELECT ?answer 
+WHERE {
+  wd:Q7747 wdt:P551 ?answer
+}",1-hop,"Q649, Q656, Q1731, Q4079059, Q4471180"
+6366,What does the book consist of?,Q571,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q571 wdt:P527 ?answer
+}",1-hop,"Q234460, Q1069725, Q1980247"
+6367,To what dynasty did Louis 18 belong?,Q7750,wdt:P53,"SELECT ?answer 
+WHERE {
+  wd:Q7750 wdt:P53 ?answer
+}",1-hop,Q3642350
+6368,What dynasty did Queen Elizabeth I of England belong to?,Q7207,wdt:P53,"SELECT ?answer 
+WHERE {
+  wd:Q7207 wdt:P53 ?answer
+}",1-hop,Q101978
+6370,What nationalities are there in Azerbaijan?,Q227,wdt:P172,"SELECT ?answer 
+WHERE {
+  wd:Q227 wdt:P172 ?answer
+}",1-hop,"Q49542, Q79797, Q482942, Q1129737, Q10290517"
+6372,What was the blood type of Jesus Christ?,Q302,wdt:P1853,"SELECT ?answer 
+WHERE {
+  wd:Q302 wdt:P1853 ?answer
+}",1-hop,Q19831455
+6373,Which company owns Rolls Royce engines?,Q243278,wdt:P127,"SELECT ?answer 
+WHERE {
+  wd:Q243278 wdt:P127 ?answer
+}",1-hop,"Q372657, Q505275, Q22032185"
+6374,What is the legal form of the company Apple?,Q312,wdt:P1454,"SELECT ?answer 
+WHERE {
+  wd:Q312 wdt:P1454 ?answer
+}",1-hop,"Q134161, Q891723"
+6375,What rivers flow into lake Baikal?,Q5513,wdt:P974,"SELECT ?answer 
+WHERE {
+  wd:Q5513 wdt:P974 ?answer
+}",1-hop,"Q75745, Q248756, Q785531, Q808176, Q854686, Q1009177, Q1054311, Q2090382, Q2462900, Q2921573, Q3017105, Q3196524, Q4074592, Q4081114, Q4222569, Q4246441, Q4375034, Q4408691, Q4424133, Q4427701, Q4460344, Q14915363, Q14915364, Q14915365, Q14915367, Q14915368, Q14915369, Q14915370, Q14915425, Q14915428, Q14915447, Q14915448, Q14915449, Q14915450, Q14915451, Q14915452, Q14915453, Q14915454, Q14915455, Q14915456, Q14915457, Q14915458, Q14915459, Q14915460, Q14915461, Q14915462, Q14915463, Q14915464, Q14915465, Q14915466, Q14915467, Q14915468, Q14915469, Q14915470, Q14915471, Q14915472, Q14915473, Q14915474, Q14915475, Q14915476, Q14915477, Q14915478, Q14915479, Q14915480, Q14915481, Q14915482, Q14915483, Q14915484, Q14915485, Q14915486, Q14915489, Q14915490, Q14943318, Q14943338, Q14943342, Q21036227, Q21036228, Q21036229, Q21036230, Q27679334, Q35267412"
+6376,What awards did Beria have?,Q141829,wdt:P166,"SELECT ?answer 
+WHERE {
+  wd:Q141829 wdt:P166 ?answer
+}",1-hop,"Q185493, Q208167, Q241821, Q278798, Q337463, Q530008, Q946626, Q1067644, Q1069798, Q1710776, Q2329480, Q2634074, Q4335936, Q4335954, Q4375624, Q21292820, Q56669004, Q60054123"
+6378,What is the administrative division of Venezuela?,Q717,wdt:P150,"SELECT ?answer 
+WHERE {
+  wd:Q717 wdt:P150 ?answer
+}",1-hop,"Q41144, Q41146, Q43269, Q43271, Q130343, Q165582, Q170453, Q190687, Q190922, Q191164, Q191174, Q191186, Q201121, Q201137, Q202068, Q202071, Q202075, Q204876, Q205460, Q205776, Q205784, Q205796, Q205824, Q205843, Q492791"
+6379,What is the administrative division of the Czech Republic?,Q213,wdt:P150,"SELECT ?answer 
+WHERE {
+  wd:Q213 wdt:P150 ?answer
+}",1-hop,"Q1085, Q46070, Q188373, Q188399, Q190550, Q190930, Q191091, Q192536, Q192697, Q192702, Q193266, Q193295, Q193307, Q193317"
+6382,What is the administrative structure of Japan?,Q17,wdt:P150,"SELECT ?answer 
+WHERE {
+  wd:Q17 wdt:P150 ?answer
+}",1-hop,"Q1490, Q15701, Q44843, Q47896, Q48326, Q71699, Q71707, Q80011, Q80434, Q81863, Q83273, Q120730, Q122723, Q123258, Q123376, Q125863, Q127264, Q127513, Q127877, Q128186, Q128196, Q129499, Q130290, Q130300, Q130308, Q131277, Q131281, Q131287, Q131314, Q131320, Q131358, Q132705, Q132720, Q132751, Q132929, Q132936, Q133879, Q133924, Q133935, Q134093, Q160420, Q160734, Q161454, Q169376, Q617375, Q766445, Q1037393"
+6383,What is the military rank of Tatyana Shevtsova?,Q16207094,wdt:P410,"SELECT ?answer 
+WHERE {
+  wd:Q16207094 wdt:P410 ?answer
+}",1-hop,Q4156896
+6384,What nationality was Jesus Christ?,Q302,wdt:P172,"SELECT ?answer 
+WHERE {
+  wd:Q302 wdt:P172 ?answer
+}",1-hop,Q7325
+6385,What is the gender of Jerry from the Tom and Jerry cartoon?,Q1962394,wdt:P21,"SELECT ?answer 
+WHERE {
+  wd:Q1962394 wdt:P21 ?answer
+}",1-hop,Q6581097
+6386,A post takes time.,Q57394,wdt:P39,"SELECT ?answer 
+WHERE {
+  wd:Q57394 wdt:P39 ?answer
+}",1-hop,Q5256775
+6388,What scientific work did Mendeleev do?,Q9106,wdt:P800,"SELECT ?answer 
+WHERE {
+  wd:Q9106 wdt:P800 ?answer
+}",1-hop,Q10693
+6389,What kind of scientific work published by the John von Neumann?,Q17455,wdt:P800,"SELECT ?answer 
+WHERE {
+  wd:Q17455 wdt:P800 ?answer
+}",1-hop,"Q12482, Q44455, Q189088, Q1554323, Q1766038, Q1970172, Q2895315, Q4056286, Q4358367, Q5498822"
+6391,Who wrote the song Katyusha?,Q18288,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q18288 wdt:P86 ?answer
+}",1-hop,Q928993
+6392,Who is Jon snow's father?,Q3183235,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q3183235 wdt:P22 ?answer
+}",1-hop,Q20818052
+6393,Who was the first to reach Antarctica?,Q51,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q51 wdt:P61 ?answer
+}",1-hop,"Q76754, Q186203, Q4349082"
+6394,Who developed Roblox?,Q692989,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q692989 wdt:P178 ?answer
+}",1-hop,Q67186598
+6395,Who is the developer of PUBG?,Q28937399,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q28937399 wdt:P178 ?answer
+}",1-hop,Q4035237
+6396,Who is the developer of WhatsApp?,Q1049511,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q1049511 wdt:P178 ?answer
+}",1-hop,Q52410688
+6398,Who made the film Django unchained?,Q571032,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q571032 wdt:P57 ?answer
+}",1-hop,Q3772
+6399,Who made the film Gentlemen of fortune?,Q625110,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q625110 wdt:P57 ?answer
+}",1-hop,Q4417863
+6400,Who made the film the day after Tomorrow?,Q14320,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q14320 wdt:P57 ?answer
+}",1-hop,Q60100
+6401,Where does the Amur river flow?,Q6862,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q6862 wdt:P403 ?answer
+}",1-hop,Q41602
+6402,On what street is the Eiffel tower located in Paris?,Q243,wdt:P669,"SELECT ?answer 
+WHERE {
+  wd:Q243 wdt:P669 ?answer
+}",1-hop,"Q217925, Q2873520"
+6404,What is Nizhny Novgorod the capital of?,Q891,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q891 wdt:P1376 ?answer
+}",1-hop,Q23898959
+6406,What did Gogol graduate from?,Q43718,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q43718 wdt:P69 ?answer
+}",1-hop,Q27621
+6408,What does a cigarette contain?,Q1578,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q1578 wdt:P527 ?answer
+}",1-hop,"Q1566, Q199344, Q736556"
+6410,What League does Benfica play in?,Q131499,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q131499 wdt:P118 ?answer
+}",1-hop,Q182994
+6411,What League does Chernomorets play in?,Q44296,wdt:P118,"SELECT ?answer 
+WHERE {
+  wd:Q44296 wdt:P118 ?answer
+}",1-hop,Q2532727
+6412,What holding does Dixie belong to?,Q4161561,wdt:P749,"SELECT ?answer 
+WHERE {
+  wd:Q4161561 wdt:P749 ?answer
+}",1-hop,Q65032731
+6413,What style is St. Basil's Cathedral built in?,Q129846,wdt:P149,"SELECT ?answer 
+WHERE {
+  wd:Q129846 wdt:P149 ?answer
+}",1-hop,"Q47591, Q4520962"
+6416,Where is the UN headquarters?,Q1065,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q1065 wdt:P159 ?answer
+}",1-hop,Q11297
+6417,Where is the CIA headquarters?,Q37230,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q37230 wdt:P159 ?answer
+}",1-hop,"Q1370, Q523606, Q5425102"
+6418,Where is the headquarter of UNESCO?,Q7809,wdt:P159,"SELECT ?answer 
+WHERE {
+  wd:Q7809 wdt:P159 ?answer
+}",1-hop,Q3279650
+6419,What objects does the Kuiper belt consist of?,Q427,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q427 wdt:P527 ?answer
+}",1-hop,"Q6635, Q645924"
+6420,What are crab sticks made of?,Q1188911,wdt:P186,"SELECT ?answer 
+WHERE {
+  wd:Q1188911 wdt:P186 ?answer
+}",1-hop,"Q11002, Q11254, Q41534, Q93189, Q815740, Q4739805, Q61503220"
+6422,Which company produces Pepsi?,Q47719,wdt:P176,"SELECT ?answer 
+WHERE {
+  wd:Q47719 wdt:P176 ?answer
+}",1-hop,Q50407282
+6423,What is the cause of death of Vasily Shukshin?,Q316086,wdt:P1196,"SELECT ?answer 
+WHERE {
+  wd:Q316086 wdt:P1196 ?answer
+}",1-hop,Q3739104
+6425,What is the cause of Viktor Tsoi's death?,Q487125,wdt:P1196,"SELECT ?answer 
+WHERE {
+  wd:Q487125 wdt:P1196 ?answer
+}",1-hop,Q171558
+6426,What is the cause of death of Willy Tokarev?,Q4459467,wdt:P1196,"SELECT ?answer 
+WHERE {
+  wd:Q4459467 wdt:P1196 ?answer
+}",1-hop,Q3739104
+6427,What is the cause of death decl?,Q1968358,wdt:P1196,"SELECT ?answer 
+WHERE {
+  wd:Q1968358 wdt:P1196 ?answer
+}",1-hop,Q3739104
+6428,What order was awarded to Makhno?,Q47900,wdt:P166,"SELECT ?answer 
+WHERE {
+  wd:Q47900 wdt:P166 ?answer
+}",1-hop,Q337463
+6429,"What was the title of the Portuguese Navigator in the Spanish service, Fernand Magellan?",Q469622,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q469622 wdt:P97 ?answer
+}",1-hop,"Q756727, Q2747456"
+6431,What is the famous work of ray Bradbury?,Q40640,wdt:P800,"SELECT ?answer 
+WHERE {
+  wd:Q40640 wdt:P800 ?answer
+}",1-hop,"Q202009, Q918052, Q1167442, Q1756055, Q3163406"
+6432,What is the architectural style of the Manege building in Moscow?,Q1889165,wdt:P149,"SELECT ?answer 
+WHERE {
+  wd:Q1889165 wdt:P149 ?answer
+}",1-hop,Q54111
+6433,What genre of music does Imagine Dragons have?,Q391348,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q391348 wdt:P136 ?answer
+}",1-hop,"Q11366, Q188450, Q484641"
+6435,What position is the speaker?,Q260432,wdt:P39,"SELECT ?answer 
+WHERE {
+  wd:Q260432 wdt:P39 ?answer
+}",1-hop,Q3273722
+6436,Which tributary of the Pripyat river?,Q157042,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q157042 wdt:P403 ?answer
+}",1-hop,Q40855
+6437,Which developer created the halo fps franchise?,Q1747150,wdt:P178,"SELECT ?answer 
+WHERE {
+  wd:Q1747150 wdt:P178 ?answer
+}",1-hop,"Q73801, Q308913, Q611508, Q735267, Q1046593, Q1202130, Q2080076, Q2469781"
+6438,"What was the title of the former President of the International Olympic Committee, Juan Antonio Samaranch?",Q171166,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q171166 wdt:P97 ?answer
+}",1-hop,Q157802
+6439,What University did Tyutchev graduate from?,Q37217,wdt:P69,"SELECT ?answer 
+WHERE {
+  wd:Q37217 wdt:P69 ?answer
+}",1-hop,Q4204467
+6441,What the religion of the Kazakhs?,Q80040,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q80040 wdt:P140 ?answer
+}",1-hop,Q483654
+6442,What the religion of the Tatars?,Q35565,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q35565 wdt:P140 ?answer
+}",1-hop,"Q483654, Q3333484"
+6443,Who founded the city of Nizhny Novgorod?,Q891,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q891 wdt:P112 ?answer
+}",1-hop,Q547869
+6444,Who was Esmeralda's mother?,Q661491,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q661491 wdt:P25 ?answer
+}",1-hop,Q27703517
+6445,Who wrote a famous trilogy about the hobbit?,Q74287,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q74287 wdt:P50 ?answer
+}",1-hop,Q892
+6446,Who is the cinematographer of the movie Rage?,Q163869,wdt:P344,"SELECT ?answer 
+WHERE {
+  wd:Q163869 wdt:P344 ?answer
+}",1-hop,Q1402143
+6448,Who is the father of Jesus Christ?,Q302,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q302 wdt:P22 ?answer
+}",1-hop,"Q128267, Q186350"
+6450,Who designed the Lakhta center?,Q4255374,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q4255374 wdt:P84 ?answer
+}",1-hop,Q3415248
+6453,Who is the Director of the film T 34?,Q39293164,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q39293164 wdt:P57 ?answer
+}",1-hop,Q4418820
+6454,Who is the Director of the Soviet version of the Sherlock Holmes TV series?,Q1210893,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q1210893 wdt:P57 ?answer
+}",1-hop,Q1273278
+6455,Who made the movie Avatar?,Q24871,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q24871 wdt:P57 ?answer
+}",1-hop,Q42574
+6456,Who made the film in which johnny Depp played the role of Edward Scissorhands?,Q217182,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q217182 wdt:P57 ?answer
+}",1-hop,Q56008
+6457,Who made the movie Outcast?,Q213411,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q213411 wdt:P57 ?answer
+}",1-hop,Q187364
+6458,Who made the film Love and doves?,Q4271831,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q4271831 wdt:P57 ?answer
+}",1-hop,Q726105
+6459,Who made the movie Jane's Soldier?,Q526690,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q526690 wdt:P57 ?answer
+}",1-hop,Q56005
+6460,Who made the film Schindler's List?,Q483941,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q483941 wdt:P57 ?answer
+}",1-hop,"Q8877, Q6758800"
+6461,Who made the film Alien?,Q103569,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q103569 wdt:P57 ?answer
+}",1-hop,Q56005
+6463,Who composed the Leningrad Symphony?,Q261140,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q261140 wdt:P86 ?answer
+}",1-hop,Q80135
+6464,Where does the Yenisei river flow?,Q78707,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q78707 wdt:P403 ?answer
+}",1-hop,Q33629
+6465,What position is played by the hazard?,Q214204,wdt:P413,"SELECT ?answer 
+WHERE {
+  wd:Q214204 wdt:P413 ?answer
+}",1-hop,Q8025128
+6466,What position does Griezmann play in?,Q455462,wdt:P413,"SELECT ?answer 
+WHERE {
+  wd:Q455462 wdt:P413 ?answer
+}",1-hop,Q8025128
+6467,What position does Neymar play?,Q142794,wdt:P413,"SELECT ?answer 
+WHERE {
+  wd:Q142794 wdt:P413 ?answer
+}",1-hop,Q8025128
+6468,A tributary of which river is the Oka?,Q172089,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q172089 wdt:P403 ?answer
+}",1-hop,Q626
+6469,Which region's capital is Voronezh?,Q3426,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q3426 wdt:P1376 ?answer
+}",1-hop,"Q3447, Q27538353"
+6470,What country's capital is Rome?,Q220,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q220 wdt:P1376 ?answer
+}",1-hop,"Q38, Q1282, Q18288160"
+6471,What is Ottawa the capital of?,Q576209,wdt:P1376,"SELECT ?answer 
+WHERE {
+  wd:Q576209 wdt:P1376 ?answer
+}",1-hop,Q487003
+6472,What do Bashkirs profess?,Q485348,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q485348 wdt:P140 ?answer
+}",1-hop,Q228986
+6473,Whose daughter is Daenerys?,Q2708078,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q2708078 wdt:P25 ?answer
+}",1-hop,Q23746012
+6475,Whose son is Vladimir Monomakh?,Q60928,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q60928 wdt:P25 ?answer
+}",1-hop,Q4301841
+6476,Whose son is Ismail?,Q470988,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q470988 wdt:P25 ?answer
+}",1-hop,Q1711668
+6477,In which the holding company is NLMK?,Q48681940,wdt:P749,"SELECT ?answer 
+WHERE {
+  wd:Q48681940 wdt:P749 ?answer
+}",1-hop,Q1768082
+6478,Where is the virgin buried?,Q345,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q345 wdt:P119 ?answer
+}",1-hop,Q968028
+6479,What genre of literature does b Scott Ivanhoe's work belong to?,Q840974,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q840974 wdt:P136 ?answer
+}",1-hop,Q192239
+6480,What movie company makes the X-Men?,Q2006869,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q2006869 wdt:P272 ?answer
+}",1-hop,Q434841
+6481,What noble title did the Spanish artist Salvador Dali have?,Q5577,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q5577 wdt:P97 ?answer
+}",1-hop,Q157802
+6482,What title was awarded to Valentina Tereshkova the first woman to conquer space?,Q44371,wdt:P166,"SELECT ?answer 
+WHERE {
+  wd:Q44371 wdt:P166 ?answer
+}",1-hop,"Q178473, Q185493, Q209896, Q478850, Q530008, Q534981, Q583881, Q612907, Q694401, Q728960, Q791135, Q1311063, Q1415232, Q1428575, Q1992013, Q2028781, Q2268261, Q2300740, Q2638119, Q2660844, Q4193236, Q9387384, Q18080427, Q18080429, Q18080431, Q21405589, Q89211387"
+6483,Where is the Bermuda triangle?,Q43708,wdt:P706,"SELECT ?answer 
+WHERE {
+  wd:Q43708 wdt:P706 ?answer
+}",1-hop,Q97
+6484,Where is the Delta of the Neva river?,Q645,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q645 wdt:P403 ?answer
+}",1-hop,Q27698
+6485,Where is the grave of Alexander Nevsky?,Q174044,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q174044 wdt:P119 ?answer
+}",1-hop,Q946428
+6486,Where is the mouth of the Yenisei river?,Q78707,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q78707 wdt:P403 ?answer
+}",1-hop,Q33629
+6487,Who is the father of actress Eve Hewson?,Q3735288,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q3735288 wdt:P22 ?answer
+}",1-hop,Q834621
+6491,In what sea is the island of Cyprus located?,Q229,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q229 wdt:P206 ?answer
+}",1-hop,Q4918
+6492,In what sea is the Grenadines island chain located?,Q503482,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q503482 wdt:P206 ?answer
+}",1-hop,Q1247
+6494,To what artistic direction belongs to the works of Mozart?,Q254,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q254 wdt:P135 ?answer
+}",1-hop,Q17723
+6495,Which Studio made the film Royal Corgi?,Q55635487,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q55635487 wdt:P272 ?answer
+}",1-hop,"Q515869, Q25060578"
+6496,What historical period follows the Jurassic?,Q45805,wdt:P156,"SELECT ?answer 
+WHERE {
+  wd:Q45805 wdt:P156 ?answer
+}",1-hop,Q44626
+6497,Who is the architect of the Strelki exchange building on Vasilievsky island?,Q2652905,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q2652905 wdt:P84 ?answer
+}",1-hop,Q393864
+6499,Who is the cameraman of the movie Mirror?,Q838149,wdt:P344,"SELECT ?answer 
+WHERE {
+  wd:Q838149 wdt:P344 ?answer
+}",1-hop,Q4393561
+6500,In what sport was Yevgeny Kafelnikov famous?,Q207705,wdt:P641,"SELECT ?answer 
+WHERE {
+  wd:Q207705 wdt:P641 ?answer
+}",1-hop,"Q847, Q5377, Q80131"
+6502,What genre of visual art did artist Ilya Mashkov work in?,Q2704611,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q2704611 wdt:P136 ?answer
+}",1-hop,"Q134307, Q170571, Q191163"
+6503,In what genre is The free shooter written?,Q156435,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q156435 wdt:P136 ?answer
+}",1-hop,Q207591
+6505,In what genre did Tom Ford shoot his film under the cover of night?,Q21527905,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q21527905 wdt:P136 ?answer
+}",1-hop,"Q130232, Q2254193, Q52207399"
+6506,Where was Catherine 2 born?,Q36450,wdt:P19,"SELECT ?answer 
+WHERE {
+  wd:Q36450 wdt:P19 ?answer
+}",1-hop,Q393
+6507,What Soviet film Studio made the film Gentlemen of fortune?,Q625110,wdt:P272,"SELECT ?answer 
+WHERE {
+  wd:Q625110 wdt:P272 ?answer
+}",1-hop,Q141336
+6508,Which city is the capital of the Republic of Dagestan?,Q5118,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q5118 wdt:P36 ?answer
+}",1-hop,Q5168
+6509,Which city is the capital of the Republic of Ingushetia?,Q5219,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q5219 wdt:P36 ?answer
+}",1-hop,Q5222
+6510,Which city is the capital of the Republic of Tatarstan?,Q5481,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q5481 wdt:P36 ?answer
+}",1-hop,Q900
+6511,What city is the capital of the state of Arkansas?,Q1612,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1612 wdt:P36 ?answer
+}",1-hop,Q33405
+6512,Which city is the capital of Australia?,Q408,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q408 wdt:P36 ?answer
+}",1-hop,Q3114
+6513,What religion do the Japanese profess?,Q161652,wdt:P140,"SELECT ?answer 
+WHERE {
+  wd:Q161652 wdt:P140 ?answer
+}",1-hop,"Q748, Q427945, Q2279088"
+6514,Who is the architect of the Hermitage Museum in St. Petersburg?,Q132783,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q132783 wdt:P84 ?answer
+}",1-hop,Q299687
+6516,Who composed the Classical Symphony?,Q163571,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q163571 wdt:P86 ?answer
+}",1-hop,Q49481
+6517,Who composed the Farewell Symphony?,Q234880,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q234880 wdt:P86 ?answer
+}",1-hop,Q7349
+6518,Who is the author of the ballet Cinderella?,Q144545,wdt:P86,"SELECT ?answer 
+WHERE {
+  wd:Q144545 wdt:P86 ?answer
+}",1-hop,Q49481
+6519,What languages are spoken in Switzerland?,Q39,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q39 wdt:P37 ?answer
+}",1-hop,"Q150, Q188, Q652, Q13199"
+6521,What language is spoken in Vienna?,Q1741,wdt:P2936,"SELECT ?answer 
+WHERE {
+  wd:Q1741 wdt:P2936 ?answer
+}",1-hop,Q188
+6523,In which capital is The Oguzkhan Palace located?,Q3043695,wdt:P131,"SELECT ?answer 
+WHERE {
+  wd:Q3043695 wdt:P131 ?answer
+}",1-hop,Q23438
+6524,In which capital was Griboyedov killed?,Q15001,wdt:P20,"SELECT ?answer 
+WHERE {
+  wd:Q15001 wdt:P20 ?answer
+}",1-hop,Q3616
+6525,In which country was football born?,Q2736,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q2736 wdt:P495 ?answer
+}",1-hop,Q174193
+6527,In which direction did Viktor Tsoi sing?,Q487125,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q487125 wdt:P136 ?answer
+}",1-hop,"Q11399, Q187760, Q598929"
+6528,In which direction was Sinatra singing?,Q40912,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q40912 wdt:P136 ?answer
+}",1-hop,"Q8341, Q9759, Q203775, Q207378, Q1196752, Q1530455"
+6529,In what direction did Lermontov write?,Q46599,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q46599 wdt:P135 ?answer
+}",1-hop,Q37068
+6530,In what direction did Salvador Dali work?,Q5577,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q5577 wdt:P135 ?answer
+}",1-hop,Q39427
+6535,What style did Rastrelli build in?,Q299687,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q299687 wdt:P135 ?answer
+}",1-hop,Q37853
+6537,Where is the tomb of Napoleon?,Q517,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q517 wdt:P119 ?answer
+}",1-hop,Q4992220
+6538,Where is Peter 1 buried?,Q8479,wdt:P119,"SELECT ?answer 
+WHERE {
+  wd:Q8479 wdt:P119 ?answer
+}",1-hop,Q736587
+6539,What dynasty was Peter 1 from?,Q8479,wdt:P53,"SELECT ?answer 
+WHERE {
+  wd:Q8479 wdt:P53 ?answer
+}",1-hop,Q112707
+6540,What is plasticine made of?,Q840688,wdt:P527,"SELECT ?answer 
+WHERE {
+  wd:Q840688 wdt:P527 ?answer
+}",1-hop,"Q161179, Q177540, Q223197, Q583582, Q1055000"
+6541,What genre does I. S. Turgenev's work Fathers and children belong to?,Q29424,wdt:P136,"SELECT ?answer 
+WHERE {
+  wd:Q29424 wdt:P136 ?answer
+}",1-hop,Q8261
+6542,Which band performs the song Hotel California?,Q780394,wdt:P175,"SELECT ?answer 
+WHERE {
+  wd:Q780394 wdt:P175 ?answer
+}",1-hop,Q189635
+6544,What is the cause of Vladimir Etush's death?,Q2545982,wdt:P509,"SELECT ?answer 
+WHERE {
+  wd:Q2545982 wdt:P509 ?answer
+}",1-hop,Q181754
+6545,What is the cause of Sergei Zakharov's death?,Q3329763,wdt:P509,"SELECT ?answer 
+WHERE {
+  wd:Q3329763 wdt:P509 ?answer
+}",1-hop,Q181754
+6546,What was Stalin's military rank?,Q855,wdt:P410,"SELECT ?answer 
+WHERE {
+  wd:Q855 wdt:P410 ?answer
+}",1-hop,"Q125168, Q1501888"
+6548,What is Gradsky's voice like?,Q1964661,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q1964661 wdt:P412 ?answer
+}",1-hop,"Q1471878, Q3983766"
+6549,What kind of voice does Leps have?,Q1187527,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q1187527 wdt:P412 ?answer
+}",1-hop,Q31687
+6551,Which city is the capital of Israel?,Q801,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q801 wdt:P36 ?answer
+}",1-hop,Q1218
+6552,Which city is the capital of Kazakhstan?,Q232,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q232 wdt:P36 ?answer
+}",1-hop,Q1520
+6553,Which city is the capital of Canada?,Q16,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q16 wdt:P36 ?answer
+}",1-hop,Q1930
+6555,Which city is the capital of the state of Louisiana?,Q1588,wdt:P36,"SELECT ?answer 
+WHERE {
+  wd:Q1588 wdt:P36 ?answer
+}",1-hop,Q28218
+6556,What is the singing voice of Dmitri Hvorostovsky?,Q333201,wdt:P412,"SELECT ?answer 
+WHERE {
+  wd:Q333201 wdt:P412 ?answer
+}",1-hop,Q31687
+6557,What is the title worn by Catherine 2?,Q36450,wdt:P97,"SELECT ?answer 
+WHERE {
+  wd:Q36450 wdt:P97 ?answer
+}",1-hop,Q2618625
+6559,Who does Volvo belong to?,Q163810,wdt:P127,"SELECT ?answer 
+WHERE {
+  wd:Q163810 wdt:P127 ?answer
+}",1-hop,Q739000
+6560,Who is the architect of St. Isaac's Cathedral?,Q215423,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q215423 wdt:P84 ?answer
+}",1-hop,Q767288
+6561,Who is the architect of the Kazan Cathedral?,Q404571,wdt:P84,"SELECT ?answer 
+WHERE {
+  wd:Q404571 wdt:P84 ?answer
+}",1-hop,"Q51199, Q4228172"
+6562,Who was Ivan the terrible's mother?,Q7996,wdt:P25,"SELECT ?answer 
+WHERE {
+  wd:Q7996 wdt:P25 ?answer
+}",1-hop,Q240150
+6564,Who made the first printing press?,Q144334,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q144334 wdt:P61 ?answer
+}",1-hop,Q8958
+6567,Who painted the Mona Lisa?,Q12418,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q12418 wdt:P170 ?answer
+}",1-hop,Q762
+6568,Who painted the picture of the Three heroes?,Q4089077,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q4089077 wdt:P170 ?answer
+}",1-hop,Q204138
+6569,Who is the cameraman of the film I'm walking in Moscow?,Q244999,wdt:P344,"SELECT ?answer 
+WHERE {
+  wd:Q244999 wdt:P344 ?answer
+}",1-hop,Q2382967
+6570,Who founded the Toyota company?,Q53268,wdt:P112,"SELECT ?answer 
+WHERE {
+  wd:Q53268 wdt:P112 ?answer
+}",1-hop,Q358556
+6571,Who is Naruto's father?,Q931,wdt:P22,"SELECT ?answer 
+WHERE {
+  wd:Q931 wdt:P22 ?answer
+}",1-hop,Q700540
+6572,Who made the film Kursk?,Q28974564,wdt:P57,"SELECT ?answer 
+WHERE {
+  wd:Q28974564 wdt:P57 ?answer
+}",1-hop,Q314287
+6574,Who is the author of the last day of Pompeii?,Q2521909,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q2521909 wdt:P170 ?answer
+}",1-hop,Q4768
+6575,Where does the Great river go?,Q23550,wdt:P403,"SELECT ?answer 
+WHERE {
+  wd:Q23550 wdt:P403 ?answer
+}",1-hop,Q1144905
+6576,What languages are spoken in Thailand?,Q869,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q869 wdt:P37 ?answer
+}",1-hop,Q9217
+6577,What languages are spoken in India?,Q668,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q668 wdt:P37 ?answer
+}",1-hop,"Q1568, Q1860"
+6578,What languages are spoken in Canada?,Q16,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q16 wdt:P37 ?answer
+}",1-hop,"Q150, Q1860"
+6579,What languages are spoken in France?,Q142,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q142 wdt:P37 ?answer
+}",1-hop,Q150
+6581,On which river is Berlin located?,Q64,wdt:P206,"SELECT ?answer 
+WHERE {
+  wd:Q64 wdt:P206 ?answer
+}",1-hop,"Q1682, Q1684, Q161455, Q300875, Q316287, Q324404, Q562206, Q671428, Q694789, Q697916, Q821135, Q1532109, Q1538524, Q1646276, Q3908364"
+6582,What language is spoken in Austria?,Q40,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q40 wdt:P37 ?answer
+}",1-hop,"Q188, Q36668"
+6583,What language is spoken in Brazil?,Q155,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q155 wdt:P37 ?answer
+}",1-hop,"Q5146, Q750553, Q3436689"
+6584,What language is spoken in Egypt?,Q79,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q79 wdt:P37 ?answer
+}",1-hop,Q13955
+6585,What language is spoken in Montenegro?,Q236,wdt:P37,"SELECT ?answer 
+WHERE {
+  wd:Q236 wdt:P37 ?answer
+}",1-hop,Q8821
+6586,What is the Spook's original language?,Q11835640,wdt:P407,"SELECT ?answer 
+WHERE {
+  wd:Q11835640 wdt:P407 ?answer
+}",1-hop,Q809
+6588,Who is the author of the poem Winter is angry for a reason?,Q19167592,wdt:P50,"SELECT ?answer 
+WHERE {
+  wd:Q19167592 wdt:P50 ?answer
+}",1-hop,Q37217
+6589,What battles did Suvorov participate in?,Q154232,wdt:P607,"SELECT ?answer 
+WHERE {
+  wd:Q154232 wdt:P607 ?answer
+}",1-hop,"Q78994, Q858913, Q1025134, Q1088879, Q1194172, Q1347209, Q1985387, Q2234632, Q2372093, Q2914954"
+6590,In which country was basketball created?,Q5372,wdt:P495,"SELECT ?answer 
+WHERE {
+  wd:Q5372 wdt:P495 ?answer
+}",1-hop,Q30
+6592,In what direction did Alexander Blok write?,Q164765,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q164765 wdt:P135 ?answer
+}",1-hop,Q164800
+6593,In what direction did van Gogh work?,Q5582,wdt:P135,"SELECT ?answer 
+WHERE {
+  wd:Q5582 wdt:P135 ?answer
+}",1-hop,"Q80113, Q166713"
+6594,Who painted the picture of the Girl with peaches?,Q4156438,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q4156438 wdt:P170 ?answer
+}",1-hop,Q217128
+6595,Who is the author of the Mona Lisa?,Q12418,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q12418 wdt:P170 ?answer
+}",1-hop,Q762
+6596,Who drew the black square?,Q1170315,wdt:P170,"SELECT ?answer 
+WHERE {
+  wd:Q1170315 wdt:P170 ?answer
+}",1-hop,Q130777
+6598,Who developed the cell theory?,Q177935,wdt:P61,"SELECT ?answer 
+WHERE {
+  wd:Q177935 wdt:P61 ?answer
+}",1-hop,"Q76432, Q76745, Q76747"
+6599,In what units is mass measured?,Q11423,wdt:P8111,"SELECT ?answer 
+WHERE {
+  wd:Q11423 wdt:P8111 ?answer
+}",1-hop,Q11570
